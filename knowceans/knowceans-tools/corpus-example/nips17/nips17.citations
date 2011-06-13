@@ -1,0 +1,2484 @@
+0000 1987/0001: Abu-Mostafa_Y, NIPS 0, 1987
+0001 1987/0009: Allen_R, Alspector_J, Hu_V, Satyanarayana_S, NIPS 0, 1987
+0002 1987/0022: Atiya_A, NIPS 0, 1987
+0003 1987/0031: Atlas_L, Homma_T, Marks_R, NIPS 0, 1987
+0004 1987/0041: Baldi_P, Venkatesh_S, NIPS 0, 1987
+0005 1987/0052: Baum_E, Wilczek_F, NIPS 0, 1987
+0006 1987/0062: Baxter_W, Dow_B, NIPS 0, 1987
+0007 1987/0072: Bernasconi_J, NIPS 0, 1987
+0008 1987/0082: Borg-Graham_L, NIPS 0, 1987
+0009 1987/0095: Atiya_A, Bower_J, NIPS 0, 1987
+0010 1987/0103: Banik_J, Bower_J, Wong_Y, NIPS 0, 1987
+0011 1987/0114: Bower_J, Wilson_M, NIPS 0, 1987
+0012 1987/0127: Brown_N, NIPS 0, 1987
+0013 1987/0137: Bruck_J, Goodman_J, NIPS 0, 1987
+0014 1987/0144: Burr_D, NIPS 0, 1987
+0015 1987/0154: Carley_L, NIPS 0, 1987
+0016 1987/0164: Cheung_J, Omidvar_M, NIPS 0, 1987
+0017 1987/0174: Chiueh_T, Goodman_R, NIPS 0, 1987
+0018 1987/0184: Chou_P, NIPS 0, 1987
+0019 1987/0192: Chover_J, NIPS 0, 1987
+0020 1987/0201: Coon_D, Perera_A, NIPS 0, 1987
+0021 1987/0211: Dembo_A, Zeitouni_O, NIPS 0, 1987
+0022 1987/0219: Denker_J, Wittner_B, NIPS 0, 1987
+0023 1987/0223: Derthick_M, Tebelskis_J, NIPS 0, 1987
+0024 1987/0233: Dreyfus_G, Guyon_I, Nadal_J, Personnaz_L, NIPS 0, 1987
+0025 1987/0242: Eeckman_F, NIPS 0, 1987
+0026 1987/0249: Ersu_E, Tolle_H, NIPS 0, 1987
+0027 1987/0262: Fernandez_M, NIPS 0, 1987
+0028 1987/0270: Fetz_E, NIPS 0, 1987
+0029 1987/0278: Fleisher_M, NIPS 0, 1987
+0030 1987/0290: Gately_M, NIPS 0, 1987
+0031 1987/0297: Gaudiano_P, NIPS 0, 1987
+0032 1987/0301: Giles_C, Griffin_R, Maxwell_T, NIPS 0, 1987
+0033 1987/0310: Golden_R, NIPS 0, 1987
+0034 1987/0317: Ambros-Ingerson_J, Granger_R, Henry_H, Lynch_G, NIPS 0, 1987
+0035 1987/0338: Hammerstrom_D, NIPS 0, 1987
+0036 1987/0348: Burr_D, Hanson_S, NIPS 0, 1987
+0037 1987/0358: Hinton_G, McClelland_J, NIPS 0, 1987
+0038 1987/0367: Houk_J, NIPS 0, 1987
+0039 1987/0377: Brady_D, Hsu_K, Psaltis_D, NIPS 0, 1987
+0040 1987/0387: Huang_W, Lippmann_R, NIPS 0, 1987
+0041 1987/0397: Jang_J, Lee_S, Shin_S, NIPS 0, 1987
+0042 1987/0402: Kanwal_J, NIPS 0, 1987
+0043 1987/0412: Keeler_J, NIPS 0, 1987
+0044 1987/0422: Hutchinson_J, Koch_C, Luo_J, Mead_C, NIPS 0, 1987
+0045 1987/0432: Kuh_A, NIPS 0, 1987
+0046 1987/0442: Farber_R, Lapedes_A, NIPS 0, 1987
+0047 1987/0457: Honrubia_V, Lau_C, NIPS 0, 1987
+0048 1987/0467: Brandeis_D, Horst_A, Lehmann_D, Ozaki_H, Pal_I, NIPS 0, 1987
+0049 1987/0474: Leong_H, NIPS 0, 1987
+0050 1987/0485: Linsker_R, NIPS 0, 1987
+0051 1987/0495: Loos_H, NIPS 0, 1987
+0052 1987/0505: MacDonald_B, NIPS 0, 1987
+0053 1987/0515: Denker_J, Graf_H, Mackie_S, Schwartz_D, NIPS 0, 1987
+0054 1987/0524: Marcus_C, Westervelt_R, NIPS 0, 1987
+0055 1987/0534: Atlas_L, Marks_R, Oh_S, Ritcey_J, NIPS 0, 1987
+0056 1987/0544: Mel_B, NIPS 0, 1987
+0057 1987/0554: Farrell_J, Michel_A, Porod_W, NIPS 0, 1987
+0058 1987/0564: Khanna_S, Langenbacher_H, Moopenn_A, Thakoor_A, NIPS 0, 1987
+0059 1987/0573: Butler_Z, Murray_A, Smith_A, NIPS 0, 1987
+0060 1987/0584: Noest_A, NIPS 0, 1987
+0061 1987/0592: Dickinson_B, Petsche_T, NIPS 0, 1987
+0062 1987/0602: Pineda_F, NIPS 0, 1987
+0063 1987/0612: Barr_A, Platt_J, NIPS 0, 1987
+0064 1987/0622: Hurlbert_A, Poggio_T, NIPS 0, 1987
+0065 1987/0632: Fallside_F, Robinson_A, NIPS 0, 1987
+0066 1987/0642: Goodwin_J, Rosen_B, Vidal_J, NIPS 0, 1987
+0067 1987/0652: Rosenfeld_R, Touretzky_D, NIPS 0, 1987
+0068 1987/0662: Mastebroek_H, Schuling_F, Zaagman_W, NIPS 0, 1987
+0069 1987/0674: Cooper_L, Elbaurn_C, Reilly_D, Scofield_C, NIPS 0, 1987
+0070 1987/0683: Scofield_C, NIPS 0, 1987
+0071 1987/0693: Macy_S, Shepanski_J, NIPS 0, 1987
+0072 1987/0701: Siegel_R, NIPS 0, 1987
+0073 1987/0709: Noetzel_A, Silverman_R, NIPS 0, 1987
+0074 1987/0715: Donoghue_J, Singer_A, NIPS 0, 1987
+0075 1987/0730: Smolensky_P, NIPS 0, 1987
+0076 1987/0740: Dikaiakos_M, Kontoravdis_D, Stafylopatis_A, NIPS 0, 1987
+0077 1987/0750: Hogg_T, Huberman_B, Stornetta_W, NIPS 0, 1987
+0078 1987/0760: Chen_H, Lee_Y, Sun_G, NIPS 0, 1987
+0079 1987/0767: Arimoto_S, Suzuki_H, NIPS 0, 1987
+0080 1987/0775: Page_E, Tagliarini_G, NIPS 0, 1987
+0081 1987/0783: Tenorio_M, NIPS 0, 1987
+0082 1987/0794: Sejnowski_T, Tesauro_G, NIPS 0, 1987
+0083 1987/0804: Tomboulian_S, NIPS 0, 1987
+0084 1987/0814: Salehi_J, Vecchi_M, NIPS 0, 1987
+0085 1987/0824: Haggerty_J, Vidal_J, NIPS 0, 1987
+0086 1987/0830: Wechsler_H, Zimmerman_G, NIPS 0, 1987
+0087 1987/0840: Windecker_R, NIPS 0, 1987
+0088 1987/0850: Denker_J, Wittner_B, NIPS 0, 1987
+0089 1987/0860: Standley_D, Wyatt_J, NIPS 0, 1987
+0090 1988/0002: Gluck_M, Henkle_V, Pavel_M, NIPS 1, 1988
+0091 1988/0011: Sanger_T, NIPS 1, 1988
+0092 1988/0020: Ackley_D, NIPS 1, 1988
+0093 1988/0029: Moody_J, NIPS 1, 1988
+0094 1988/0040: Kramer_A, Sangiovanni-Vincentelli_A, NIPS 1, 1988
+0095 1988/0049: Davis_L, NIPS 1, 1988
+0096 1988/0057: Lee_W, Tenorio_M, NIPS 1, 1988
+0097 1988/0065: Baldi_P, NIPS 1, 1988
+0098 1988/0073: Domany_E, Grossman_T, Meir_R, NIPS 1, 1988
+0099 1988/0081: Baum_E, Haussler_D, NIPS 1, 1988
+0100 1988/0091: Bilbro_G, Mann_R, Miller_T, Snyder_W, VandenBout_D, White_M, NIPS 1, 1988
+0101 1988/0099: Tesauro_G, NIPS 1, 1988
+0102 1988/0107: Mozer_M, Smolensky_P, NIPS 1, 1988
+0103 1988/0116: Gersho_A, Yair_E, NIPS 1, 1988
+0104 1988/0124: Beckman_P, Lippmann_R, NIPS 1, 1988
+0105 1988/0133: Singhal_S, Wu_L, NIPS 1, 1988
+0106 1988/0141: Galland_C, Hinton_G, LeCun_Y, NIPS 1, 1988
+0107 1988/0149: Ballard_D, Oftaway_M, Simard_P, NIPS 1, 1988
+0108 1988/0160: Ahmad_S, Tesauro_G, NIPS 1, 1988
+0109 1988/0169: Tawel_R, NIPS 1, 1988
+0110 1988/0177: Hanson_S, Pratt_L, NIPS 1, 1988
+0111 1988/0186: Linsker_R, NIPS 1, 1988
+0112 1988/0195: Gluck_M, Parker_D, Reifsnider_E, NIPS 1, 1988
+0113 1988/0206: Leung_H, Zue_V, NIPS 1, 1988
+0114 1988/0215: Waibel_A, NIPS 1, 1988
+0115 1988/0224: Bengio_Y, Cardin_R, Cosi_P, De-Mori_R, NIPS 1, 1988
+0116 1988/0232: Komura_M, Tanaka_A, NIPS 1, 1988
+0117 1988/0240: Smythe_E, NIPS 1, 1988
+0118 1988/0248: Bradshaw_G, Ceci_L, Fozzard_R, NIPS 1, 1988
+0119 1988/0256: Goodman_R, Miller_J, Smyth_P, NIPS 1, 1988
+0120 1988/0264: Naillon_M, Theeten_J, NIPS 1, 1988
+0121 1988/0272: Aazhang_B, Orsak_G, Paris_B, Varanasi_M, NIPS 1, 1988
+0122 1988/0281: Ahalt_S, Garber_F, Jouny_I, Krishnamurthy_A, NIPS 1, 1988
+0123 1988/0289: Cunningham_R, Seibert_M, Waxman_A, Wu_J, NIPS 1, 1988
+0124 1988/0297: Hurlbert_A, Poggio_T, NIPS 1, 1988
+0125 1988/0305: Pomerleau_D, NIPS 1, 1988
+0126 1988/0314: Alvelda_P, SanMartin_A, NIPS 1, 1988
+0127 1988/0323: Baird_H, Denker_J, Gardner_W, Graf_H, Guyon_I, Henderson_D, Howard_R, Hubbard_W, Jackel_L, NIPS 1, 1988
+0128 1988/0332: Mori_Y, Yokosawa_K, NIPS 1, 1988
+0129 1988/0340: Goodman_J, Mighell_D, Wilkinson_T, NIPS 1, 1988
+0130 1988/0348: Mel_B, NIPS 1, 1988
+0131 1988/0356: Goldberg_K, Pearlmutter_B, NIPS 1, 1988
+0132 1988/0366: Gelfand_J, Pearson_J, Peterson_R, Spence_C, Sullivan_W, NIPS 1, 1988
+0133 1988/0375: Keller_J, Miller_K, Stryker_M, NIPS 1, 1988
+0134 1988/0384: Bower_J, Mead_C, Ryckebusch_S, NIPS 1, 1988
+0135 1988/0394: Sejnowski_T, Stanton_P, NIPS 1, 1988
+0136 1988/0402: Hopfield_J, Li_Z, NIPS 1, 1988
+0137 1988/0410: Bower_J, Nelson_M, Paulin_M, NIPS 1, 1988
+0138 1988/0419: Alkon_D, Quek_F, Vogl_T, NIPS 1, 1988
+0139 1988/0436: Assad_C, Bower_J, Nelson_M, Rasnow_B, NIPS 1, 1988
+0140 1988/0444: Miller_J, Zhang_J, NIPS 1, 1988
+0141 1988/0451: Tanaka_S, NIPS 1, 1988
+0142 1988/0459: Baird_B, NIPS 1, 1988
+0143 1988/0468: Sereno_M, NIPS 1, 1988
+0144 1988/0477: Arethor_F, Grzywacz_N, NIPS 1, 1988
+0145 1988/0485: Bhalla_U, Bower_J, Uhley_J, Wilson_M, NIPS 1, 1988
+0146 1988/0494: Blum_A, Rivest_R, NIPS 1, 1988
+0147 1988/0502: Bourlard_H, Wellekens_C, NIPS 1, 1988
+0148 1988/0511: Cheng_R, Karo_M, NIPS 1, 1988
+0149 1988/0519: Chauvin_Y, NIPS 1, 1988
+0150 1988/0527: Pollack_J, NIPS 1, 1988
+0151 1988/0537: Santos_E, NIPS 1, 1988
+0152 1988/0545: Dyer_M, Lange_T, NIPS 1, 1988
+0153 1988/0553: Hendler_J, NIPS 1, 1988
+0154 1988/0560: Borisyuk_G, Borisyuk_R, Chulaevsky_V, Kirillov_A, Kovalenko_Y, Kryukov_V, Makarenko_V, NIPS 1, 1988
+0155 1988/0568: Marcus_C, Westervelt_R, NIPS 1, 1988
+0156 1988/0577: Beer_R, Chiel_H, Sterling_L, NIPS 1, 1988
+0157 1988/0586: Rogers_D, NIPS 1, 1988
+0158 1988/0594: Bilbro_G, Snyder_W, NIPS 1, 1988
+0159 1988/0602: Leinbach_J, NIPS 1, 1988
+0160 1988/0610: Kryukov_V, NIPS 1, 1988
+0161 1988/0618: Anandan_P, Gindi_G, Mjolsness_E, NIPS 1, 1988
+0162 1988/0626: Touretzky_D, NIPS 1, 1988
+0163 1988/0634: Abu-Mostafa_Y, Erlanson_R, Majani_E, NIPS 1, 1988
+0164 1988/0643: Cleeremans_A, McClelland_J, Servan-Schreiber_D, NIPS 1, 1988
+0165 1988/0653: Winter_C, NIPS 1, 1988
+0166 1988/0662: Eisenberg_J, Feld_D, Lewis_E, NIPS 1, 1988
+0167 1988/0671: Hamilton_A, Murray_A, Tarassenko_L, NIPS 1, 1988
+0168 1988/0678: Cole_C, Meador_J, NIPS 1, 1988
+0169 1988/0687: Harris_J, NIPS 1, 1988
+0170 1988/0695: Darling_R, Nabet_B, Pinter_R, NIPS 1, 1988
+0171 1988/0703: Lazzaro_J, Mahowald_M, Mead_C, Ryckebusch_S, NIPS 1, 1988
+0172 1988/0712: Blackman_D, Chiu_T, Clare_T, Dao_J, Donham_C, Hsieh_T, Loinaz_M, Mueller_P, VanderSpiegel_J, NIPS 1, 1988
+0173 1988/0720: Delbruck_T, Mead_C, NIPS 1, 1988
+0174 1988/0728: Allinson_N, Johnson_M, Moon_K, NIPS 1, 1988
+0175 1988/0739: Gilbert_S, Mann_J, NIPS 1, 1988
+0176 1988/0748: Allen_R, Alspector_J, Gupta_B, NIPS 1, 1988
+0177 1988/0761: Howard_R, Hubbard_W, Schwartz_D, NIPS 1, 1988
+0178 1988/0769: Hartstein_A, Koch_R, NIPS 1, 1988
+0179 1988/0777: Afghan_A, Akers_L, Haghighi_S, Walker_M, NIPS 1, 1988
+0180 1988/0785: Andreou_A, NIPS 1, 1988
+0181 1988/0794: Braitenberg_V, NIPS 1, 1988
+0182 1988/0795: Konishi_M, NIPS 1, 1988
+0183 1988/0796: Bridle_J, NIPS 1, 1988
+0184 1988/0802: Miller_J, NIPS 1, 1988
+0185 1989/0002: Simmons_J, NIPS 2, 1989
+0186 1989/0010: Pearson_J, Spence_C, NIPS 2, 1989
+0187 1989/0018: Harris-Warrick_R, NIPS 2, 1989
+0188 1989/0028: Fang_Y, Lockery_S, Sejnowski_T, NIPS 2, 1989
+0189 1989/0036: Bialek_W, DeRuyterVanSteveninck_R, Rieke_F, Warland_D, NIPS 2, 1989
+0190 1989/0044: Beer_R, Chiel_H, NIPS 2, 1989
+0191 1989/0052: Grajski_K, Merzenich_M, NIPS 2, 1989
+0192 1989/0060: Bower_J, Nelson_M, NIPS 2, 1989
+0193 1989/0068: Baird_B, NIPS 2, 1989
+0194 1989/0076: Holmes_P, Kammen_D, Koch_C, NIPS 2, 1989
+0195 1989/0084: Bower_J, Wilson_M, NIPS 2, 1989
+0196 1989/0092: Cowan_J, Friedman_A, NIPS 2, 1989
+0197 1989/0100: Cohen_J, Printz_H, Servan-Schreiber_D, NIPS 2, 1989
+0198 1989/0109: Bialek_W, Crair_M, NIPS 2, 1989
+0199 1989/0117: Bower_J, Lee_M, NIPS 2, 1989
+0200 1989/0125: Kammen_D, Softky_W, NIPS 2, 1989
+0201 1989/0133: Chemjavsky_A, Moody_J, NIPS 2, 1989
+0202 1989/0141: Fetz_E, Kenyon_G, Puff_R, NIPS 2, 1989
+0203 1989/0149: Rhodes_P, NIPS 2, 1989
+0204 1989/0160: Tang_D, NIPS 2, 1989
+0205 1989/0168: Lee_Y, Lippmann_R, NIPS 2, 1989
+0206 1989/0178: Hinton_G, Lang_K, NIPS 2, 1989
+0207 1989/0186: Bourlard_H, Morgan_N, NIPS 2, 1989
+0208 1989/0194: Huang_W, Lippmann_R, NIPS 2, 1989
+0209 1989/0203: Hampshire_J, Waibel_A, NIPS 2, 1989
+0210 1989/0211: Bridle_J, NIPS 2, 1989
+0211 1989/0218: Bengio_Y, Cardin_R, De-Mori_R, NIPS 2, 1989
+0212 1989/0226: Mann_J, NIPS 2, 1989
+0213 1989/0232: Goldstein_M, Jenkins_R, Sejnowski_T, Yuhas_B, NIPS 2, 1989
+0214 1989/0240: Lee_S, NIPS 2, 1989
+0215 1989/0248: Malkoff_D, NIPS 2, 1989
+0216 1989/0258: Seibert_M, Waxman_A, NIPS 2, 1989
+0217 1989/0266: Hinton_G, Mozer_M, Zemel_R, NIPS 2, 1989
+0218 1989/0274: Btilthoff_H, Edelman_S, Weinshall_D, NIPS 2, 1989
+0219 1989/0282: Kanerva_P, NIPS 2, 1989
+0220 1989/0290: Viola_P, NIPS 2, 1989
+0221 1989/0298: Inui_T, Kawato_M, Miyake_S, Okamoto_T, NIPS 2, 1989
+0222 1989/0308: Donnett_J, Smithers_T, NIPS 2, 1989
+0223 1989/0316: Atkeson_C, NIPS 2, 1989
+0224 1989/0324: Jacobs_R, Jordan_M, NIPS 2, 1989
+0225 1989/0332: Hormel_M, NIPS 2, 1989
+0226 1989/0340: Carter_M, Nucci_A, Rudolph_F, NIPS 2, 1989
+0227 1989/0348: Dembo_A, Farotimi_O, Kailath_T, NIPS 2, 1989
+0228 1989/0355: Reklaitis_G, Tenorio_M, Tsirukis_A, NIPS 2, 1989
+0229 1989/0364: Jain_A, Waibel_A, NIPS 2, 1989
+0230 1989/0372: Touretzky_D, Wheeler_D, NIPS 2, 1989
+0231 1989/0380: Chen_D, Chen_H, Giles_C, Lee_Y, Sun_G, NIPS 2, 1989
+0232 1989/0388: Miller_M, Smith_K, NIPS 2, 1989
+0233 1989/0396: Boser_B, Denker_J, Henderson_D, Howard_R, Hubbard_W, Jackel_L, LeCun_Y, NIPS 2, 1989
+0234 1989/0405: Martin_G, Pittman_J, NIPS 2, 1989
+0235 1989/0415: Joe_K, Mori_Y, NIPS 2, 1989
+0236 1989/0423: Agin_P, Bengio_S, Bengio_Y, Pouliot_Y, NIPS 2, 1989
+0237 1989/0431: Elvgren_G, Touretzky_D, NIPS 2, 1989
+0238 1989/0439: Bachrach_J, Mozer_M, NIPS 2, 1989
+0239 1989/0447: Guha_A, Harp_S, Samad_T, NIPS 2, 1989
+0240 1989/0455: Rogers_D, NIPS 2, 1989
+0241 1989/0465: Tesauro_G, Wejchert_J, NIPS 2, 1989
+0242 1989/0474: Koch_C, Mel_B, NIPS 2, 1989
+0243 1989/0482: Keeler_J, Saha_A, NIPS 2, 1989
+0244 1989/0490: Bell_A, NIPS 2, 1989
+0245 1989/0498: Barhen_J, Gulati_S, Toomarian_N, NIPS 2, 1989
+0246 1989/0509: Galland_C, Hinton_G, NIPS 2, 1989
+0247 1989/0516: Grossman_T, NIPS 2, 1989
+0248 1989/0524: Fahlman_S, Lebiere_C, NIPS 2, 1989
+0249 1989/0533: Hanson_S, NIPS 2, 1989
+0250 1989/0542: Kassebaum_J, Schaefers_C, Tenorio_M, NIPS 2, 1989
+0251 1989/0550: Ackley_D, Littman_M, NIPS 2, 1989
+0252 1989/0558: Rohwer_R, NIPS 2, 1989
+0253 1989/0566: Atlas_L, Cohn_D, Ladnet_R, NIPS 2, 1989
+0254 1989/0574: Nowlan_S, NIPS 2, 1989
+0255 1989/0583: Toomarian_N, Zak_M, NIPS 2, 1989
+0256 1989/0590: Abu-Mostafa_Y, Atiya_A, NIPS 2, 1989
+0257 1989/0598: Denker_J, LeCun_Y, Solla_S, NIPS 2, 1989
+0258 1989/0606: Ahmad_S, He_Y, Tesauro_G, NIPS 2, 1989
+0259 1989/0614: Blanz_W, Gish_S, NIPS 2, 1989
+0260 1989/0622: Atlas_L, Barnard_E, Cole_R, Connor_J, El-Sharkawi_M, Marks_R, Muthusamy_Y, NIPS 2, 1989
+0261 1989/0630: Bourlard_H, Morgan_N, NIPS 2, 1989
+0262 1989/0638: Zipser_D, NIPS 2, 1989
+0263 1989/0642: Chauvin_Y, NIPS 2, 1989
+0264 1989/0650: Lincoln_W, Skrzypek_J, NIPS 2, 1989
+0265 1989/0660: Geiger_D, Girosi_F, NIPS 2, 1989
+0266 1989/0668: Dembo_A, Kailath_T, Siu_K, NIPS 2, 1989
+0267 1989/0676: Baum_E, NIPS 2, 1989
+0268 1989/0686: Barto_A, Sutton_R, Watkins_C, NIPS 2, 1989
+0269 1989/0694: MacKay_D, Miller_K, NIPS 2, 1989
+0270 1989/0702: Obradovic_Z, Parberry_I, NIPS 2, 1989
+0271 1989/0710: Pineda_F, NIPS 2, 1989
+0272 1989/0719: Intrator_N, NIPS 2, 1989
+0273 1989/0727: Baldi_P, Rinott_Y, Stein_C, NIPS 2, 1989
+0274 1989/0733: Hertz_J, Krogh_A, Thorbergsson_C, NIPS 2, 1989
+0275 1989/0742: DeWeerth_S, Mead_C, NIPS 2, 1989
+0276 1989/0750: Bair_W, Harris_J, Horiuchi_T, Hsu_A, Koch_C, Luo_J, NIPS 2, 1989
+0277 1989/0758: Graf_H, Satyanarayana_S, Tsividis_Y, NIPS 2, 1989
+0278 1989/0769: Duong_T, Moopenn_A, Thakoor_A, NIPS 2, 1989
+0279 1989/0777: Platt_J, NIPS 2, 1989
+0280 1989/0785: Brownlow_M, Hamilton_A, Han_I, Murray_A, Reekie_H, Tarassenko_L, NIPS 2, 1989
+0281 1989/0793: Chiueh_T, Goodman_R, NIPS 2, 1989
+0282 1989/0801: Mckenna_M, Mesirov_J, Waltz_D, Zhang_X, NIPS 2, 1989
+0283 1989/0810: Fortes_J, Nunez_F, NIPS 2, 1989
+0284 1989/0818: Smotroff_I, NIPS 2, 1989
+0285 1989/0828: Cowan_J, NIPS 2, 1989
+0286 1990/0003: Cowen_J, Friedman_A, NIPS 3, 1990
+0287 1990/0011: Obermayer_K, Ritter_H, Schulten_K, NIPS 3, 1990
+0288 1990/0018: Tanaka_S, NIPS 3, 1990
+0289 1990/0026: Cowen_J, Friedman_A, NIPS 3, 1990
+0290 1990/0032: Anastasio_T, NIPS 3, 1990
+0291 1990/0039: Brown_T, Claiborne_B, Mainen_Z, Zador_A, NIPS 3, 1990
+0292 1990/0046: Anderson_B, Bower_J, Hasselmo_M, NIPS 3, 1990
+0293 1990/0055: Abbott_L, Kepler_T, Marder_E, NIPS 3, 1990
+0294 1990/0062: Cowen_J, NIPS 3, 1990
+0295 1990/0070: Leen_T, NIPS 3, 1990
+0296 1990/0077: Miranker_W, Mjolsness_E, NIPS 3, 1990
+0297 1990/0084: Gerstner_W, NIPS 3, 1990
+0298 1990/0091: Baird_B, Eeckman_F, NIPS 3, 1990
+0299 1990/0098: Marcus_C, Waugh_F, Westervelt_R, NIPS 3, 1990
+0300 1990/0105: Raysz_J, Simard_P, Victorri_B, NIPS 3, 1990
+0301 1990/0113: Barhen_J, Toomarian_N, NIPS 3, 1990
+0302 1990/0123: Kammen_D, Koch_C, Niebur_E, Ruderman_D, Schuster_H, NIPS 3, 1990
+0303 1990/0130: Longtin_A, NIPS 3, 1990
+0304 1990/0137: Bialek_W, Kruglyak_L, NIPS 3, 1990
+0305 1990/0147: Levin_E, NIPS 3, 1990
+0306 1990/0155: Bodenhausen_U, Waibel_A, NIPS 3, 1990
+0307 1990/0162: DeVries_B, Principe_J, NIPS 3, 1990
+0308 1990/0169: Sorheim_E, NIPS 3, 1990
+0309 1990/0176: Herz_A, Li_Z, VanHemmen_J, NIPS 3, 1990
+0310 1990/0183: Kuh_A, Petsche_T, Rivest_R, NIPS 3, 1990
+0311 1990/0190: Fahlman_S, NIPS 3, 1990
+0312 1990/0199: Petek_B, Schmidbauer_O, Tebelskis_J, Waibel_A, NIPS 3, 1990
+0313 1990/0206: Allen_R, Kamm_C, NIPS 3, 1990
+0314 1990/0213: Bourlard_H, Morgan_N, Wooters_C, NIPS 3, 1990
+0315 1990/0220: Cole_R, Fanty_M, NIPS 3, 1990
+0316 1990/0227: Iso_K, Watanabe_T, NIPS 3, 1990
+0317 1990/0234: Bridle_J, Cox_S, NIPS 3, 1990
+0318 1990/0241: Intrator_N, NIPS 3, 1990
+0319 1990/0248: Glass_J, Leung_H, Phillips_M, Zue_V, NIPS 3, 1990
+0320 1990/0255: Glass_J, Goodine_D, Hirschman_L, Leung_H, Phillips_M, Polifroni_J, Seneft_S, Zue_V, NIPS 3, 1990
+0321 1990/0262: Choukri_K, NIPS 3, 1990
+0322 1990/0273: Moore_P, Nachtigall_P, Penner_R, Roitblat_H, NIPS 3, 1990
+0323 1990/0282: Tam_D, NIPS 3, 1990
+0324 1990/0289: Pearson_J, Spence_C, Sverdlove_R, NIPS 3, 1990
+0325 1990/0299: Hinton_G, Zemel_R, NIPS 3, 1990
+0326 1990/0306: Tresp_V, NIPS 3, 1990
+0327 1990/0313: Goggin_S, Gustafson_K, Johnson_K, NIPS 3, 1990
+0328 1990/0320: Sereno_M, NIPS 3, 1990
+0329 1990/0327: Khotanzad_A, Lee_Y, NIPS 3, 1990
+0330 1990/0335: Shashua_A, Ullman_S, NIPS 3, 1990
+0331 1990/0342: Mingolla_E, NIPS 3, 1990
+0332 1990/0349: Koch_C, Mathur_B, Wang_H, NIPS 3, 1990
+0333 1990/0356: Weinshall_D, NIPS 3, 1990
+0334 1990/0363: Bialek_W, Ruderman_D, Zee_A, NIPS 3, 1990
+0335 1990/0370: Allman_J, Fox_G, Goodman_R, Moore_A, NIPS 3, 1990
+0336 1990/0377: Bialek_W, Owen_W, Rieke_F, NIPS 3, 1990
+0337 1990/0384: Eeckman_F, Teeters_J, Werblin_F, NIPS 3, 1990
+0338 1990/0391: Skrzypek_J, NIPS 3, 1990
+0339 1990/0399: Bair_W, Koch_C, NIPS 3, 1990
+0340 1990/0406: Horiuchi_T, Koch_C, Lazzaro_J, Moore_A, NIPS 3, 1990
+0341 1990/0415: Chauvin_Y, Golden_R, Henkle_V, Schley_C, NIPS 3, 1990
+0342 1990/0422: Brownlow_M, Marshall_G, Murray_A, Tarassenko_L, Tombs_J, NIPS 3, 1990
+0343 1990/0429: Pomerleau_D, NIPS 3, 1990
+0344 1990/0436: Katayama_M, Kawato_M, NIPS 3, 1990
+0345 1990/0443: Cummings_K, Frye_R, Reitman_E, NIPS 3, 1990
+0346 1990/0450: Linden_A, Moller_K, Thrun_S, NIPS 3, 1990
+0347 1990/0457: Bachrach_J, NIPS 3, 1990
+0348 1990/0464: Dayan_P, NIPS 3, 1990
+0349 1990/0471: Sutton_R, NIPS 3, 1990
+0350 1990/0479: Guha_A, NIPS 3, 1990
+0351 1990/0486: Goodwin_J, Rosen_B, Vidal_J, NIPS 3, 1990
+0352 1990/0493: Guyon_I, Milito_R, Solla_S, NIPS 3, 1990
+0353 1990/0500: Schmidhuber_J, NIPS 3, 1990
+0354 1990/0507: Beer_R, Chiel_H, Kacmarcik_G, Ritzmann_R, NIPS 3, 1990
+0355 1990/0514: Faller_W, Luttges_M, NIPS 3, 1990
+0356 1990/0523: Bohr_H, Bohr_J, Brunak_S, Cotterill_R, Fredholm_H, Lautmp_B, Petersen_S, NIPS 3, 1990
+0357 1990/0530: Noordewier_M, Shavlik_J, Towell_G, NIPS 3, 1990
+0358 1990/0537: Marko_K, NIPS 3, 1990
+0359 1990/0544: Baumgardt_D, Perry_J, NIPS 3, 1990
+0360 1990/0551: Collard_J, NIPS 3, 1990
+0361 1990/0557: Keeler_J, Leow_W, Rumelhart_D, NIPS 3, 1990
+0362 1990/0564: Cottrell_G, Metcalfe_J, NIPS 3, 1990
+0363 1990/0572: Golomb_B, Lawrence_D, Sejnowski_T, NIPS 3, 1990
+0364 1990/0578: Hayashi_Y, NIPS 3, 1990
+0365 1990/0585: Abu-Mostafa_Y, Erlanson_R, NIPS 3, 1990
+0366 1990/0591: Legendre_G, Miyata_Y, Smolensky_P, NIPS 3, 1990
+0367 1990/0598: Munro_P, Tabasko_M, NIPS 3, 1990
+0368 1990/0605: Gasser_M, Lee_C, NIPS 3, 1990
+0369 1990/0612: Touretzky_D, Wheeler_D, NIPS 3, 1990
+0370 1990/0619: Pollack_J, NIPS 3, 1990
+0371 1990/0627: Mozer_M, NIPS 3, 1990
+0372 1990/0635: Bain_J, Dennis_S, Humphreys_M, Wiles_J, NIPS 3, 1990
+0373 1990/0642: Ruppin_E, Yeshurun_Y, NIPS 3, 1990
+0374 1990/0649: Kruschke_J, NIPS 3, 1990
+0375 1990/0656: Gluck_M, Hanson_S, NIPS 3, 1990
+0376 1990/0665: Kannappan_S, Shepard_R, NIPS 3, 1990
+0377 1990/0675: Freidman_J, NIPS 3, 1990
+0378 1990/0684: Flax_M, Gelfand_J, Handelman_D, Lane_S, NIPS 3, 1990
+0379 1990/0693: Omohundro_S, NIPS 3, 1990
+0380 1990/0700: Sanger_T, NIPS 3, 1990
+0381 1990/0707: Atkeson_C, Botros_S, NIPS 3, 1990
+0382 1990/0714: Platt_J, NIPS 3, 1990
+0383 1990/0721: Fallside_F, Kadirkamanathan_V, Niranjan_M, NIPS 3, 1990
+0384 1990/0728: Christian_J, Saha_A, Tang_D, Wu_C, NIPS 3, 1990
+0385 1990/0735: Baldi_P, NIPS 3, 1990
+0386 1990/0743: Krishnaprasad_P, Pati_Y, NIPS 3, 1990
+0387 1990/0750: Caprile_B, Girosi_F, Poggio_T, NIPS 3, 1990
+0388 1990/0757: Mel_B, Omohundro_S, NIPS 3, 1990
+0389 1990/0767: Jacobs_R, Jordan_M, NIPS 3, 1990
+0390 1990/0774: Hinton_G, Nowlan_S, NIPS 3, 1990
+0391 1990/0781: Bottou_L, Gallinari_P, NIPS 3, 1990
+0392 1990/0789: Mozer_M, Soukup_T, NIPS 3, 1990
+0393 1990/0797: Chang_E, Lippmann_R, NIPS 3, 1990
+0394 1990/0804: Keesing_R, Stork_D, NIPS 3, 1990
+0395 1990/0811: Fine_T, NIPS 3, 1990
+0396 1990/0818: Smyth_P, NIPS 3, 1990
+0397 1990/0825: Gupta_A, Maass_W, NIPS 3, 1990
+0398 1990/0832: Darken_C, Moody_J, NIPS 3, 1990
+0399 1990/0839: Baras_J, LaVigna_A, NIPS 3, 1990
+0400 1990/0846: Bilbro_G, VandenBout_D, NIPS 3, 1990
+0401 1990/0853: Denker_J, LeCun_Y, NIPS 3, 1990
+0402 1990/0860: Kolen_J, Pollack_J, NIPS 3, 1990
+0403 1990/0868: Rossen_M, NIPS 3, 1990
+0404 1990/0875: Huberman_B, Rumelhart_D, Weigend_A, NIPS 3, 1990
+0405 1990/0883: Biswas_S, Venkatesh_S, NIPS 3, 1990
+0406 1990/0890: Chauvin_Y, NIPS 3, 1990
+0407 1990/0897: Hertz_J, Krogh_A, NIPS 3, 1990
+0408 1990/0904: Baum_E, Lang_K, NIPS 3, 1990
+0409 1990/0911: Cohn_D, Tesauro_G, NIPS 3, 1990
+0410 1990/0918: Kanter_I, LeCun_Y, Solla_S, NIPS 3, 1990
+0411 1990/0925: Pearlmutter_B, Rosenfeld_R, NIPS 3, 1990
+0412 1990/0932: Psaltis_D, Snapp_R, Venkatesh_S, NIPS 3, 1990
+0413 1990/0939: Sontag_E, NIPS 3, 1990
+0414 1990/0946: Williamson_R, NIPS 3, 1990
+0415 1990/0953: Kailath_T, Orlitsky_A, Roychowdhury_V, Siu_K, NIPS 3, 1990
+0416 1990/0963: Pearson_R, Tsoi_A, NIPS 3, 1990
+0417 1990/0970: Lippmann_R, Ng_K, NIPS 3, 1990
+0418 1990/0977: Rohwer_R, NIPS 3, 1990
+0419 1990/0984: Bilbro_G, Nissman_D, Snyder_W, VandenBout_D, NIPS 3, 1990
+0420 1990/0993: Holler_M, NIPS 3, 1990
+0421 1990/1001: Chu_R, Ko_P, Kramer_A, Sin_C, NIPS 3, 1990
+0422 1990/1008: Samalam_V, Schwartz_D, NIPS 3, 1990
+0423 1990/1015: Allen_R, Alspector_J, Jayakumar_A, Meir_R, Zeppenfeld_T, NIPS 3, 1990
+0424 1990/1022: Box_B, Glynn_J, Miller_W, Whitney_E, NIPS 3, 1990
+0425 1990/1028: McCartor_H, NIPS 3, 1990
+0426 1990/1032: Graf_H, Henderson_D, Janow_R, Lee_R, NIPS 3, 1990
+0427 1990/1039: Chiang_A, Chuang_M, NIPS 3, 1990
+0428 1990/1046: Melton_M, Phan_T, Reeves_D, VandenBout_D, NIPS 3, 1990
+0429 1991/0003: Hobson_J, Mamelak_A, Sutton_J, NIPS 4, 1991
+0430 1991/0011: Sydorenko_M, Young_E, NIPS 4, 1991
+0431 1991/0019: Dayan_P, Goodhill_G, NIPS 4, 1991
+0432 1991/0027: Bialek_W, DeRuyterVanSteveninck_R, NIPS 4, 1991
+0433 1991/0035: Mel_B, NIPS 4, 1991
+0434 1991/0043: Bernander_O, Douglas_R, Koch_C, NIPS 4, 1991
+0435 1991/0051: Brown_T, Claiborne_B, Zador_A, NIPS 4, 1991
+0436 1991/0059: Bell_A, NIPS 4, 1991
+0437 1991/0067: Bulsara_A, Jacobs_E, Moss_Moss, NIPS 4, 1991
+0438 1991/0075: Bonds_A, NIPS 4, 1991
+0439 1991/0083: Blasdel_G, Obermayer_K, Schulten_K, NIPS 4, 1991
+0440 1991/0091: Keesing_R, Shatz_C, Stork_D, NIPS 4, 1991
+0441 1991/0101: Buchanan_J, NIPS 4, 1991
+0442 1991/0109: Doya_K, Yoshizawa_S, NIPS 4, 1991
+0443 1991/0117: Koch_C, Schuster_H, NIPS 4, 1991
+0444 1991/0125: Horn_D, Usher_M, NIPS 4, 1991
+0445 1991/0135: Haffner_P, Waibel_A, NIPS 4, 1991
+0446 1991/0143: DeOliveira_P, DeVries_B, Kuo_J, Principe_J, NIPS 4, 1991
+0447 1991/0151: Bocchieri_E, Levin_E, Pieraccini_R, NIPS 4, 1991
+0448 1991/0159: Lippmann_R, Singer_E, NIPS 4, 1991
+0449 1991/0167: Bourlard_H, Cohen_M, Franco_H, Morgan_N, Renals_S, NIPS 4, 1991
+0450 1991/0175: Bengio_Y, De-Mori_R, Flammia_G, Kompe_R, NIPS 4, 1991
+0451 1991/0183: Jain_A, McNair_A, Osterholtz_L, Saito_H, Schmidbauer_O, Sloboda_T, Tebelskis_J, Waibel_A, Woszczyna_M, NIPS 4, 1991
+0452 1991/0191: Hirayama_M, Jordan_M, Kawato_M, Vatikiotis-Bateson_E, NIPS 4, 1991
+0453 1991/0199: Cole_R, Fanty_M, Roginski_K, NIPS 4, 1991
+0454 1991/0209: Jain_A, NIPS 4, 1991
+0455 1991/0217: Pinkas_G, NIPS 4, 1991
+0456 1991/0225: Gupta_P, Touretzky_D, NIPS 4, 1991
+0457 1991/0233: Dyer_M, Sumida_R, NIPS 4, 1991
+0458 1991/0241: Cole_R, Muthusamy_Y, NIPS 4, 1991
+0459 1991/0251: Singh_S, NIPS 4, 1991
+0460 1991/0259: Tesauro_G, NIPS 4, 1991
+0461 1991/0267: Feulner_J, Hild_H, Menzel_W, NIPS 4, 1991
+0462 1991/0275: Mozer_M, NIPS 4, 1991
+0463 1991/0283: Hobson_J, Mamelak_A, Sutton_J, NIPS 4, 1991
+0464 1991/0291: Schmidhuber_J, NIPS 4, 1991
+0465 1991/0301: Atlas_L, Connor_J, Martin_D, NIPS 4, 1991
+0466 1991/0309: Kuhn_G, Watrous_R, NIPS 4, 1991
+0467 1991/0317: Chen_D, Chen_H, Giles_C, Lee_Y, Miller_C, Sun_G, NIPS 4, 1991
+0468 1991/0325: Bloesch_A, Wiles_J, NIPS 4, 1991
+0469 1991/0333: Chen_H, Lee_Y, Sun_G, NIPS 4, 1991
+0470 1991/0341: Lange_T, NIPS 4, 1991
+0471 1991/0351: Robinson_D, NIPS 4, 1991
+0472 1991/0356: Eskandar_E, Hertz_J, Kjaer_T, Optican_L, Richmond_B, NIPS 4, 1991
+0473 1991/0364: Geiger_D, Pereira_R, NIPS 4, 1991
+0474 1991/0372: Becker_S, Hinton_G, NIPS 4, 1991
+0475 1991/0380: Lisberger_S, Sejnowski_T, Viola_P, NIPS 4, 1991
+0476 1991/0388: Darrell_T, Pentland_A, NIPS 4, 1991
+0477 1991/0396: Cooper_P, Prokopowicz_P, NIPS 4, 1991
+0478 1991/0404: Shashua_A, NIPS 4, 1991
+0479 1991/0412: Fisher_S, Pouget_A, Sejnowski_T, NIPS 4, 1991
+0480 1991/0420: Ahmad_S, NIPS 4, 1991
+0481 1991/0428: Mjolsness_E, NIPS 4, 1991
+0482 1991/0436: Behrmann_M, Mozer_M, Zemel_R, NIPS 4, 1991
+0483 1991/0444: Chellappa_R, Goodman_R, Greenspan_H, NIPS 4, 1991
+0484 1991/0452: Basri_R, Ullman_S, NIPS 4, 1991
+0485 1991/0460: Bfilthoff_H, Edelman_S, Gold_J, Intrator_N, NIPS 4, 1991
+0486 1991/0471: Boser_B, Bottou_L, Guyon_I, Solla_S, Vapnik_V, NIPS 4, 1991
+0487 1991/0480: Ben_J, Graf_H, Nohl_C, NIPS 4, 1991
+0488 1991/0488: Burges_C, Denker_J, LeCun_Y, Matan_O, NIPS 4, 1991
+0489 1991/0496: Keeler_J, Rumelhart_D, NIPS 4, 1991
+0490 1991/0504: Martin_G, Rashid_M, NIPS 4, 1991
+0491 1991/0512: Hinton_G, Revow_M, Williams_C, NIPS 4, 1991
+0492 1991/0523: Mayhew_J, Prescott_T, NIPS 4, 1991
+0493 1991/0531: Moller_K, Thrun_S, NIPS 4, 1991
+0494 1991/0539: Lemmon_M, NIPS 4, 1991
+0495 1991/0547: Gomi_H, Kawato_M, NIPS 4, 1991
+0496 1991/0555: Ray_W, Scott_G, Shavlik_J, NIPS 4, 1991
+0497 1991/0563: Brody_C, NIPS 4, 1991
+0498 1991/0571: Moore_A, NIPS 4, 1991
+0499 1991/0579: LeCun_Y, Simard_P, NIPS 4, 1991
+0500 1991/0589: DeMers_D, Kreutz-Delgado_K, NIPS 4, 1991
+0501 1991/0595: Dean_P, Langdon_P, Mayhew_J, NIPS 4, 1991
+0502 1991/0603: Anastasio_T, NIPS 4, 1991
+0503 1991/0611: Barto_A, Berthier_N, Houk_J, Singh_S, NIPS 4, 1991
+0504 1991/0619: Flash_T, Henis_E, NIPS 4, 1991
+0505 1991/0627: Dornay_M, Kawato_M, Suzuki_R, Uno_Y, NIPS 4, 1991
+0506 1991/0637: Chi_Z, Flower_B, Jabri_M, Leong_P, Pickard_S, Xie_Y, NIPS 4, 1991
+0507 1991/0645: Christy_P, Ehman_R, Manduca_A, NIPS 4, 1991
+0508 1991/0651: Lytton_W, Sejnowski_T, Venturini_R, NIPS 4, 1991
+0509 1991/0659: Holmann_R, Roscheisen_M, Tresp_V, NIPS 4, 1991
+0510 1991/0667: Mellstrom_J, Smyth_P, NIPS 4, 1991
+0511 1991/0675: Badran_F, Crepon_M, Mejia_C, Thiria_S, NIPS 4, 1991
+0512 1991/0683: Moody_J, Utans_J, NIPS 4, 1991
+0513 1991/0691: Blaum_M, Gish_S, NIPS 4, 1991
+0514 1991/0698: Tsoi_A, NIPS 4, 1991
+0515 1991/0706: Freeman_D, NIPS 4, 1991
+0516 1991/0714: Tunley_H, NIPS 4, 1991
+0517 1991/0722: Giles_C, Goudreau_M, NIPS 4, 1991
+0518 1991/0730: Faggin_F, Platt_J, NIPS 4, 1991
+0519 1991/0741: Chiang_A, Chuang_M, LaFranchise_J, NIPS 4, 1991
+0520 1991/0748: Neugebauer_C, Yariv_A, NIPS 4, 1991
+0521 1991/0756: Benson_R, Delbruck_T, NIPS 4, 1991
+0522 1991/0764: Andreou_A, Boahen_K, NIPS 4, 1991
+0523 1991/0773: Boser_B, Jackel_L, Sackinger_E, NIPS 4, 1991
+0524 1991/0781: Beck_J, Bilmes_J, Kohn_P, Morgan_N, NIPS 4, 1991
+0525 1991/0789: Barr_A, Fleischer_K, Kirk_D, Watts_L, NIPS 4, 1991
+0526 1991/0797: Harris_J, NIPS 4, 1991
+0527 1991/0805: Andreou_A, Cohen_M, Pouliquen_P, NIPS 4, 1991
+0528 1991/0813: Lazzaro_J, NIPS 4, 1991
+0529 1991/0821: Anderson_D, Benkert_C, Hebler_V, Jang_J, Montgomery_D, Saffman_M, NIPS 4, 1991
+0530 1991/0831: Vapnik_V, NIPS 4, 1991
+0531 1991/0839: MacKay_D, NIPS 4, 1991
+0532 1991/0847: Moody_J, NIPS 4, 1991
+0533 1991/0855: Haussler_D, Kearns_M, Opper_M, Schapire_R, NIPS 4, 1991
+0534 1991/0863: Judd_S, NIPS 4, 1991
+0535 1991/0871: Alspector_J, Jayakumar_A, Luna_S, NIPS 4, 1991
+0536 1991/0879: Shawe-Taylor_J, NIPS 4, 1991
+0537 1991/0887: Pearlmutter_B, NIPS 4, 1991
+0538 1991/0895: Denker_J, LeCun_Y, Simard_P, Victorri_B, NIPS 4, 1991
+0539 1991/0904: Bertoni_A, Campadelli_P, Morpurgo_A, Panizza_S, NIPS 4, 1991
+0540 1991/0912: Freund_Y, Haussler_D, NIPS 4, 1991
+0541 1991/0920: Kuh_A, Petsche_T, Rivest_R, NIPS 4, 1991
+0542 1991/0928: Ji_C, Psaltis_D, NIPS 4, 1991
+0543 1991/0936: Atkeson_C, Zhao_Y, NIPS 4, 1991
+0544 1991/0944: Bruck_J, Siu_K, NIPS 4, 1991
+0545 1991/0950: Hertz_J, Krogh_A, NIPS 4, 1991
+0546 1991/0958: Omohundro_S, NIPS 4, 1991
+0547 1991/0969: McMillan_C, Mozer_M, Smolensky_P, NIPS 4, 1991
+0548 1991/0977: Shavlik_J, Towell_G, NIPS 4, 1991
+0549 1991/0985: Jacobs_R, Jordan_M, NIPS 4, 1991
+0550 1991/0993: Hinton_G, Nowlan_S, NIPS 4, 1991
+0551 1991/1001: Munro_P, NIPS 4, 1991
+0552 1991/1009: Darken_C, Moody_J, NIPS 4, 1991
+0553 1991/1017: Schraudolph_N, Sejnowski_T, NIPS 4, 1991
+0554 1991/1025: Stolorz_P, NIPS 4, 1991
+0555 1991/1033: Holmstrom_L, Koistinen_P, NIPS 4, 1991
+0556 1991/1040: Bartlett_P, Williamson_R, NIPS 4, 1991
+0557 1991/1048: Moody_J, Yarvin_N, NIPS 4, 1991
+0558 1991/1056: Downs_T, Redding_N, NIPS 4, 1991
+0559 1991/1064: Matheus_C, Sanger_T, Sutton_R, NIPS 4, 1991
+0560 1991/1072: Wynne-Jones_M, NIPS 4, 1991
+0561 1991/1080: Pratt_L, Ramachandran_S, NIPS 4, 1991
+0562 1991/1088: Rogers_D, NIPS 4, 1991
+0563 1991/1096: Bridle_J, Heading_A, MacKay_D, NIPS 4, 1991
+0564 1991/1102: Glassman_M, NIPS 4, 1991
+0565 1991/1110: Montana_D, NIPS 4, 1991
+0566 1991/1118: Grebert_I, Keesing_R, Mims_S, Stork_D, NIPS 4, 1991
+0567 1991/1125: Hampshire_J, Kumar_B, NIPS 4, 1991
+0568 1991/1133: Dietterich_T, Wettschereck_D, NIPS 4, 1991
+0569 1991/1141: Bauer_H, Geisel_T, Pawelzik_K, NIPS 4, 1991
+0570 1991/1151: Bernasconi_J, Gustafson_K, NIPS 4, 1991
+0571 1991/1159: Hwang_J, Li_H, Maechler_M, Martin_R, Schimert_J, NIPS 4, 1991
+0572 1991/1167: Hamey_L, NIPS 4, 1991
+0573 1992/0003: Intrator_N, NIPS 5, 1992
+0574 1992/0011: Omohundro_S, Stolcke_A, NIPS 5, 1992
+0575 1992/0019: Kailath_T, Roychowdhury_V, Siu_K, NIPS 5, 1992
+0576 1992/0027: Ollila_M, Wiles_J, NIPS 5, 1992
+0577 1992/0034: Plate_T, NIPS 5, 1992
+0578 1992/0042: Drucker_H, Schapire_R, Simard_P, NIPS 5, 1992
+0579 1992/0050: Cun_Y, Denker_J, Simard_P, NIPS 5, 1992
+0580 1992/0059: Roychowdhury_V, Siu_K, NIPS 5, 1992
+0581 1992/0065: Das_S, Giles_C, Sun_G, NIPS 5, 1992
+0582 1992/0073: Abu-Mostafa_Y, NIPS 5, 1992
+0583 1992/0081: Anderson_C, NIPS 5, 1992
+0584 1992/0089: Judd_S, Munro_P, NIPS 5, 1992
+0585 1992/0099: Belew_R, NIPS 5, 1992
+0586 1992/0107: Mahoney_J, Mooney_R, NIPS 5, 1992
+0587 1992/0115: Ring_M, NIPS 5, 1992
+0588 1992/0123: Fritzke_B, NIPS 5, 1992
+0589 1992/0131: Bonnlander_B, Mozer_M, NIPS 5, 1992
+0590 1992/0139: Chang_E, Lippmann_R, NIPS 5, 1992
+0591 1992/0147: Boser_B, Guyon_I, Vapnik_V, NIPS 5, 1992
+0592 1992/0156: Cun_Y, Pearlmutter_B, Simard_P, NIPS 5, 1992
+0593 1992/0164: Hassibi_B, Stork_D, NIPS 5, 1992
+0594 1992/0172: Mozer_M, Williams_C, Zemel_R, NIPS 5, 1992
+0595 1992/0180: Chen_H, Lee_Y, Sun_G, NIPS 5, 1992
+0596 1992/0188: Littmann_E, Ritter_H, NIPS 5, 1992
+0597 1992/0196: Paass_G, NIPS 5, 1992
+0598 1992/0204: Pratt_L, NIPS 5, 1992
+0599 1992/0212: Flower_B, Jabri_M, NIPS 5, 1992
+0600 1992/0220: Ballard_D, DeSa_V, NIPS 5, 1992
+0601 1992/0228: Finnoff_W, Hergert_Hergert, Zimmermann_H, NIPS 5, 1992
+0602 1992/0236: Baird_B, Eeckman_F, Troyer_T, NIPS 5, 1992
+0603 1992/0244: Cauwenberghs_G, NIPS 5, 1992
+0604 1992/0255: DeMers_D, Kreutz-Delgado_K, NIPS 5, 1992
+0605 1992/0263: Atkeson_C, Moore_A, NIPS 5, 1992
+0606 1992/0271: Dayan_P, Hinton_G, NIPS 5, 1992
+0607 1992/0279: Pomerleau_D, NIPS 5, 1992
+0608 1992/0287: Mitchell_T, Thrun_S, NIPS 5, 1992
+0609 1992/0295: Bradtke_S, NIPS 5, 1992
+0610 1992/0303: Bowman_C, NIPS 5, 1992
+0611 1992/0311: Fukumura_N, Kawato_M, Suzuki_R, Uno_Y, NIPS 5, 1992
+0612 1992/0319: Peterson_J, NIPS 5, 1992
+0613 1992/0327: Gullapalli_V, NIPS 5, 1992
+0614 1992/0335: Sanger_T, NIPS 5, 1992
+0615 1992/0342: Eckmiller_R, Fahner_G, NIPS 5, 1992
+0616 1992/0350: Goodman_R, Higgins_C, NIPS 5, 1992
+0617 1992/0361: Becker_S, NIPS 5, 1992
+0618 1992/0369: Nowlan_S, Sejnowski_T, NIPS 5, 1992
+0619 1992/0377: Aertsen_A, Hochstein_S, Stern_E, Vaadia_E, NIPS 5, 1992
+0620 1992/0385: Kersten_D, Madarasmi_S, Pong_T, NIPS 5, 1992
+0621 1992/0393: Ahmad_S, Tresp_V, NIPS 5, 1992
+0622 1992/0401: Gindi_G, Utans_J, NIPS 5, 1992
+0623 1992/0409: Brody_C, NIPS 5, 1992
+0624 1992/0417: Marshall_J, Martin_K, NIPS 5, 1992
+0625 1992/0425: Goodman_R, Greenspan_H, NIPS 5, 1992
+0626 1992/0433: Lappe_M, Rauschecker_J, NIPS 5, 1992
+0627 1992/0441: Chapman_D, Martin_G, Pittman_J, Rashid_M, NIPS 5, 1992
+0628 1992/0451: Leen_T, Moody_J, NIPS 5, 1992
+0629 1992/0459: Finnoff_W, NIPS 5, 1992
+0630 1992/0467: Xu_L, Yuille_A, NIPS 5, 1992
+0631 1992/0475: Neal_R, NIPS 5, 1992
+0632 1992/0483: Freund_Y, Seung_H, Shamir_E, Tishby_N, NIPS 5, 1992
+0633 1992/0491: Edwards_P, Murray_A, NIPS 5, 1992
+0634 1992/0499: Schraudolph_N, Sejnowski_T, NIPS 5, 1992
+0635 1992/0507: Leen_T, Orr_G, NIPS 5, 1992
+0636 1992/0515: Matsumoto_K, Nakashima_M, Shiono_S, Yamada_S, NIPS 5, 1992
+0637 1992/0523: Hertz_J, Schwarze_H, NIPS 5, 1992
+0638 1992/0531: Goodman_R, Miller_J, NIPS 5, 1992
+0639 1992/0539: Wolpert_D, NIPS 5, 1992
+0640 1992/0549: Cessac_B, Doyon_B, Quoy_M, Samuelides_M, NIPS 5, 1992
+0641 1992/0556: Levy_W, Minai_A, NIPS 5, 1992
+0642 1992/0564: Meilijson_I, Ruppin_E, Sipper_M, NIPS 5, 1992
+0643 1992/0572: Meilijson_I, Ruppin_E, NIPS 5, 1992
+0644 1992/0580: Cottrell_G, DeMers_D, NIPS 5, 1992
+0645 1992/0591: Golea_M, Hancock_T, Marchand_M, NIPS 5, 1992
+0646 1992/0599: Liu_Y, NIPS 5, 1992
+0647 1992/0607: Amari_S, Murata_N, Yoshizawa_S, NIPS 5, 1992
+0648 1992/0615: DasGupta_B, Schnitger_G, NIPS 5, 1992
+0649 1992/0623: Helmke_U, Williamson_R, NIPS 5, 1992
+0650 1992/0631: Hertz_J, Wulff_N, NIPS 5, 1992
+0651 1992/0639: Kowalczyk_A, NIPS 5, 1992
+0652 1992/0649: Abrash_V, Cohen_M, Franco_H, Morgan_N, Rumelhart_D, NIPS 5, 1992
+0653 1992/0658: Hirayama_M, Honda_K, Kawato_M, Kioke_Y, Vatikiotis-Bateson_E, NIPS 5, 1992
+0654 1992/0666: Andreou_A, Goldstein_M, Liu_W, NIPS 5, 1992
+0655 1992/0674: Lee_W, Pearson_J, NIPS 5, 1992
+0656 1992/0682: Abrash_V, Cohen_M, Franco_H, Konig_Y, Morgan_N, Wooters_C, NIPS 5, 1992
+0657 1992/0688: Principe_J, Zahalka_A, NIPS 5, 1992
+0658 1992/0696: Tebelskis_J, Waibel_A, NIPS 5, 1992
+0659 1992/0704: Makhoul_J, Schwartz_R, Zavaliagkos_G, Zhao_Y, NIPS 5, 1992
+0660 1992/0712: Hild_H, Waibel_A, NIPS 5, 1992
+0661 1992/0723: Guyon_I, Henderson_D, Nohl_C, Schenkel_M, Weissman_H, NIPS 5, 1992
+0662 1992/0731: Levin_E, Pieraccini_R, NIPS 5, 1992
+0663 1992/0739: Fine_T, Yuan_J, NIPS 5, 1992
+0664 1992/0747: Baldi_P, Chauvin_Y, Hunkapiller_T, McClure_M, NIPS 5, 1992
+0665 1992/0755: Atlan_H, Erel_J, Rosenberg_C, NIPS 5, 1992
+0666 1992/0765: Anderson_J, Kirk_D, Platt_J, NIPS 5, 1992
+0667 1992/0773: Baxter_D, Churcher_S, Hamilton_A, Murray_A, Reekie_H, NIPS 5, 1992
+0668 1992/0781: Bair_W, Koch_C, Sarpeshkar_R, NIPS 5, 1992
+0669 1992/0789: Barr_A, Fleischer_K, Kerns_D, Kirk_D, NIPS 5, 1992
+0670 1992/0797: Linden_A, Sudbrak_T, Tietz_C, Weber_Weber, NIPS 5, 1992
+0671 1992/0805: Pasero_E, Zecchina_R, NIPS 5, 1992
+0672 1992/0813: Abbott_L, LeMasson_G, Marder_E, Renaud-LeMasson_S, NIPS 5, 1992
+0673 1992/0820: Gillespie_D, Lazzaro_J, Mahowald_M, Sivilotti_M, Wawrzynek_J, NIPS 5, 1992
+0674 1992/0828: Harris_J, Koch_C, Liu_S, Luo_J, Mathur_B, Sivilotti_M, NIPS 5, 1992
+0675 1992/0836: Alspector_J, Jayakumar_A, Lippe_D, Meir_R, Yuhas_B, NIPS 5, 1992
+0676 1992/0847: Smolensky_P, NIPS 5, 1992
+0677 1992/0855: Gentner_D, Markman_A, NIPS 5, 1992
+0678 1992/0863: Das_S, Mozer_M, NIPS 5, 1992
+0679 1992/0871: Ahmad_S, Hollatz_J, Tresp_V, NIPS 5, 1992
+0680 1992/0879: Bavelier_D, Jordan_M, NIPS 5, 1992
+0681 1992/0887: Lehrer_R, Towell_G, NIPS 5, 1992
+0682 1992/0895: Schfitze_H, NIPS 5, 1992
+0683 1992/0903: Goebel_R, NIPS 5, 1992
+0684 1992/0913: Boyle_M, Doya_K, Selverston_A, NIPS 5, 1992
+0685 1992/0921: Nelson_M, NIPS 5, 1992
+0686 1992/0929: Burgess_N, O'Keefe_J, Recce_M, NIPS 5, 1992
+0687 1992/0937: Gluck_M, Myers_C, NIPS 5, 1992
+0688 1992/0945: Gat_I, Tishby_N, NIPS 5, 1992
+0689 1992/0953: Linsker_R, NIPS 5, 1992
+0690 1992/0961: Coenen_O, Lisberger_S, Sejnowski_T, NIPS 5, 1992
+0691 1992/0969: Dayan_P, Montague_P, Nowlan_S, Pouget_A, Sejnowski_T, NIPS 5, 1992
+0692 1992/0977: Bauer_H, Deppisch_J, Geisel_T, Pawelzik_K, NIPS 5, 1992
+0693 1992/0985: Goodhill_G, NIPS 5, 1992
+0694 1992/0993: Douglass_J, Longtin_A, Moss_F, NIPS 5, 1992
+0695 1992/1001: Chu_P, Cowan_J, Milton_J, NIPS 5, 1992
+0696 1992/1007: Bisset_D, Walton_L, NIPS 5, 1992
+0697 1992/1014: Massone_L, NIPS 5, 1992
+0698 1992/1022: Dreyfus_G, Kerszberg_M, Linster_C, Marsan_D, Masson_C, Personnaz_L, NIPS 5, 1992
+0699 1992/1030: Gothard_K, Markus_E, McNaughton_B, Skaggs_W, NIPS 5, 1992
+0700 1993/0003: Hinton_G, Zemel_R, NIPS 6, 1993
+0701 1993/0011: Hinton_G, Zemel_R, NIPS 6, 1993
+0702 1993/0019: Das_S, Mozer_M, NIPS 6, 1993
+0703 1993/0027: Saund_E, NIPS 6, 1993
+0704 1993/0035: Leen_T, Levin_A, Moody_J, NIPS 6, 1993
+0705 1993/0043: Bregler_C, Omohundro_S, NIPS 6, 1993
+0706 1993/0051: Forrest_S, Holland_J, Mitchell_M, NIPS 6, 1993
+0707 1993/0059: Maron_O, Moore_A, NIPS 6, 1993
+0708 1993/0067: Baird_B, Eeckman_F, Troyer_T, NIPS 6, 1993
+0709 1993/0075: Bengio_Y, Frasconi_P, NIPS 6, 1993
+0710 1993/0083: Movellan_J, NIPS 6, 1993
+0711 1993/0088: Angeline_P, Pollack_J, Saunders_G, NIPS 6, 1993
+0712 1993/0096: Gold_S, Mjolsness_E, Rangarajan_A, NIPS 6, 1993
+0713 1993/0104: Buhmann_J, Hofmann_T, NIPS 6, 1993
+0714 1993/0112: DeSa_V, NIPS 6, 1993
+0715 1993/0120: Ghahramani_Z, Jordan_M, NIPS 6, 1993
+0716 1993/0128: Ahmad_S, Neuneier_R, Tresp_V, NIPS 6, 1993
+0717 1993/0136: Lenz_R, Osterberg_M, NIPS 6, 1993
+0718 1993/0144: Sanger_T, NIPS 6, 1993
+0719 1993/0152: Kambhatla_N, Leen_T, NIPS 6, 1993
+0720 1993/0160: Atkeson_C, Schaal_S, NIPS 6, 1993
+0721 1993/0168: Simard_P, NIPS 6, 1993
+0722 1993/0176: Ron_D, Singer_Y, Tishby_N, NIPS 6, 1993
+0723 1993/0184: Dietterich_T, Wettschereck_D, NIPS 6, 1993
+0724 1993/0192: Liu_Y, NIPS 6, 1993
+0725 1993/0200: Wolpert_D, NIPS 6, 1993
+0726 1993/0208: Thodberg_H, NIPS 6, 1993
+0727 1993/0216: Dietterich_T, Jain_A, Lathrop_R, Lozano-Perez_T, NIPS 6, 1993
+0728 1993/0224: Ginzburg_I, Horn_D, NIPS 6, 1993
+0729 1993/0232: Graf_H, Simard_P, NIPS 6, 1993
+0730 1993/0240: Bostock_R, Harget_A, NIPS 6, 1993
+0731 1993/0247: Cherkassky_V, Najafi_H, NIPS 6, 1993
+0732 1993/0255: Fritzke_B, NIPS 6, 1993
+0733 1993/0263: Hassibi_B, Stork_D, Watanabe_T, Wolff_G, NIPS 6, 1993
+0734 1993/0271: Kamimura_R, NIPS 6, 1993
+0735 1993/0279: Jabri_M, Leerink_L, NIPS 6, 1993
+0736 1993/0285: Utans_J, NIPS 6, 1993
+0737 1993/0293: Watanabe_S, NIPS 6, 1993
+0738 1993/0303: Judd_J, Venkatesh_S, Wang_C, NIPS 6, 1993
+0739 1993/0311: Maass_W, NIPS 6, 1993
+0740 1993/0319: Mhaskar_H, Micchelli_C, NIPS 6, 1993
+0741 1993/0327: Cortes_C, Denker_J, Jackel_L, Solla_S, Vapnik_V, NIPS 6, 1993
+0742 1993/0335: Fefferman_C, Markel_S, NIPS 6, 1993
+0743 1993/0343: Grossman_T, Lapedes_A, NIPS 6, 1993
+0744 1993/0351: Hassibi_B, Kailath_T, Sayed_A, NIPS 6, 1993
+0745 1993/0359: Home_B, Hush_D, NIPS 6, 1993
+0746 1993/0367: Ji_C, NIPS 6, 1993
+0747 1993/0375: Kowalczyk_A, NIPS 6, 1993
+0748 1993/0383: Mangasarian_O, Solodov_M, NIPS 6, 1993
+0749 1993/0391: Plutowski_M, Sakata_S, White_H, NIPS 6, 1993
+0750 1993/0399: Hertz_J, Schwarze_H, NIPS 6, 1993
+0751 1993/0407: Prtigel-Bennett_A, Shapiro_J, NIPS 6, 1993
+0752 1993/0415: Gu_C, Klein_B, Klein_R, Wahba_G, Wang_Y, NIPS 6, 1993
+0753 1993/0423: Watanabe_S, NIPS 6, 1993
+0754 1993/0431: Wiklicky_H, NIPS 6, 1993
+0755 1993/0439: Gyorgyi_G, Kirkpatrick_S, Tishby_N, Troyansky_L, NIPS 6, 1993
+0756 1993/0447: Coolen_A, Penney_R, Sherrington_D, NIPS 6, 1993
+0757 1993/0455: Botelho_F, Garzon_M, NIPS 6, 1993
+0758 1993/0463: Gerstner_W, VanHemmen_J, NIPS 6, 1993
+0759 1993/0471: Ginzburg_I, Sompolinski_H, NIPS 6, 1993
+0760 1993/0477: Leen_T, Orr_G, NIPS 6, 1993
+0761 1993/0485: Meilijson_I, Ruppin_E, NIPS 6, 1993
+0762 1993/0493: Blum_E, Li_Q, Wang_X, NIPS 6, 1993
+0763 1993/0501: Kolen_J, NIPS 6, 1993
+0764 1993/0511: Marder_E, NIPS 6, 1993
+0765 1993/0519: Bernander_O, Douglas_R, Koch_C, NIPS 6, 1993
+0766 1993/0527: Kerszberg_M, Linster_C, Marson_D, Masson_C, NIPS 6, 1993
+0767 1993/0535: Druzinsky_R, Heckman_C, Maltenfort_M, Rymer_W, NIPS 6, 1993
+0768 1993/0543: Blasdel_G, Kiorpes_L, Obermayer_K, NIPS 6, 1993
+0769 1993/0551: Bialek_W, Ruderman_D, NIPS 6, 1993
+0770 1993/0559: Boussard_E, Vibert_J, NIPS 6, 1993
+0771 1993/0566: Doya_K, Rowat_P, Selverston_A, NIPS 6, 1993
+0772 1993/0574: Eaton_R, Guzik_A, NIPS 6, 1993
+0773 1993/0582: Bisofberger_B, Horiuchi_T, Koch_C, NIPS 6, 1993
+0774 1993/0590: Lewicki_M, NIPS 6, 1993
+0775 1993/0598: Dayan_P, Montague_P, Sejnowski_T, NIPS 6, 1993
+0776 1993/0606: Knudsen_E, Rosen_D, Rumelhart_D, NIPS 6, 1993
+0777 1993/0614: Sanger_T, NIPS 6, 1993
+0778 1993/0622: Siegel_M, NIPS 6, 1993
+0779 1993/0629: Koch_C, Olami_Z, Stemmler_M, Usher_M, NIPS 6, 1993
+0780 1993/0639: Buckland_K, Lawrence_P, NIPS 6, 1993
+0781 1993/0647: Chen_H, Flake_G, Lee_Y, Sun_G, NIPS 6, 1993
+0782 1993/0655: Barto_A, Connolly_C, Ginpen_R, Singh_S, NIPS 6, 1993
+0783 1993/0663: Atkeson_C, NIPS 6, 1993
+0784 1993/0671: Boyan_J, Littman_M, NIPS 6, 1993
+0785 1993/0679: Cohn_D, NIPS 6, 1993
+0786 1993/0687: Barto_A, Duff_M, NIPS 6, 1993
+0787 1993/0695: Barto_A, Gullapalli_V, NIPS 6, 1993
+0788 1993/0703: Jaakkola_T, Jordan_M, Singh_S, NIPS 6, 1993
+0789 1993/0711: Moore_A, NIPS 6, 1993
+0790 1993/0719: Cacciatore_T, Nowlan_S, NIPS 6, 1993
+0791 1993/0727: Kawato_M, Koike_Y, Vatikiotis-Bateson_E, Wada_Y, NIPS 6, 1993
+0792 1993/0737: Bromley_J, Guyon_I, LeCun_Y, Sackinger_E, Shah_R, NIPS 6, 1993
+0793 1993/0745: Platt_J, Wolf_R, NIPS 6, 1993
+0794 1993/0753: Baluja_S, Pomerleau_D, NIPS 6, 1993
+0795 1993/0761: Baldi_P, Brunak_S, Chauvin_Y, Englebrecht_J, Krogh_A, NIPS 6, 1993
+0796 1993/0769: Buhmann_J, Eeckman_F, Lades_M, NIPS 6, 1993
+0797 1993/0777: Flann_N, NIPS 6, 1993
+0798 1993/0785: Cosatto_E, Graf_H, NIPS 6, 1993
+0799 1993/0793: Kamnanithi_N, NIPS 6, 1993
+0800 1993/0801: DeGerlache_M, Keymeulen_D, NIPS 6, 1993
+0801 1993/0809: Farber_R, Lapedes_A, Steeg_E, NIPS 6, 1993
+0802 1993/0817: Dayan_P, Schraudolph_N, Sejnowski_T, NIPS 6, 1993
+0803 1993/0825: Smyth_P, NIPS 6, 1993
+0804 1993/0833: Singer_Y, Tishby_N, NIPS 6, 1993
+0805 1993/0843: Glover_M, Miller_W, NIPS 6, 1993
+0806 1993/0850: Chau_P, Lambrigsten_B, Plutowski_M, Tawel_R, Watkins_S, NIPS 6, 1993
+0807 1993/0858: Cauwenberghs_G, NIPS 6, 1993
+0808 1993/0866: Andreou_A, Edwards_T, NIPS 6, 1993
+0809 1993/0874: Coggins_R, Jabri_M, NIPS 6, 1993
+0810 1993/0882: Elfadel_I, Wyatt_J, NIPS 6, 1993
+0811 1993/0888: Gunzinger_A, Kocheisen_M, Muller_U, NIPS 6, 1993
+0812 1993/0896: Boonyanit_K, Burr_J, Kritayakirana_K, Leung_M, Murray_M, Peterson_A, Schwartz_E, Stork_D, Watanabe_T, Wolff_G, NIPS 6, 1993
+0813 1993/0904: Brettle_D, Niebur_E, NIPS 6, 1993
+0814 1993/0911: Oliveira_A, Sangiovanni-Vincentelli_A, NIPS 6, 1993
+0815 1993/0919: Ishii_H, Kosaka_H, Kotani_K, Ohmi_T, Shibata_T, Yamashita_T, NIPS 6, 1993
+0816 1993/0927: Watts_L, NIPS 6, 1993
+0817 1993/0937: Bengio_Y, Henderson_D, LeCun_Y, NIPS 6, 1993
+0818 1993/0945: Darrell_T, Pentland_A, NIPS 6, 1993
+0819 1993/0953: Finkel_L, Sakai_K, NIPS 6, 1993
+0820 1993/0961: Ahmad_S, NIPS 6, 1993
+0821 1993/0969: Albright_T, Buracas_G, NIPS 6, 1993
+0822 1993/0977: Diamantaras_K, Geiger_D, NIPS 6, 1993
+0823 1993/0985: Lu_C, Mjolsness_E, NIPS 6, 1993
+0824 1993/0993: Finkel_L, Sajda_P, NIPS 6, 1993
+0825 1993/1001: Smimakis_S, Xu_L, Yuille_A, NIPS 6, 1993
+0826 1993/1011: Hsu_H, Kuo_J, Principe_J, NIPS 6, 1993
+0827 1993/1019: Chang_E, Lippmann_R, NIPS 6, 1993
+0828 1993/1027: Hennecke_M, Prasad_K, Stork_D, Wolff_G, NIPS 6, 1993
+0829 1993/1035: Farrell_K, Mammone_R, NIPS 6, 1993
+0830 1993/1043: Hirayama_M, Kawato_M, Vatikiotis-Bateson_E, NIPS 6, 1993
+0831 1993/1051: Hochberg_M, Renals_S, Robinson_T, NIPS 6, 1993
+0832 1993/1059: Makhoul_J, Schwartz_R, Zavaliagkos_G, Zhao_Y, NIPS 6, 1993
+0833 1993/1069: Duda_R, NIPS 6, 1993
+0834 1993/1077: Mussa-lvaldi_F, Shadmehr_R, NIPS 6, 1993
+0835 1993/1085: Stevens_C, Wiles_J, NIPS 6, 1993
+0836 1993/1093: Blasig_R, NIPS 6, 1993
+0837 1993/1101: Ghiselli-Crippa_T, Munro_P, NIPS 6, 1993
+0838 1993/1109: Plate_T, NIPS 6, 1993
+0839 1993/1117: Elman_J, Shultz_T, NIPS 6, 1993
+0840 1993/1125: Sperduti_A, NIPS 6, 1993
+0841 1993/1135: Cottrell_G, Plutowski_M, White_H, NIPS 6, 1993
+0842 1993/1143: Salu_Y, NIPS 6, 1993
+0843 1993/1151: Sergejew_A, So_D, Tsoi_A, NIPS 6, 1993
+0844 1994/0003: Douglas_R, Koch_C, Suarez_H, NIPS 7, 1994
+0845 1994/0011: Mathis_D, Mozer_M, NIPS 7, 1994
+0846 1994/0019: Brashers-Krug_T, Shadmehr_R, Todorov_E, NIPS 7, 1994
+0847 1994/0027: Negishi_M, NIPS 7, 1994
+0848 1994/0035: Reggia_J, Ruppin_E, NIPS 7, 1994
+0849 1994/0043: Ghahramani_Z, Jordan_M, Wolpert_D, NIPS 7, 1994
+0850 1994/0051: Burgess_N, NIPS 7, 1994
+0851 1994/0061: Hammer_M, Malaka_R, Ragg_T, NIPS 7, 1994
+0852 1994/0069: Brown_T, Camevale_N, Claiborne_B, Tsai_K, NIPS 7, 1994
+0853 1994/0077: Hasselmo_M, Schnell_E, NIPS 7, 1994
+0854 1994/0085: Kairiss_E, Murphy_S, NIPS 7, 1994
+0855 1994/0093: Erwin_E, Obermayer_K, Schulten_K, NIPS 7, 1994
+0856 1994/0101: Doya_K, Sejnowski_T, NIPS 7, 1994
+0857 1994/0109: Miikkulainen_R, Sirosh_J, NIPS 7, 1994
+0858 1994/0117: Edelman_S, Malach_R, Spector_K, NIPS 7, 1994
+0859 1994/0125: Deffayet_C, Pouget_A, Sejnowski_T, NIPS 7, 1994
+0860 1994/0133: Malpeli_J, Schulten_K, Tzonev_S, NIPS 7, 1994
+0861 1994/0141: Braver_T, Cohen_J, Servan-Schreiber_D, NIPS 7, 1994
+0862 1994/0149: Horn_D, Reggia_J, Ruppin_E, NIPS 7, 1994
+0863 1994/0157: Pouget_A, Sejnowski_T, NIPS 7, 1994
+0864 1994/0165: Sejnowski_T, Zemel_R, NIPS 7, 1994
+0865 1994/0173: Knierim_J, Kudrimoti_H, McNaughton_B, Skaggs_W, NIPS 7, 1994
+0866 1994/0183: Maass_W, NIPS 7, 1994
+0867 1994/0191: Hassibi_B, Kailath_T, NIPS 7, 1994
+0868 1994/0199: Terman_D, Wang_D, NIPS 7, 1994
+0869 1994/0207: Sollich_P, NIPS 7, 1994
+0870 1994/0215: Ferra_H, Kowalczyk_A, NIPS 7, 1994
+0871 1994/0223: Leen_T, NIPS 7, 1994
+0872 1994/0231: Krogh_A, Vedelsby_J, NIPS 7, 1994
+0873 1994/0239: Chiang_W, Cortes_C, Jackel_L, NIPS 7, 1994
+0874 1994/0247: Brauer_W, Deco_G, NIPS 7, 1994
+0875 1994/0255: Marion_G, Saad_D, NIPS 7, 1994
+0876 1994/0263: Venkatesh_S, Wang_C, NIPS 7, 1994
+0877 1994/0271: Cowan_J, Ohira_T, NIPS 7, 1994
+0878 1994/0279: Hadjifaradji_S, Marchand_M, NIPS 7, 1994
+0879 1994/0287: Saad_D, Sollich_P, NIPS 7, 1994
+0880 1994/0295: Meir_R, NIPS 7, 1994
+0881 1994/0303: Barkai_N, Seung_H, NIPS 7, 1994
+0882 1994/0311: Kuo_J, Principe_J, NIPS 7, 1994
+0883 1994/0319: Feng_J, Pan_H, Roychowdhury_V, NIPS 7, 1994
+0884 1994/0327: Fine_T, Tunnon_M, NIPS 7, 1994
+0885 1994/0335: Fine_T, Mukherjee_S, NIPS 7, 1994
+0886 1994/0345: Jaakkola_T, Jordan_M, Singh_S, NIPS 7, 1994
+0887 1994/0353: Baird_L, Harmon_M, Klopf_A, NIPS 7, 1994
+0888 1994/0361: Jaakkola_T, Jordan_M, Singh_S, NIPS 7, 1994
+0889 1994/0369: Boyan_J, Moore_A, NIPS 7, 1994
+0890 1994/0377: McCallum_R, NIPS 7, 1994
+0891 1994/0385: Schwartz_A, Thrun_S, NIPS 7, 1994
+0892 1994/0393: Bradtke_S, Duff_M, NIPS 7, 1994
+0893 1994/0401: Barto_A, Crites_R, NIPS 7, 1994
+0894 1994/0411: Abu-Mostafa_Y, NIPS 7, 1994
+0895 1994/0419: Taniguchi_M, Tresp_V, NIPS 7, 1994
+0896 1994/0427: Bengio_Y, Frasconi_P, NIPS 7, 1994
+0897 1994/0435: Jordan_M, Saul_L, NIPS 7, 1994
+0898 1994/0443: Kindermann_J, Paass_G, NIPS 7, 1994
+0899 1994/0451: Baluja_S, Pomerleau_D, NIPS 7, 1994
+0900 1994/0459: Buhmann_J, Hofmann_T, NIPS 7, 1994
+0901 1994/0467: Bell_A, Sejnowski_T, NIPS 7, 1994
+0902 1994/0475: Schraudolph_N, Sejnowski_T, NIPS 7, 1994
+0903 1994/0481: Cottrell_G, Tsung_F, NIPS 7, 1994
+0904 1994/0489: Nix_D, Weigend_A, NIPS 7, 1994
+0905 1994/0497: Bmske_JO, Sommer_G, NIPS 7, 1994
+0906 1994/0505: Thrun_S, NIPS 7, 1994
+0907 1994/0513: Graham_B, Willshaw_D, NIPS 7, 1994
+0908 1994/0521: Berthold_M, Diamond_J, NIPS 7, 1994
+0909 1994/0529: Hochreiter_S, Schmidhuber_J, NIPS 7, 1994
+0910 1994/0537: Giles_C, Horne_B, Jabri_M, Leerink_L, NIPS 7, 1994
+0911 1994/0545: Nakano_R, Ueda_N, NIPS 7, 1994
+0912 1994/0553: Bengio_Y, Frasconi_P, NIPS 7, 1994
+0913 1994/0561: Tenenbaum_J, Todorov_E, NIPS 7, 1994
+0914 1994/0569: Lemmon_M, Szymanski_P, NIPS 7, 1994
+0915 1994/0577: James_D, Miikkulainen_R, NIPS 7, 1994
+0916 1994/0585: Bengio_Y, Bottou_L, NIPS 7, 1994
+0917 1994/0593: Niyogi_P, Sung_K, NIPS 7, 1994
+0918 1994/0601: Oshima-Takane_Y, Shultz_T, Takane_Y, NIPS 7, 1994
+0919 1994/0609: Alexander_J, Mozer_M, NIPS 7, 1994
+0920 1994/0617: Ghahramani_Z, NIPS 7, 1994
+0921 1994/0625: Fritzke_B, NIPS 7, 1994
+0922 1994/0633: Hinton_G, Jordan_M, Xu_L, NIPS 7, 1994
+0923 1994/0641: Bishop_C, Legleye_C, NIPS 7, 1994
+0924 1994/0649: Giles_C, Horne_B, Jim_K, NIPS 7, 1994
+0925 1994/0657: Camana_R, NIPS 7, 1994
+0926 1994/0665: Sperduti_A, Stork_D, NIPS 7, 1994
+0927 1994/0673: Hansen_L, Pedersen_M, NIPS 7, 1994
+0928 1994/0681: Kambhatla_N, Leen_T, NIPS 7, 1994
+0929 1994/0689: Ahmad_S, Neuneier_R, Tresp_V, NIPS 7, 1994
+0930 1994/0697: Giles_C, Horne_B, NIPS 7, 1994
+0931 1994/0705: Cohn_D, Ghahramani_Z, Jordan_M, NIPS 7, 1994
+0932 1994/0713: Gold_S, Mjolsness_E, Rangarajan_A, NIPS 7, 1994
+0933 1994/0721: Kazlas_P, Weigend_A, NIPS 7, 1994
+0934 1994/0731: Flower_B, Jabri_M, Pickard_S, NIPS 7, 1994
+0935 1994/0739: Coggins_R, Diorio_C, Hasler_P, Mead_C, Minch_B, NIPS 7, 1994
+0936 1994/0747: Cooper_L, Perrone_M, NIPS 7, 1994
+0937 1994/0755: Huertas_J, Linares-Barranco_B, Serrano-Gotarredona_T, NIPS 7, 1994
+0938 1994/0763: Churcher_S, Hajto_J, Holmes_A, Murray_A, Rose_M, NIPS 7, 1994
+0939 1994/0771: Behrman_E, Cmz-Cabrara_A, Skinner_S, Steck_J, NIPS 7, 1994
+0940 1994/0779: Cauwenberghs_G, Pedroni_V, NIPS 7, 1994
+0941 1994/0787: Horiuchi_T, NIPS 7, 1994
+0942 1994/0795: Andreou_A, Pineda_F, NIPS 7, 1994
+0943 1994/0803: Alspector_J, Lippe_D, NIPS 7, 1994
+0944 1994/0811: Han_I, Kim_K, Lee_H, NIPS 7, 1994
+0945 1994/0817: Hasler_P, NIPS 7, 1994
+0946 1994/0827: Slaney_M, NIPS 7, 1994
+0947 1994/0835: Robinson_A, Waterhouse_S, NIPS 7, 1994
+0948 1994/0843: Fels_S, Hinton_G, NIPS 7, 1994
+0949 1994/0851: Movellan_J, NIPS 7, 1994
+0950 1994/0859: Makhoul_J, Schwartz_R, Sroka_J, Zhao_Y, NIPS 7, 1994
+0951 1994/0867: Furlanello_C, Giuliani_D, Trentin_E, NIPS 7, 1994
+0952 1994/0875: Chang_E, Lippmann_R, NIPS 7, 1994
+0953 1994/0883: Back_A, Tsoi_A, NIPS 7, 1994
+0954 1994/0893: Ballard_D, Rao_R, NIPS 7, 1994
+0955 1994/0901: Nowlan_S, Platt_J, NIPS 7, 1994
+0956 1994/0909: Darrell_T, Essa_I, Pentland_A, NIPS 7, 1994
+0957 1994/0917: Sundareswaran_V, Vaina_L, NIPS 7, 1994
+0958 1994/0925: Dong_D, NIPS 7, 1994
+0959 1994/0933: Becker_S, NIPS 7, 1994
+0960 1994/0941: Bischof_H, Hornik_K, NIPS 7, 1994
+0961 1994/0949: Ando_H, Suzuki_S, NIPS 7, 1994
+0962 1994/0957: Gold_S, Lu_C, Mjolsness_E, Pappu_S, Rangarajan_A, NIPS 7, 1994
+0963 1994/0965: Hinton_G, Revow_M, Williams_C, NIPS 7, 1994
+0964 1994/0973: Bregler_C, Omohundro_S, NIPS 7, 1994
+0965 1994/0981: Bergen_J, Pearson_J, Spence_C, NIPS 7, 1994
+0966 1994/0991: Milgram_M, Schwenk_H, NIPS 7, 1994
+0967 1994/0999: Hastie_T, Sackinger_E, Simard_P, NIPS 7, 1994
+0968 1994/1007: Bishop_C, Haynes_P, Smith_M, Todd_T, Trotman_D, Windsor_C, NIPS 7, 1994
+0969 1994/1015: Dayan_P, Hinton_G, Revow_M, NIPS 7, 1994
+0970 1994/1023: Sanger_T, NIPS 7, 1994
+0971 1994/1031: Ke_L, McVey_B, Tokar_R, NIPS 7, 1994
+0972 1994/1039: Pomerleau_D, NIPS 7, 1994
+0973 1994/1047: Heil_S, Schmidhuber_J, NIPS 7, 1994
+0974 1994/1055: Kukolich_L, Lippmann_R, Shahian_D, NIPS 7, 1994
+0975 1994/1063: Burke_H, Goodman_P, Rosen_D, NIPS 7, 1994
+0976 1994/1069: Thmn_S, NIPS 7, 1994
+0977 1994/1077: Sejnowski_T, Stensmo_M, NIPS 7, 1994
+0978 1994/1085: Baldi_P, Burl_M, Fayyad_U, Perona_P, Smyth_P, NIPS 7, 1994
+0979 1994/1093: Finke_M, Manke_S, Waibel_A, NIPS 7, 1994
+0980 1994/1101: Asogawa_M, NIPS 7, 1994
+0981 1994/1109: Dreyfus_G, Knerr_S, Personnaz_L, Price_D, NIPS 7, 1994
+0982 1994/1117: Brashers-Krug_T, Mussa-lvaldi_F, Shadmehr_R, NIPS 7, 1994
+0983 1994/1125: Ghahramani_Z, Jordan_M, Wolpert_D, NIPS 7, 1994
+0984 1995/0003: Tenenbaum_J, NIPS 8, 1995
+0985 1995/0010: Pouget_A, Sejnowski_T, NIPS 8, 1995
+0986 1995/0017: Martin_G, NIPS 8, 1995
+0987 1995/0024: Craven_M, Shavlik_J, NIPS 8, 1995
+0988 1995/0031: Gourley_R, NIPS 8, 1995
+0989 1995/0038: Doya_K, Nakahara_H, NIPS 8, 1995
+0990 1995/0045: Cherkauer_K, Shavlik_J, NIPS 8, 1995
+0991 1995/0052: Denham_M, McCabe_S, NIPS 8, 1995
+0992 1995/0061: Rexlish_A, Touretzky_D, NIPS 8, 1995
+0993 1995/0068: Bair_W, Koch_C, Zohary_E, NIPS 8, 1995
+0994 1995/0075: Stevens_C, Zador_A, NIPS 8, 1995
+0995 1995/0082: Peterson_R, Taylor_J, NIPS 8, 1995
+0996 1995/0089: Coenen_O, Sejnowski_T, NIPS 8, 1995
+0997 1995/0096: Joseph_S, Willshaw_D, NIPS 8, 1995
+0998 1995/0103: Stevens_C, Zador_A, NIPS 8, 1995
+0999 1995/0110: Fry_C, NIPS 8, 1995
+1000 1995/0117: Flash_T, Handzel_A, NIPS 8, 1995
+1001 1995/0124: Gerstner_W, Kempter_R, VanHemmen_J, Wagner_H, NIPS 8, 1995
+1002 1995/0131: Cekic_M, Hasselmo_M, NIPS 8, 1995
+1003 1995/0138: Barto_A, Buckingham_J, Houk_J, NIPS 8, 1995
+1004 1995/0145: Bell_A, Jung_T, Makeig_S, Sejnowski_T, NIPS 8, 1995
+1005 1995/0152: Blair_H, NIPS 8, 1995
+1006 1995/0159: Furukawa_T, Yasui_S, NIPS 8, 1995
+1007 1995/0169: Baxter_J, NIPS 8, 1995
+1008 1995/0176: Amari_S, Finke_M, Mueller_K, Murata_N, Yang_H, NIPS 8, 1995
+1009 1995/0183: Kearns_M, NIPS 8, 1995
+1010 1995/0190: Krogh_A, Sollich_P, NIPS 8, 1995
+1011 1995/0197: Koiran_P, Sontag_E, NIPS 8, 1995
+1012 1995/0204: DasGupta_B, Sontag_E, NIPS 8, 1995
+1013 1995/0211: Maass_W, NIPS 8, 1995
+1014 1995/0218: Boes_S, NIPS 8, 1995
+1015 1995/0225: Rueget_S, NIPS 8, 1995
+1016 1995/0232: Snapp_R, Xu_T, NIPS 8, 1995
+1017 1995/0239: Kadirkamanathan_M, Kadirkamanathan_V, NIPS 8, 1995
+1018 1995/0246: Bohossian_V, Bruck_J, NIPS 8, 1995
+1019 1995/0253: Coolen_A, Laughton_S, Sherrington_D, NIPS 8, 1995
+1020 1995/0260: Mansour_Y, Sahar_S, NIPS 8, 1995
+1021 1995/0267: Shawe-Taylor_J, Zhao_J, NIPS 8, 1995
+1022 1995/0274: Abdallah_C, Heileman_G, Howse_J, NIPS 8, 1995
+1023 1995/0281: Bialek_W, DeWeese_M, NIPS 8, 1995
+1024 1995/0288: Hadjifaradji_S, Marchand_M, NIPS 8, 1995
+1025 1995/0295: Fukumizu_K, NIPS 8, 1995
+1026 1995/0302: Saad_D, Solla_S, NIPS 8, 1995
+1027 1995/0309: Helmbold_D, Kivinen_J, Warmuth_M, NIPS 8, 1995
+1028 1995/0316: Auer_P, Herbster_M, Warmuth_M, NIPS 8, 1995
+1029 1995/0323: Saad_D, West_A, NIPS 8, 1995
+1030 1995/0330: Finch_S, Goodhill_G, NIPS 8, 1995
+1031 1995/0337: Meyer-Baese_A, Ohl_F, Scheich_H, NIPS 8, 1995
+1032 1995/0344: Bartlett_P, Kowalczyk_A, Szymanski_J, Williamson_R, NIPS 8, 1995
+1033 1995/0351: MacKay_D, Robinson_A, Waterhouse_S, NIPS 8, 1995
+1034 1995/0358: Seinenov_S, Shuvalova_LB, NIPS 8, 1995
+1035 1995/0365: Dodier_R, NIPS 8, 1995
+1036 1995/0372: Botelho_F, Garzon_M, Jagota_A, Wang_X, NIPS 8, 1995
+1037 1995/0381: Singer_Y, NIPS 8, 1995
+1038 1995/0388: Bourlard_H, Konig_Y, Morgan_N, NIPS 8, 1995
+1039 1995/0395: Bengio_Y, Gingras_F, NIPS 8, 1995
+1040 1995/0402: Omohundro_S, NIPS 8, 1995
+1041 1995/0409: Hastie_T, Tibshirani_R, NIPS 8, 1995
+1042 1995/0416: Blatt_M, Domany_E, Wiseman_S, NIPS 8, 1995
+1043 1995/0423: Sato_A, Yamada_K, NIPS 8, 1995
+1044 1995/0430: Juels_A, Wattenberg_M, NIPS 8, 1995
+1045 1995/0437: Parra_L, NIPS 8, 1995
+1046 1995/0444: Xu_L, NIPS 8, 1995
+1047 1995/0451: Baldi_P, Homik_K, NIPS 8, 1995
+1048 1995/0458: Moody_J, Wu_L, NIPS 8, 1995
+1049 1995/0465: Bishop_C, Svensen_M, Williams_C, NIPS 8, 1995
+1050 1995/0472: Ghahramani_Z, Jordan_M, NIPS 8, 1995
+1051 1995/0479: Cones_C, Drucker_H, NIPS 8, 1995
+1052 1995/0486: Jordan_M, Saul_L, NIPS 8, 1995
+1053 1995/0493: Bengio_Y, Hihi_S, NIPS 8, 1995
+1054 1995/0500: Hofmann_R, Tresp_V, NIPS 8, 1995
+1055 1995/0507: Hinton_G, Revow_M, NIPS 8, 1995
+1056 1995/0514: Williams_C, NIPS 8, 1995
+1057 1995/0521: Hansen_L, Larsen_J, Pealersen_M, NIPS 8, 1995
+1058 1995/0528: Jaakkola_T, Jordan_M, Saul_L, NIPS 8, 1995
+1059 1995/0535: Opitz_D, Shavlik_J, NIPS 8, 1995
+1060 1995/0542: Ormoneit_D, Tresp_V, NIPS 8, 1995
+1061 1995/0549: Elman_J, Rebotier_T, NIPS 8, 1995
+1062 1995/0556: Flake_G, NIPS 8, 1995
+1063 1995/0563: Schraudolph_N, Sejnowski_T, NIPS 8, 1995
+1064 1995/0570: Ritter_H, Walter_J, NIPS 8, 1995
+1065 1995/0577: Giles_C, Home_B, Lin_T, Tino_P, NIPS 8, 1995
+1066 1995/0584: Robinson_A, Waterhouse_S, NIPS 8, 1995
+1067 1995/0591: Gersho_A, Miller_O, Rao_A, Rose_K, NIPS 8, 1995
+1068 1995/0598: Rasmussen_C, NIPS 8, 1995
+1069 1995/0605: Atkeson_C, Schaal_S, NIPS 8, 1995
+1070 1995/0612: Kremer_S, NIPS 8, 1995
+1071 1995/0619: Asanovic_K, Beck_J, Johnson_D, Kingsbury_B, Morgan_N, Wawrzynek_J, NIPS 8, 1995
+1072 1995/0626: Gold_S, Rangarajan_A, NIPS 8, 1995
+1073 1995/0633: Mjolsness_E, Tsioutsias_O, NIPS 8, 1995
+1074 1995/0640: Thrun_S, NIPS 8, 1995
+1075 1995/0647: Towell_G, NIPS 8, 1995
+1076 1995/0654: Craven_M, Jackson_J, NIPS 8, 1995
+1077 1995/0661: Dayan_P, Frey_B, Hinton_G, NIPS 8, 1995
+1078 1995/0671: Fragniere_E, VanSchaik_A, Vittoz_E, NIPS 8, 1995
+1079 1995/0678: Boahen_K, Liu_S, NIPS 8, 1995
+1080 1995/0685: Kaihara_R, Morimoto_T, Nakai_T, Ohmi_T, Shibata_T, Yamashita_T, NIPS 8, 1995
+1081 1995/0692: Cauwenberghs_G, Edwards_R, NIPS 8, 1995
+1082 1995/0699: Lazzaro_J, Wawrzynek_J, NIPS 8, 1995
+1083 1995/0706: Etienne-Cummings_R, VanderSpiegel_J, NIPS 8, 1995
+1084 1995/0713: Hammerstrom_D, Rehfuss_S, NIPS 8, 1995
+1085 1995/0720: Indiveri_G, Koch_C, Kramer_J, NIPS 8, 1995
+1086 1995/0729: Smith_L, NIPS 8, 1995
+1087 1995/0736: Cboe_Y, Miikkulainen_R, Sirosh_J, NIPS 8, 1995
+1088 1995/0743: Robinson_A, Senior_A, NIPS 8, 1995
+1089 1995/0750: Hochberg_M, Kershaw_D, Robinson_A, NIPS 8, 1995
+1090 1995/0757: Amari_S, Cichocki_A, Yang_H, NIPS 8, 1995
+1091 1995/0764: Gilloux_M, Lemarie_B, Leroux_M, NIPS 8, 1995
+1092 1995/0771: Alpaydin_E, NIPS 8, 1995
+1093 1995/0778: Shustorovich_A, Thrasher_C, NIPS 8, 1995
+1094 1995/0785: Back_A, Lawrence_S, Tsoi_A, NIPS 8, 1995
+1095 1995/0795: Gold_S, Pappu_S, Rangarajan_A, NIPS 8, 1995
+1096 1995/0802: Koch_C, Niebur_E, NIPS 8, 1995
+1097 1995/0809: Softky_W, NIPS 8, 1995
+1098 1995/0816: Alley_R, Hubbard_W, Marshall_J, NIPS 8, 1995
+1099 1995/0823: Bartlett_M, Ekman_P, Hager_J, Larsen_J, Sejnowski_T, Viola_P, NIPS 8, 1995
+1100 1995/0830: Ballard_D, Hayhoe_M, Rao_R, Zelinsky_G, NIPS 8, 1995
+1101 1995/0837: Grunewald_A, NIPS 8, 1995
+1102 1995/0844: Pessoa_L, Ross_W, NIPS 8, 1995
+1103 1995/0851: Schraudolph_N, Sejnowski_T, Viola_P, NIPS 8, 1995
+1104 1995/0858: Darrell_T, Pentland_A, NIPS 8, 1995
+1105 1995/0865: Mel_B, NIPS 8, 1995
+1106 1995/0875: Baluja_S, Kanade_T, Rowley_H, NIPS 8, 1995
+1107 1995/0882: Doyle_H, Munro_P, Parmanto_B, NIPS 8, 1995
+1108 1995/0889: Matsuoka_Y, NIPS 8, 1995
+1109 1995/0896: Stone_P, Veloso_M, NIPS 8, 1995
+1110 1995/0903: Drees_A, Littmann_E, Ritter_H, NIPS 8, 1995
+1111 1995/0910: Jabri_M, Wang_R, NIPS 8, 1995
+1112 1995/0917: Krogh_A, Riis_S, NIPS 8, 1995
+1113 1995/0924: Darken_C, Hanson_S, Kuhn_G, Marcantonio_A, Petsehe_T, Santoso_I, NIPS 8, 1995
+1114 1995/0931: Jung_T, Makeig_S, Sejnowski_T, NIPS 8, 1995
+1115 1995/0938: Allen_T, Platt_J, NIPS 8, 1995
+1116 1995/0945: Choi_S, Yeung_D, NIPS 8, 1995
+1117 1995/0952: Neuneier_R, NIPS 8, 1995
+1118 1995/0959: Baluja_S, Caruana_R, Mitchell_T, NIPS 8, 1995
+1119 1995/0966: Levin_A, NIPS 8, 1995
+1120 1995/0973: Campbell_P, Dale_M, Ferra_H, Kowalczyk_A, NIPS 8, 1995
+1121 1995/0980: Bolouri_H, Dixon_L, Ferguson_A, Kaye_P, Sabisch._T, NIPS 8, 1995
+1122 1995/0989: Fukumura_N, Tani_J, NIPS 8, 1995
+1123 1995/0996: Coelho_J, Grupen_R, Sitaramen_R, NIPS 8, 1995
+1124 1995/1003: Jordan_M, Meila_M, NIPS 8, 1995
+1125 1995/1010: Annaswamy_A, Yu_S, NIPS 8, 1995
+1126 1995/1017: Barto_A, Crites_R, NIPS 8, 1995
+1127 1995/1024: Dietterich_T, Zhang_W, NIPS 8, 1995
+1128 1995/1031: Jackson_G, Murray_A, NIPS 8, 1995
+1129 1995/1038: Sutton_R, NIPS 8, 1995
+1130 1995/1045: Roy_B, Tsitsiklis_J, NIPS 8, 1995
+1131 1995/1052: Gordon_G, NIPS 8, 1995
+1132 1995/1059: Dayan_P, Singh_S, NIPS 8, 1995
+1133 1995/1066: Moore_A, Schneider_J, NIPS 8, 1995
+1134 1995/1073: Doya_K, NIPS 8, 1995
+1135 1995/1080: Jordan_M, Sabes_P, NIPS 8, 1995
+1136 1996/0003: Barto_A, Callan_J, Papka_R, NIPS 9, 1996
+1137 1996/0010: Blair_A, Pollack_J, NIPS 9, 1996
+1138 1996/0017: Dayan_P, Riesenhuber_M, NIPS 9, 1996
+1139 1996/0027: Attias_H, Schreiner_C, NIPS 9, 1996
+1140 1996/0034: Bair_W, Cavanaugh_J, Movshon_J, NIPS 9, 1996
+1141 1996/0041: Bricolo_E, Logothetis_N, Poggio_T, NIPS 9, 1996
+1142 1996/0048: Dayan_P, NIPS 9, 1996
+1143 1996/0055: Ferree_T, Lockery_S, Marcotte_B, NIPS 9, 1996
+1144 1996/0062: Gabbiani_F, Koch_C, Metznet_W, Wessel_R, NIPS 9, 1996
+1145 1996/0069: Li_Z, NIPS 9, 1996
+1146 1996/0076: Deco_G, Laskey_K, Martignon_L, Vaadia_E, NIPS 9, 1996
+1147 1996/0083: Archie_K, Mel_B, Ruderman_D, NIPS 9, 1996
+1148 1996/0090: Fanst_U, Geisel_T, Pawelzik_K, Wolf_F, NIPS 9, 1996
+1149 1996/0097: Pouget_A, Zhang_K, NIPS 9, 1996
+1150 1996/0104: Bisio_G, Sabatini_S, Solari_F, NIPS 9, 1996
+1151 1996/0111: Bartels_A, Sejnowski_T, Tang_A, NIPS 9, 1996
+1152 1996/0118: Siapas_A, Somers_D, Todorov_E, NIPS 9, 1996
+1153 1996/0127: Amari_S, NIPS 9, 1996
+1154 1996/0134: Bartlett_P, NIPS 9, 1996
+1155 1996/0141: Bos_S, Opper_M, NIPS 9, 1996
+1156 1996/0148: Brightwell_G, Kenyon_C, Paugam-Moisy_H, NIPS 9, 1996
+1157 1996/0155: Burges_C, Dmcker_H, Kaufman_L, Smola_A, Vapnik_V, NIPS 9, 1996
+1158 1996/0162: Elisseeff_A, Paugam-Moisy_H, NIPS 9, 1996
+1159 1996/0169: Halkjaer_S, Winther_O, NIPS 9, 1996
+1160 1996/0176: Heskes_T, NIPS 9, 1996
+1161 1996/0183: Kang_K, Oh_J, NIPS 9, 1996
+1162 1996/0190: Ferni_H, Kowalczyk_A, NIPS 9, 1996
+1163 1996/0197: Krzyzak_A, Linder_T, NIPS 9, 1996
+1164 1996/0204: Littlestone_N, Mesterharm_C, NIPS 9, 1996
+1165 1996/0211: Maass_W, NIPS 9, 1996
+1166 1996/0218: Maass_W, Orponen_P, NIPS 9, 1996
+1167 1996/0225: Opper_M, Winther_O, NIPS 9, 1996
+1168 1996/0232: Orr_G, NIPS 9, 1996
+1169 1996/0239: Parberry_I, Tseng_H, NIPS 9, 1996
+1170 1996/0246: Noda_H, Peper_F, NIPS 9, 1996
+1171 1996/0253: Morciniec_M, Rohwer_R, NIPS 9, 1996
+1172 1996/0260: Saad_D, Solla_S, NIPS 9, 1996
+1173 1996/0267: Jordan_M, Saul_L, NIPS 9, 1996
+1174 1996/0274: Barber_D, Sollich_P, NIPS 9, 1996
+1175 1996/0281: Golowich_S, Smola_A, Vapnik_V, NIPS 9, 1996
+1176 1996/0288: Nabney_I, Saad_D, West_A, NIPS 9, 1996
+1177 1996/0295: Williams_C, NIPS 9, 1996
+1178 1996/0302: Wong_K, NIPS 9, 1996
+1179 1996/0309: Adler_R, Meir_R, Zeevi_A, NIPS 9, 1996
+1180 1996/0319: Baluja_S, NIPS 9, 1996
+1181 1996/0326: Baram_Y, NIPS 9, 1996
+1182 1996/0333: Barber_D, Bishop_C, NIPS 9, 1996
+1183 1996/0340: Barber_D, Williams_C, NIPS 9, 1996
+1184 1996/0347: Bishop_C, Qazaz_C, NIPS 9, 1996
+1185 1996/0354: Bishop_C, Svensen_M, Williams_C, NIPS 9, 1996
+1186 1996/0361: Blake_A, Isard_M, NIPS 9, 1996
+1187 1996/0368: Bradley_P, Mangasarian_O, Street_W, NIPS 9, 1996
+1188 1996/0375: Burges_C, Scholkopf_B, NIPS 9, 1996
+1189 1996/0382: Burgess_A, NIPS 9, 1996
+1190 1996/0389: Caruana_R, DeSa_V, NIPS 9, 1996
+1191 1996/0396: Chatterjee_C, Roychowdhury_V, NIPS 9, 1996
+1192 1996/0403: Clouse_D, Cottrell_G, Giles_C, Horne_B, NIPS 9, 1996
+1193 1996/0410: Coetzee_F, Stonick_V, NIPS 9, 1996
+1194 1996/0417: Cohn_D, NIPS 9, 1996
+1195 1996/0424: DeBonet_J, Isbell_C, Viola_P, NIPS 9, 1996
+1196 1996/0431: Dunmur_A, Titterington_D, NIPS 9, 1996
+1197 1996/0438: Finch_A, Hancock_E, Wilson_R, NIPS 9, 1996
+1198 1996/0445: Flexer_A, NIPS 9, 1996
+1199 1996/0452: Frey_B, NIPS 9, 1996
+1200 1996/0459: Finke_M, Fritsch_J, Waibel_A, NIPS 9, 1996
+1201 1996/0466: Heskes_T, NIPS 9, 1996
+1202 1996/0473: Hochreiter_S, Schmidhuber_J, NIPS 9, 1996
+1203 1996/0480: Hyvarinen_A, Oja_E, NIPS 9, 1996
+1204 1996/0487: Jaakkola_T, Jordan_M, NIPS 9, 1996
+1205 1996/0494: Ji_C, Ma_S, NIPS 9, 1996
+1206 1996/0501: Ghahramani_Z, Jordan_M, Saul_L, NIPS 9, 1996
+1207 1996/0508: Kamimura_R, NIPS 9, 1996
+1208 1996/0515: Lee_D, Seung_H, NIPS 9, 1996
+1209 1996/0522: Hornik_K, Leiseh_F, NIPS 9, 1996
+1210 1996/0529: Lewicki_M, Sejnowski_T, NIPS 9, 1996
+1211 1996/0536: Cowan_J, Grier_D, Lin_J, NIPS 9, 1996
+1212 1996/0543: Lowe_D, Tipping_M, NIPS 9, 1996
+1213 1996/0550: Mathieson_M, NIPS 9, 1996
+1214 1996/0557: Jordan_M, Meila_M, NIPS 9, 1996
+1215 1996/0564: Merz_C, Pazzani_M, NIPS 9, 1996
+1216 1996/0571: Miller_D, Uyar_H, NIPS 9, 1996
+1217 1996/0578: Cooper_G, Monti_S, NIPS 9, 1996
+1218 1996/0585: Moody_J, Rognvaldsson_T, NIPS 9, 1996
+1219 1996/0592: Munro_P, Parmanto_B, NIPS 9, 1996
+1220 1996/0599: Amari_S, Milllet_K, Mumta_N, Ziehe_A, NIPS 9, 1996
+1221 1996/0606: Leen_T, Orr_G, NIPS 9, 1996
+1222 1996/0613: Parra_L, Pearlmutter_B, NIPS 9, 1996
+1223 1996/0620: Gold_S, Mjolsness_E, Rangarajan_A, Yuille_A, NIPS 9, 1996
+1224 1996/0627: Nakano_R, Saito_K, NIPS 9, 1996
+1225 1996/0634: Abu-Mostafa_Y, Sill_J, NIPS 9, 1996
+1226 1996/0641: Singer_Y, Warmuth_M, NIPS 9, 1996
+1227 1996/0648: Smyth_P, NIPS 9, 1996
+1228 1996/0655: Riedmiller_M, Stahlberger_A, NIPS 9, 1996
+1229 1996/0662: Freeman_W, Tenenbaum_J, NIPS 9, 1996
+1230 1996/0669: Neuneier_R, Tresp_V, Zimmermann_H, NIPS 9, 1996
+1231 1996/0676: Dayan_P, Pouget_A, Zemel_R, NIPS 9, 1996
+1232 1996/0685: Apsel_A, Etienne-Cummings_R, Mueller_P, Takahashi_N, VanderSpiegel_J, NIPS 9, 1996
+1233 1996/0692: Hiffiiger_P, Mahowald_M, Watts_L, NIPS 9, 1996
+1234 1996/0699: Chiang_Y, Harris_J, NIPS 9, 1996
+1235 1996/0706: DeWeerth_S, Horiuchi_T, Koch_C, Morris_T, NIPS 9, 1996
+1236 1996/0713: Iizuka_K, Matsui_H, Miyamoto_M, NIPS 9, 1996
+1237 1996/0720: Hasler_P, Koch_C, Kruger_W, Minch_B, NIPS 9, 1996
+1238 1996/0727: Lazzaro_J, Lippmann_R, Wawrzynek_J, NIPS 9, 1996
+1239 1996/0734: Cauwenberghs_G, Edwards_R, Pineda_F, NIPS 9, 1996
+1240 1996/0741: Fragniere_E, Vittoz_E, van-Schaik_A, NIPS 9, 1996
+1241 1996/0751: Gray_M, Movellan_J, Sejnowski_T, NIPS 9, 1996
+1242 1996/0758: Bell_A, Lambert_R, Lee_T, NIPS 9, 1996
+1243 1996/0765: Matic_N, Platt_J, NIPS 9, 1996
+1244 1996/0772: Neukirchen_C, Rigoll_G, NIPS 9, 1996
+1245 1996/0779: Robel_A, NIPS 9, 1996
+1246 1996/0786: Sona_D, Sperduti_A, Starita_A, NIPS 9, 1996
+1247 1996/0793: Nelson_A, Wan_E, NIPS 9, 1996
+1248 1996/0800: Cook_G, Waterhouse_S, NIPS 9, 1996
+1249 1996/0807: Lyon_R, Webb_B, Yaeger_L, NIPS 9, 1996
+1250 1996/0817: Bartlett_M, Sejnowski_T, NIPS 9, 1996
+1251 1996/0824: Becker_S, NIPS 9, 1996
+1252 1996/0831: Bell_A, Sejnowski_T, NIPS 9, 1996
+1253 1996/0838: Bienenstock_E, Geman_S, Potter_D, NIPS 9, 1996
+1254 1996/0845: Bregler_C, Malik_J, NIPS 9, 1996
+1255 1996/0852: Cowan_J, Dimitrov_A, NIPS 9, 1996
+1256 1996/0859: Dong_D, NIPS 9, 1996
+1257 1996/0866: Gray_M, Nowlan_S, Pouget_A, Sejnowski_T, Zemel_R, NIPS 9, 1996
+1258 1996/0873: Grossberg_S, Williamson_J, NIPS 9, 1996
+1259 1996/0880: Hancock_E, Leite_J, NIPS 9, 1996
+1260 1996/0887: Cowan_J, Dimitrov_A, Mundel_T, NIPS 9, 1996
+1261 1996/0894: Cottrell_G, Padgett_C, NIPS 9, 1996
+1262 1996/0901: Gautrals_J, Thorpe_S, NIPS 9, 1996
+1263 1996/0908: Weiss_Y, NIPS 9, 1996
+1264 1996/0915: Finkel_L, Yen_S, NIPS 9, 1996
+1265 1996/0925: Abramowicz_H, Horn_D, Naftaly_U, Sahar-Pikielny_C, NIPS 9, 1996
+1266 1996/0932: Brown_T, NIPS 9, 1996
+1267 1996/0939: Cohn_D, Singh_S, NIPS 9, 1996
+1268 1996/0946: Bengio_Y, Ghosn_J, NIPS 9, 1996
+1269 1996/0953: Dodier_R, Mozer_M, Vidmar_L, NIPS 9, 1996
+1270 1996/0960: Niranjan_M, NIPS 9, 1996
+1271 1996/0967: Band_P, Bert_J, Grace_J, Plate_T, NIPS 9, 1996
+1272 1996/0974: Bertsekas_D, Singh_S, NIPS 9, 1996
+1273 1996/0981: Ghosh_J, Ramanujam_N, Richards-Kortum_R, Tumer_K, NIPS 9, 1996
+1274 1996/0988: Bone_D, Wan_E, NIPS 9, 1996
+1275 1996/0995: Moody_J, Wu_L, NIPS 9, 1996
+1276 1996/1005: Davies_S, NIPS 9, 1996
+1277 1996/1012: Doya_K, NIPS 9, 1996
+1278 1996/1019: Barto_A, Duff_M, NIPS 9, 1996
+1279 1996/1026: Barto_A, Hansen_E, Zilberstein_S, NIPS 9, 1996
+1280 1996/1033: Pareigis_S, NIPS 9, 1996
+1281 1996/1040: Schaal_S, NIPS 9, 1996
+1282 1996/1047: Schneider_J, NIPS 9, 1996
+1283 1996/1054: Dayan_P, Singh_S, NIPS 9, 1996
+1284 1996/1061: Sejnowski_T, Stensmo_M, NIPS 9, 1996
+1285 1996/1068: Galperin_G, Tesauro_G, NIPS 9, 1996
+1286 1996/1075: Tsitsiklis_J, Van-Roy_B, NIPS 9, 1996
+1287 1996/1082: Tsitsiklis_J, Van-Roy_B, NIPS 9, 1996
+1288 1997/0003: Baird_B, NIPS 10, 1997
+1289 1997/0010: Cohen_E, Ruppin_E, NIPS 10, 1997
+1290 1997/0017: Cottrell_G, Dailey_M, NIPS 10, 1997
+1291 1997/0024: Deneve_S, Pouget_A, NIPS 10, 1997
+1292 1997/0031: Hadden_L, NIPS 10, 1997
+1293 1997/0038: Houde_J, Jordan_M, NIPS 10, 1997
+1294 1997/0045: Foltz_P, Laham_D, Landauer_T, NIPS 10, 1997
+1295 1997/0052: Horn_D, Levy_N, Ruppin_E, NIPS 10, 1997
+1296 1997/0059: Cottrell_G, Milostan_J, NIPS 10, 1997
+1297 1997/0066: Farah_M, Mozer_M, Sitton_M, NIPS 10, 1997
+1298 1997/0073: McClelland_J, Norman_K, O'Reilly_R, NIPS 10, 1997
+1299 1997/0080: Rao_R, NIPS 10, 1997
+1300 1997/0087: Rodriguez_P, Wiles_J, NIPS 10, 1997
+1301 1997/0094: Jabd_M, Latimer_C, Schenkel_M, NIPS 10, 1997
+1302 1997/0103: Attias_H, Schreiner_C, NIPS 10, 1997
+1303 1997/0110: Berry_M, Meister_M, NIPS 10, 1997
+1304 1997/0117: Dayan_P, Long_T, NIPS 10, 1997
+1305 1997/0124: DeCharms_R, Merzenich_M, NIPS 10, 1997
+1306 1997/0131: DeCharms_R, DeSa_V, Merzenich_M, NIPS 10, 1997
+1307 1997/0138: Anastasio_T, Dow_F, NIPS 10, 1997
+1308 1997/0145: Dayan_P, Foster_D, Morris_R, NIPS 10, 1997
+1309 1997/0152: Goodhill_G, NIPS 10, 1997
+1310 1997/0159: Goodhill_G, NIPS 10, 1997
+1311 1997/0166: Brody_C, Hopfield_J, Roweis_S, NIPS 10, 1997
+1312 1997/0173: Braun_J, Itti_L, Koch_C, Lee_D, NIPS 10, 1997
+1313 1997/0180: Kvale_M, Schreiner_C, NIPS 10, 1997
+1314 1997/0187: Lumer_E, NIPS 10, 1997
+1315 1997/0194: Maass_W, Zador_A, NIPS 10, 1997
+1316 1997/0201: Koch_C, Manwani_A, NIPS 10, 1997
+1317 1997/0208: Archie_K, Mel_B, Ruderman_D, NIPS 10, 1997
+1318 1997/0215: Poggio_T, Riesenhuber_M, NIPS 10, 1997
+1319 1997/0222: Andersen_R, Pezaris_J, Sahani_M, NIPS 10, 1997
+1320 1997/0229: Hamalainen_M, Hari_R, Jousmaki_V, Oja_E, Vigario_R, NIPS 10, 1997
+1321 1997/0236: Gallant_J, Vinje_W, NIPS 10, 1997
+1322 1997/0245: Bartlett_P, Baxter_J, NIPS 10, 1997
+1323 1997/0252: Bohossian_V, Bruck_J, NIPS 10, 1997
+1324 1997/0259: Bartlett_P, Golea_M, Lee_W, Mason_L, NIPS 10, 1997
+1325 1997/0266: Heskes_T, NIPS 10, 1997
+1326 1997/0273: Hyvarinen_A, NIPS 10, 1997
+1327 1997/0280: Kappen_H, Rodriguez_F, NIPS 10, 1997
+1328 1997/0287: Kivinen_J, Warmuth_M, NIPS 10, 1997
+1329 1997/0294: Koistinen_P, NIPS 10, 1997
+1330 1997/0301: Leen_T, Saad_D, Schottky_B, NIPS 10, 1997
+1331 1997/0308: Meir_R, NIPS 10, 1997
+1332 1997/0315: Kanter_I, Kessler_D, Priel_A, NIPS 10, 1997
+1333 1997/0322: Rattray_M, Saad_D, NIPS 10, 1997
+1334 1997/0329: Hopfield_J, Lagarias_J, Richardson_T, Seung_H, NIPS 10, 1997
+1335 1997/0336: Cristianini_N, Shawe-Taylor_J, NIPS 10, 1997
+1336 1997/0343: Scholkopf_B, Smola_A, NIPS 10, 1997
+1337 1997/0350: Lee_D, Seung_H, Socci_N, NIPS 10, 1997
+1338 1997/0357: Barber_D, Sollich_P, NIPS 10, 1997
+1339 1997/0364: Vovk_V, NIPS 10, 1997
+1340 1997/0371: Vu_V, NIPS 10, 1997
+1341 1997/0378: Kwon_C, Oh_J, Xiong_Y, NIPS 10, 1997
+1342 1997/0385: Amari_S, Yang_H, NIPS 10, 1997
+1343 1997/0395: Barber_D, Bishop_C, NIPS 10, 1997
+1344 1997/0402: Barber_D, Schottky_B, NIPS 10, 1997
+1345 1997/0409: Bengio_S, Bengio_Y, Isabelle_J, Singer_Y, NIPS 10, 1997
+1346 1997/0416: Bishop_C, Jaakkola_T, Jordan_M, Lawrence_N, NIPS 10, 1997
+1347 1997/0423: Blais_B, Cooper_L, Intrator_N, Shouval_H, NIPS 10, 1997
+1348 1997/0430: Burger_M, Graepel_T, Obermayer_K, NIPS 10, 1997
+1349 1997/0437: Cataltepe_Z, Magdon-Ismail_M, NIPS 10, 1997
+1350 1997/0444: Cttien_S, Mutz_D, Stechert_A, NIPS 10, 1997
+1351 1997/0451: Cohen_W, Schapire_R, Singer_Y, NIPS 10, 1997
+1352 1997/0458: DeFreitas_J, Gee_A, Niranjan_M, NIPS 10, 1997
+1353 1997/0465: El-Yaniv_R, Fine_S, Tishby_N, NIPS 10, 1997
+1354 1997/0472: Bernier_O, Feraud_R, NIPS 10, 1997
+1355 1997/0479: Frey_B, MacKay_D, NIPS 10, 1997
+1356 1997/0486: Ghahramani_Z, Hinton_G, NIPS 10, 1997
+1357 1997/0493: Bishop_C, Goldberg_P, Williams_C, NIPS 10, 1997
+1358 1997/0500: Grove_A, Roth_D, NIPS 10, 1997
+1359 1997/0507: Hastie_T, Tibshirani_R, NIPS 10, 1997
+1360 1997/0514: Buhmann_J, Held_M, NIPS 10, 1997
+1361 1997/0521: Hofmann_R, Tresp_V, NIPS 10, 1997
+1362 1997/0528: Buhmann_J, Hofmann_T, NIPS 10, 1997
+1363 1997/0535: Horne_B, Hush_D, Lozano_F, NIPS 10, 1997
+1364 1997/0542: Hastie_T, James_G, NIPS 10, 1997
+1365 1997/0549: Kiviluoto_K, Oja_E, NIPS 10, 1997
+1366 1997/0556: Lewicki_M, Sejnowski_T, NIPS 10, 1997
+1367 1997/0563: Lin_J, NIPS 10, 1997
+1368 1997/0570: Lozano-Perez_T, Maron_O, NIPS 10, 1997
+1369 1997/0577: Marts_A, NIPS 10, 1997
+1370 1997/0584: Jordan_M, Meila_M, NIPS 10, 1997
+1371 1997/0591: Metz_C, NIPS 10, 1997
+1372 1997/0598: Mineiro_P, Movellan_J, Williams_R, NIPS 10, 1997
+1373 1997/0605: Oh_J, Seung_H, NIPS 10, 1997
+1374 1997/0612: Ratsaby_J, NIPS 10, 1997
+1375 1997/0619: Ring_M, NIPS 10, 1997
+1376 1997/0626: Roweis_S, NIPS 10, 1997
+1377 1997/0633: Atkeson_C, Schaal_S, Vijayahunar_S, NIPS 10, 1997
+1378 1997/0640: Scholkopf_B, Simard_P, Smola_A, Vapnik_V, NIPS 10, 1997
+1379 1997/0647: Bengio_Y, Schwenk_H, NIPS 10, 1997
+1380 1997/0654: Seung_H, NIPS 10, 1997
+1381 1997/0661: Sill_J, NIPS 10, 1997
+1382 1997/0668: Smyth_P, Wolpert_D, NIPS 10, 1997
+1383 1997/0675: Palm_G, Sommex_F, NIPS 10, 1997
+1384 1997/0682: Tenenbaum_J, NIPS 10, 1997
+1385 1997/0689: Hancock_E, Wilson_R, NIPS 10, 1997
+1386 1997/0696: Yang_H, NIPS 10, 1997
+1387 1997/0705: Hirai_Y, NIPS 10, 1997
+1388 1997/0712: Liu_S, NIPS 10, 1997
+1389 1997/0719: DeWeerth_S, Holleman_J, Patel_G, NIPS 10, 1997
+1390 1997/0726: Hui_K, Shi_B, NIPS 10, 1997
+1391 1997/0735: Kohlmorgen_J, Muller_K, Pawelzik_K, NIPS 10, 1997
+1392 1997/0742: Mineiro_P, Movellan_J, NIPS 10, 1997
+1393 1997/0749: Rahim_M, Saul_L, NIPS 10, 1997
+1394 1997/0756: Torkkola_K, NIPS 10, 1997
+1395 1997/0763: Rigoll_G, Willett_D, NIPS 10, 1997
+1396 1997/0773: DeBonet_J, Viola_P, NIPS 10, 1997
+1397 1997/0780: Cross_A, Hancock_E, NIPS 10, 1997
+1398 1997/0787: Freeman_W, Viola_P, NIPS 10, 1997
+1399 1997/0794: Geiger_D, Maloney_L, Rudra_A, NIPS 10, 1997
+1400 1997/0801: Grunewald_A, Neumann_H, NIPS 10, 1997
+1401 1997/0808: Henkel_R, NIPS 10, 1997
+1402 1997/0815: Lewicki_M, Olshausen_B, NIPS 10, 1997
+1403 1997/0822: Lewis_M, NIPS 10, 1997
+1404 1997/0829: Kersten_D, Liu_Z, NIPS 10, 1997
+1405 1997/0836: Mato_G, Nadal_J, Parga_N, Turiel_A, NIPS 10, 1997
+1406 1997/0843: Lippman_A, Vasconcelos_N, NIPS 10, 1997
+1407 1997/0850: Weiss_Y, NIPS 10, 1997
+1408 1997/0859: Baluja_S, NIPS 10, 1997
+1409 1997/0866: DeBonet_J, Viola_P, NIPS 10, 1997
+1410 1997/0873: Cai_D, Etienne-Cummings_R, NIPS 10, 1997
+1411 1997/0880: Harrison_R, Koch_C, NIPS 10, 1997
+1412 1997/0887: Hornel_D, NIPS 10, 1997
+1413 1997/0894: Humphties_C, Iragui_V, Jung_T, Lee_T, Makeig_S, McKeown_M, Sejnowski_T, NIPS 10, 1997
+1414 1997/0901: Inbar_G, Lange_D, Pratt_H, Siegelmann_H, NIPS 10, 1997
+1415 1997/0908: Lee_D, Seung_H, NIPS 10, 1997
+1416 1997/0915: Ji_C, Ma_S, NIPS 10, 1997
+1417 1997/0922: Marbach_P, Mihatsch_O, Schulte_M, Tsitsiklis_J, NIPS 10, 1997
+1418 1997/0929: Brodley_C, Cavazos_J, Moss_E, Precup_D, Scheeff_D, Stefanovic_D, Utgoff_P, NIPS 10, 1997
+1419 1997/0936: Neuneier_R, NIPS 10, 1997
+1420 1997/0943: Lin_M, Miikkulainen_R, Ryan_J, NIPS 10, 1997
+1421 1997/0950: Abu-Mostafa_Y, Kasdan_H, Sill_J, Song_X, NIPS 10, 1997
+1422 1997/0957: Goodman_R, Hawkins_J, Spangler_R, NIPS 10, 1997
+1423 1997/0964: Dorffner_G, Rappelsberger_P, Sykacek_P, Zeitlhofer_J, NIPS 10, 1997
+1424 1997/0971: Briegel_T, Tresp_V, NIPS 10, 1997
+1425 1997/0978: Moteau_Y, Timmerman_D, Vandewalle_J, Verrelst_H, NIPS 10, 1997
+1426 1997/0985: Williams_P, NIPS 10, 1997
+1427 1997/0992: Neuneier_R, Zimmermann_H, NIPS 10, 1997
+1428 1997/1001: Andre_D, Friedman_N, Parr_R, NIPS 10, 1997
+1429 1997/1008: Atkeson_C, NIPS 10, 1997
+1430 1997/1015: Hansen_E, NIPS 10, 1997
+1431 1997/1022: Barto_A, Monaco_J, Ward_D, NIPS 10, 1997
+1432 1997/1029: Bourgine_P, Munos_R, NIPS 10, 1997
+1433 1997/1036: Pareigis_S, NIPS 10, 1997
+1434 1997/1043: Parr_R, Russell_S, NIPS 10, 1997
+1435 1997/1050: Precup_D, Sutton_R, NIPS 10, 1997
+1436 1997/1057: Cohn_D, Singh_S, NIPS 10, 1997
+1437 1997/1064: Szepesvfixi_C, NIPS 10, 1997
+1438 1997/1071: Nakashima_M, Watanabe_A, Yamaria_S, NIPS 10, 1997
+1439 1998/0003: Bhushan_N, Shadmehr_R, NIPS 11, 1998
+1440 1998/0010: Chen_K, Wang_D, NIPS 11, 1998
+1441 1998/0017: Becker_S, Christianson_G, NIPS 11, 1998
+1442 1998/0024: Busey_T, Cottrell_G, Dailey_M, NIPS 11, 1998
+1443 1998/0031: Hamno_M, Kawato_M, Wolpert_D, NIPS 11, 1998
+1444 1998/0038: Love_B, NIPS 11, 1998
+1445 1998/0045: Liu_Z, Weinshall_D, NIPS 11, 1998
+1446 1998/0052: Mozer_M, NIPS 11, 1998
+1447 1998/0059: Tenenbaum_J, NIPS 11, 1998
+1448 1998/0069: Abbott_L, Song_S, NIPS 11, 1998
+1449 1998/0076: Adorjan_P, Obermayer_K, NIPS 11, 1998
+1450 1998/0083: Baraduc_P, Burnod_Y, Guigon_E, NIPS 11, 1998
+1451 1998/0090: Abbott_L, Chance_F, Nelson_S, NIPS 11, 1998
+1452 1998/0097: Chechik_G, Meilijson_I, Ruppin_E, NIPS 11, 1998
+1453 1998/0104: Deneve_S, Latham_P, Pouget_A, NIPS 11, 1998
+1454 1998/0111: Gat_I, Tishby_N, NIPS 11, 1998
+1455 1998/0118: Courchesne_E, Jung_T, Makeig_S, Sejnowski_T, Townsend_J, Westerfield_M, NIPS 11, 1998
+1456 1998/0125: Gerstner_W, Kempter_R, VanHemmen_J, NIPS 11, 1998
+1457 1998/0132: Koch_C, Manwani_A, NIPS 11, 1998
+1458 1998/0139: Obermayer_K, Piepenbrock_C, NIPS 11, 1998
+1459 1998/0146: Davidowitz_H, Rinberg_D, Tishby_N, NIPS 11, 1998
+1460 1998/0153: Schwartz_O, Simoncelli_E, NIPS 11, 1998
+1461 1998/0160: Koch_C, Stemmler_M, NIPS 11, 1998
+1462 1998/0167: Sompolinski_H, Yoon_H, NIPS 11, 1998
+1463 1998/0174: Dayan_P, Zemel_R, NIPS 11, 1998
+1464 1998/0183: Barber_D, Wiegerinck_W, NIPS 11, 1998
+1465 1998/0190: Bartlett_P, Maiorov_V, Meir_R, NIPS 11, 1998
+1466 1998/0197: Coolen_A, Saad_D, NIPS 11, 1998
+1467 1998/0204: Campbell_C, Cristianini_N, Shawe-Taylor_J, NIPS 11, 1998
+1468 1998/0211: Coolen_A, During_A, Shemngton_D, NIPS 11, 1998
+1469 1998/0218: Ferrari-Trecate_G, Opper_M, Williams_C, NIPS 11, 1998
+1470 1998/0225: Gentile_C, Warmuth_M, NIPS 11, 1998
+1471 1998/0232: Herschkowitz_D, Nadal_J, NIPS 11, 1998
+1472 1998/0239: Amari_S, Ikeda_S, Nakahara_H, NIPS 11, 1998
+1473 1998/0246: Kabashima_Y, Saad_D, NIPS 11, 1998
+1474 1998/0253: Karakoulas_G, Shawe-Taylor_J, NIPS 11, 1998
+1475 1998/0260: Kearns_M, Saul_L, NIPS 11, 1998
+1476 1998/0267: Homik_K, Leisch_F, Trapletti_A, NIPS 11, 1998
+1477 1998/0274: Dayan_P, Li_Z, NIPS 11, 1998
+1478 1998/0281: Maass_W, Sontag_E, NIPS 11, 1998
+1479 1998/0288: Bartlett_P, Baxter_J, Mason_L, NIPS 11, 1998
+1480 1998/0295: Maiorov_V, Meir_R, NIPS 11, 1998
+1481 1998/0302: Opper_M, Vivarelli_F, NIPS 11, 1998
+1482 1998/0309: Opper_M, Winther_O, NIPS 11, 1998
+1483 1998/0316: Coolen_A, Rae_H, Sollich_P, NIPS 11, 1998
+1484 1998/0323: Sakurai_A, NIPS 11, 1998
+1485 1998/0330: Bartlett_P, Scholkopf_B, Smola_A, Williamson_R, NIPS 11, 1998
+1486 1998/0337: Beckmann_C, Coolen_A, Skantzos_N, NIPS 11, 1998
+1487 1998/0344: Sollich_P, NIPS 11, 1998
+1488 1998/0351: Tanaka_T, NIPS 11, 1998
+1489 1998/0361: Attias_H, NIPS 11, 1998
+1490 1998/0368: Bennett_K, Demiriz_A, NIPS 11, 1998
+1491 1998/0375: Bersini_H, Birattari_M, Bontempi_G, NIPS 11, 1998
+1492 1998/0382: Bishop_C, NIPS 11, 1998
+1493 1998/0389: Blake_A, Isard_M, North_B, NIPS 11, 1998
+1494 1998/0396: Boyen_X, Koller_D, NIPS 11, 1998
+1495 1998/0403: Briegel_T, Tresp_V, NIPS 11, 1998
+1496 1998/0410: DeFreitas_J, Doucet_A, Gee_A, Niranjan_M, NIPS 11, 1998
+1497 1998/0417: Friedman_N, Singer_Y, NIPS 11, 1998
+1498 1998/0424: Gdalyahu_Y, Weinshall_D, Wennan_M, NIPS 11, 1998
+1499 1998/0431: Ghahramani_Z, Roweis_S, NIPS 11, 1998
+1500 1998/0438: Bollmann-Sdorra_P, Graepel_T, Herbrich_R, Obermayer_K, NIPS 11, 1998
+1501 1998/0445: Canu_S, Grandvalet_Y, NIPS 11, 1998
+1502 1998/0452: Buhmann_J, Held_M, Puzicha_J, NIPS 11, 1998
+1503 1998/0459: Hochreiter_S, Schmidhuber_J, NIPS 11, 1998
+1504 1998/0466: Hofmann_T, Jordan_M, Puzicha_J, NIPS 11, 1998
+1505 1998/0473: Hoyer_P, Hyvarinen_A, Oja_E, NIPS 11, 1998
+1506 1998/0480: Isbell_C, Viola_P, NIPS 11, 1998
+1507 1998/0487: Haussler_D, Jaakkola_T, NIPS 11, 1998
+1508 1998/0494: Jebara_T, Pentland_A, NIPS 11, 1998
+1509 1998/0501: Kegl_B, Krzyzak_A, Linder_T, Zeger_K, NIPS 11, 1998
+1510 1998/0508: Lee_T, Lewicki_M, Sejnowski_T, NIPS 11, 1998
+1511 1998/0515: Lee_D, Sompolinski_H, NIPS 11, 1998
+1512 1998/0522: Atiya_A, Magdon-Ismail_M, NIPS 11, 1998
+1513 1998/0529: Marts_A, Webb_A, NIPS 11, 1998
+1514 1998/0536: Mika_S, Muller_K, Ratsch_G, Scholkopf_B, Scholz_M, Smola_A, NIPS 11, 1998
+1515 1998/0543: Moore_A, NIPS 11, 1998
+1516 1998/0550: Pelillo_M, NIPS 11, 1998
+1517 1998/0557: Platt_J, NIPS 11, 1998
+1518 1998/0564: Muller_K, Onoda_T, Ratsch_G, NIPS 11, 1998
+1519 1998/0571: Bottou_L, Haffner_P, LeCun_Y, Simard_P, NIPS 11, 1998
+1520 1998/0578: Singer_Y, Warmuth_M, NIPS 11, 1998
+1521 1998/0585: Frieg_T, Scholkopf_B, Smola_A, NIPS 11, 1998
+1522 1998/0592: Tipping_M, NIPS 11, 1998
+1523 1998/0599: Ghahramani_Z, Hinton_G, Nakano_R, Ueda_N, NIPS 11, 1998
+1524 1998/0606: Lippman_A, Vasconcelos_N, NIPS 11, 1998
+1525 1998/0613: Vivarelli_F, Williams_C, NIPS 11, 1998
+1526 1998/0620: Gao_F, Klein_B, Klein_R, Lin_X, Wahba_G, Xiang_D, NIPS 11, 1998
+1527 1998/0627: Dhawan_A, Wheeler_K, NIPS 11, 1998
+1528 1998/0634: Adams_N, Williams_C, NIPS 11, 1998
+1529 1998/0641: Coughlan_J, Yuille_A, NIPS 11, 1998
+1530 1998/0648: Cichocki_A, Zhang_L, NIPS 11, 1998
+1531 1998/0657: Cauwenberghs_G, Waskiewicz_J, NIPS 11, 1998
+1532 1998/0664: Cho_J, Lee_S, NIPS 11, 1998
+1533 1998/0671: Coggins_R, Jabri_M, Wang_R, NIPS 11, 1998
+1534 1998/0678: Cauwenberghs_G, Edwards_R, Pineda_F, NIPS 11, 1998
+1535 1998/0685: Etienne-Cummings_R, Ghani_M, Gruev_V, NIPS 11, 1998
+1536 1998/0692: Harris_J, Principe_J, Pu_C, NIPS 11, 1998
+1537 1998/0699: Higgins_C, Koch_C, NIPS 11, 1998
+1538 1998/0706: Douglas_R, Stocker_A, NIPS 11, 1998
+1539 1998/0713: Austin_J, Kennedy_J, Zhou_P, NIPS 11, 1998
+1540 1998/0723: Brand_M, NIPS 11, 1998
+1541 1998/0730: Lewicki_M, Sejnowski_T, NIPS 11, 1998
+1542 1998/0737: Neukirchen_C, Rigoll_G, NIPS 11, 1998
+1543 1998/0744: Hogden_J, Nix_D, NIPS 11, 1998
+1544 1998/0751: Rahim_M, Saul_L, NIPS 11, 1998
+1545 1998/0761: Coughlan_J, Yuille_A, NIPS 11, 1998
+1546 1998/0768: Darrell_T, NIPS 11, 1998
+1547 1998/0775: Freeman_W, Pasztor_E, NIPS 11, 1998
+1548 1998/0782: Forsyth_D, Ioffe_S, NIPS 11, 1998
+1549 1998/0789: Braun_J, Itti_L, Koch_C, Lee_D, NIPS 11, 1998
+1550 1998/0796: Li_Z, NIPS 11, 1998
+1551 1998/0803: Phillips_P, NIPS 11, 1998
+1552 1998/0810: Rao_R, Ruderman_D, NIPS 11, 1998
+1553 1998/0817: Rosenholtz_R, NIPS 11, 1998
+1554 1998/0824: Leen_T, Pavel_M, Sharma_R, NIPS 11, 1998
+1555 1998/0831: Thomber_K, Williams_L, NIPS 11, 1998
+1556 1998/0838: Gdalyahu_Y, Jacobs_D, Weinshall_D, NIPS 11, 1998
+1557 1998/0847: Baluja_S, NIPS 11, 1998
+1558 1998/0854: Baluja_S, NIPS 11, 1998
+1559 1998/0861: Cornford_D, Nabney_I, Williams_C, NIPS 11, 1998
+1560 1998/0868: Abramowicz_H, Dror_G, Horn_D, NIPS 11, 1998
+1561 1998/0875: Granger_E, Grossberg_S, Rubin_M, Streilein_W, NIPS 11, 1998
+1562 1998/0882: Grzeszczuk_R, Hinton_G, Terzopoulos_D, NIPS 11, 1998
+1563 1998/0889: Hollmen_J, Tresp_V, NIPS 11, 1998
+1564 1998/0896: Cross_A, Hancock_E, Huet_B, NIPS 11, 1998
+1565 1998/0903: McGovern_A, Moss_E, NIPS 11, 1998
+1566 1998/0910: Jebara_T, Moghaddam_B, Pentland_A, NIPS 11, 1998
+1567 1998/0917: Moody_J, Saffell_M, NIPS 11, 1998
+1568 1998/0924: Oliver_N, Pentland_A, Rosario_B, NIPS 11, 1998
+1569 1998/0931: Borger_J, Brabant_G, Prank_K, Schofl_C, von-zur-Muhlen_A, NIPS 11, 1998
+1570 1998/0938: Sajda_P, Spence_C, NIPS 11, 1998
+1571 1998/0945: Hansen_V, Murray-Smith_R, Williamson_M, NIPS 11, 1998
+1572 1998/0952: Frank_J, Turner_K, Wolpert_D, NIPS 11, 1998
+1573 1998/0961: Al-Ansari_M, Williams_R, NIPS 11, 1998
+1574 1998/0968: Baird_L, Moore_A, NIPS 11, 1998
+1575 1998/0975: Brown_L, Gonye_G, Schwaber_J, NIPS 11, 1998
+1576 1998/0982: Brown_T, Singh_S, Tong_H, NIPS 11, 1998
+1577 1998/0989: Hayashi_A, Suematsu_N, NIPS 11, 1998
+1578 1998/0996: Kearns_M, Singh_S, NIPS 11, 1998
+1579 1998/1003: Koenig_S, NIPS 11, 1998
+1580 1998/1010: Loch_J, NIPS 11, 1998
+1581 1998/1017: Barto_A, Moll_R, Perkins_T, Sutton_R, NIPS 11, 1998
+1582 1998/1024: Moore_A, Munos_R, NIPS 11, 1998
+1583 1998/1031: Mihatsch_O, Neuneier_R, NIPS 11, 1998
+1584 1998/1038: Oyama_E, Tachi_S, NIPS 11, 1998
+1585 1998/1045: Randlov_J, NIPS 11, 1998
+1586 1998/1052: Ishii_S, Sato_M, NIPS 11, 1998
+1587 1998/1059: Hayashi_A, Suematsu_N, NIPS 11, 1998
+1588 1998/1066: Precup_D, Ravindran_B, Singh_S, Sutton_R, NIPS 11, 1998
+1589 1998/1073: Singh_S, Williams_J, NIPS 11, 1998
+1590 1999/0003: Ballard_D, Bayliss_J, NIPS 12, 1999
+1591 1999/0010: Deco_G, Zihl_J, NIPS 12, 1999
+1592 1999/0017: Ghiselli-Crippa_T, Munro_P, NIPS 12, 1999
+1593 1999/0024: Dayan_P, Kakade_S, NIPS 12, 1999
+1594 1999/0031: Lee_S, Mozer_M, NIPS 12, 1999
+1595 1999/0038: Liu_X, Wang_D, NIPS 12, 1999
+1596 1999/0045: McClelland_J, Movellan_J, NIPS 12, 1999
+1597 1999/0052: Dorffner_G, Parfitt_S, Tifio_P, NIPS 12, 1999
+1598 1999/0059: Tenenbaum_J, NIPS 12, 1999
+1599 1999/0066: Blair_A, Tonkes_B, Wiles_J, NIPS 12, 1999
+1600 1999/0073: Postma_E, Weijters_T, van-den-Bosch_A, NIPS 12, 1999
+1601 1999/0080: Mozer_M, Zemel_R, NIPS 12, 1999
+1602 1999/0089: Adorjan_P, Obermayer_K, Piepenbrock_C, Schwabe_L, NIPS 12, 1999
+1603 1999/0096: Chechik_G, Meilijson_I, Ruppin_E, NIPS 12, 1999
+1604 1999/0103: Chklovskii_D, Stevens_C, NIPS 12, 1999
+1605 1999/0108: Chklovskii_D, NIPS 12, 1999
+1606 1999/0115: Eurich_C, Schwegler_H, Wilke_S, NIPS 12, 1999
+1607 1999/0122: Brown_A, Hinton_G, NIPS 12, 1999
+1608 1999/0129: Horn_D, Levy_N, Meilijson_I, Ruppin_E, NIPS 12, 1999
+1609 1999/0136: Li_Z, NIPS 12, 1999
+1610 1999/0143: Koch_C, Manwani_A, Steinmetz_P, NIPS 12, 1999
+1611 1999/0150: Hernandez_G, Munro_P, NIPS 12, 1999
+1612 1999/0157: Mel_B, Poirazi_P, NIPS 12, 1999
+1613 1999/0164: Rao_R, Sejnowski_T, NIPS 12, 1999
+1614 1999/0171: Parga_N, Renart_A, Rolls_E, NIPS 12, 1999
+1615 1999/0178: Schneidman_E, Segev_I, Tishby_N, NIPS 12, 1999
+1616 1999/0185: Hely_T, Pearlmutter_B, Tang_A, Weisend_M, Zibulevsky_M, NIPS 12, 1999
+1617 1999/0192: Amari_S, Murata_N, Nakahara_H, Wu_S, NIPS 12, 1999
+1618 1999/0199: Seung_H, Xie_X, NIPS 12, 1999
+1619 1999/0209: Attias_H, NIPS 12, 1999
+1620 1999/0216: Buhmann_J, Held_M, NIPS 12, 1999
+1621 1999/0223: Burges_C, Crisp_D, NIPS 12, 1999
+1622 1999/0230: Chapelle_O, Vapnik_V, NIPS 12, 1999
+1623 1999/0237: Coolen_A, Mace_C, NIPS 12, 1999
+1624 1999/0244: Burges_C, Crisp_D, NIPS 12, 1999
+1625 1999/0251: Csato_L, Fokoue_E, Opper_M, Schottky_B, Winther_O, NIPS 12, 1999
+1626 1999/0258: Duffy_N, Helmbold_D, NIPS 12, 1999
+1627 1999/0265: Hansen_L, NIPS 12, 1999
+1628 1999/0272: Kabashima_Y, Murayama_T, Saad_D, Vicente_R, NIPS 12, 1999
+1629 1999/0279: Barron_A, Li_J, NIPS 12, 1999
+1630 1999/0286: Li_S, Wong_K, NIPS 12, 1999
+1631 1999/0293: Maass_W, NIPS 12, 1999
+1632 1999/0300: Mansour_Y, McAllester_D, NIPS 12, 1999
+1633 1999/0307: Bengio_Y, Nadeau_C, NIPS 12, 1999
+1634 1999/0314: Cowan_J, Ohira_T, Sato_Y, NIPS 12, 1999
+1635 1999/0321: Gordon_M, Risau-Gusman_S, NIPS 12, 1999
+1636 1999/0328: Schmitt_M, NIPS 12, 1999
+1637 1999/0335: Ben-Hur_A, Roitershtein_A, Siegelmann_H, NIPS 12, 1999
+1638 1999/0342: Scholkopf_B, Shawe-Taylor_J, Smola_A, Williamson_R, NIPS 12, 1999
+1639 1999/0349: Sollich_P, NIPS 12, 1999
+1640 1999/0356: Watanabe_S, NIPS 12, 1999
+1641 1999/0363: Amari_S, Cichocki_A, Zhang_L, NIPS 12, 1999
+1642 1999/0370: Zhang_T, NIPS 12, 1999
+1643 1999/0379: Andrieu_C, DeFreitas_J, Doucet_A, NIPS 12, 1999
+1644 1999/0386: Attias_H, NIPS 12, 1999
+1645 1999/0393: Barber_D, Sollich_P, NIPS 12, 1999
+1646 1999/0400: Bengio_S, Bengio_Y, NIPS 12, 1999
+1647 1999/0407: Briegel_T, Tresp_V, NIPS 12, 1999
+1648 1999/0414: Carreira-Perpinan_M, NIPS 12, 1999
+1649 1999/0421: Chapelle_O, Vapnik_V, Weston_J, NIPS 12, 1999
+1650 1999/0428: Downs_O, Lee_D, MacKay_D, NIPS 12, 1999
+1651 1999/0435: Flake_G, Pearlmutter_B, NIPS 12, 1999
+1652 1999/0442: Frey_B, NIPS 12, 1999
+1653 1999/0449: Beal_M, Ghahramani_Z, NIPS 12, 1999
+1654 1999/0456: Graepel_T, Herbrich_R, Obermayer_K, NIPS 12, 1999
+1655 1999/0463: Ghahramani_Z, Hinton_G, Teh_Y, NIPS 12, 1999
+1656 1999/0470: Jaakkola_T, Jebara_T, Meila_M, NIPS 12, 1999
+1657 1999/0477: Frey_B, Jojic_N, NIPS 12, 1999
+1658 1999/0484: Laskov_P, NIPS 12, 1999
+1659 1999/0491: Lee_D, Rokni_U, Sompolinski_H, NIPS 12, 1999
+1660 1999/0498: Li_Y, Long_P, NIPS 12, 1999
+1661 1999/0505: Margaritis_D, Thrun_S, NIPS 12, 1999
+1662 1999/0512: Bartlett_P, Baxter_J, Frean_M, Mason_L, NIPS 12, 1999
+1663 1999/0519: Mesterharm_C, NIPS 12, 1999
+1664 1999/0526: Mika_S, Muller_K, Ratsch_G, Scholkopf_B, Smola_A, Weston_J, NIPS 12, 1999
+1665 1999/0533: Jordan_M, Ng_A, NIPS 12, 1999
+1666 1999/0540: Hastie_T, Ormoneit_D, NIPS 12, 1999
+1667 1999/0547: Cristianini_N, Platt_J, Shawe-Taylor_J, NIPS 12, 1999
+1668 1999/0554: Rasmussen_C, NIPS 12, 1999
+1669 1999/0561: Mika_S, Muller_K, Onoda_T, Ratsch_G, Scholkopf_B, Smola_A, NIPS 12, 1999
+1670 1999/0568: Roth_V, Steinhage_V, NIPS 12, 1999
+1671 1999/0575: Rusmevichiemong_P, Van-Roy_B, NIPS 12, 1999
+1672 1999/0582: Platt_J, Scholkopf_B, Shawe-Taylor_J, Smola_A, Williamson_R, NIPS 12, 1999
+1673 1999/0589: Schuster_M, NIPS 12, 1999
+1674 1999/0596: Schuurmans_D, NIPS 12, 1999
+1675 1999/0603: Seeger_M, NIPS 12, 1999
+1676 1999/0610: Singer_Y, NIPS 12, 1999
+1677 1999/0617: Slonim_N, Tishby_N, NIPS 12, 1999
+1678 1999/0624: Ogawa_H, Sugiyama_M, NIPS 12, 1999
+1679 1999/0631: Keerthi_S, Sundararajan_S, NIPS 12, 1999
+1680 1999/0638: Sykacek_P, NIPS 12, 1999
+1681 1999/0645: Dorffner_G, Tifio_P, NIPS 12, 1999
+1682 1999/0652: Tipping_M, NIPS 12, 1999
+1683 1999/0659: Mukherjee_S, Vapnik_V, NIPS 12, 1999
+1684 1999/0666: Nelson_A, Wan_E, van-der-Merwe_R, NIPS 12, 1999
+1685 1999/0673: Freeman_W, Weiss_Y, NIPS 12, 1999
+1686 1999/0680: Williams_C, NIPS 12, 1999
+1687 1999/0687: Moody_J, Yang_H, NIPS 12, 1999
+1688 1999/0694: Baram_Y, Zlochin_M, NIPS 12, 1999
+1689 1999/0703: Husbands_P, Isbell_C, NIPS 12, 1999
+1690 1999/0710: Gyger_S, Landolt_O, NIPS 12, 1999
+1691 1999/0717: Liu_S, NIPS 12, 1999
+1692 1999/0724: Brown_E, DeWeerth_S, Patel_G, NIPS 12, 1999
+1693 1999/0731: Calabrese_R, Cymbalyuk_G, DeWeerth_S, Patel_G, NIPS 12, 1999
+1694 1999/0738: van-Schaik_A, NIPS 12, 1999
+1695 1999/0747: Brown_G, Wang_D, NIPS 12, 1999
+1696 1999/0754: Hansen_L, Hojen-Sorensen_P, Rasmussen_C, NIPS 12, 1999
+1697 1999/0761: Carlile_S, Jin_C, NIPS 12, 1999
+1698 1999/0768: Carlile_S, Corderoy_A, Jin_C, van-Schaik_A, NIPS 12, 1999
+1699 1999/0775: Jourjine_A, Rickard_S, Rosca_J, Ruanaidh_J, NIPS 12, 1999
+1700 1999/0782: Roweis_S, NIPS 12, 1999
+1701 1999/0789: Giannakopoulos_X, Schraudolph_N, NIPS 12, 1999
+1702 1999/0796: DeFreitas_J, Niranjan_M, Robinson_T, Smith_G, NIPS 12, 1999
+1703 1999/0803: Hermansky_H, Yang_H, NIPS 12, 1999
+1704 1999/0813: Hershey_J, Movellan_J, NIPS 12, 1999
+1705 1999/0820: Freeman_W, Howe_N, Levemon_M, NIPS 12, 1999
+1706 1999/0827: Hoyer_P, Hyvarrinen_A, NIPS 12, 1999
+1707 1999/0834: Lee_T, Yu_S, NIPS 12, 1999
+1708 1999/0841: Millman_K, Olshausen_B, NIPS 12, 1999
+1709 1999/0848: Parra_L, Spence_C, NIPS 12, 1999
+1710 1999/0855: Simoncelli_E, Wainwright_M, NIPS 12, 1999
+1711 1999/0862: Ahuja_N, Roth_D, Yang_M, NIPS 12, 1999
+1712 1999/0869: Yang_Z, Zemel_R, NIPS 12, 1999
+1713 1999/0879: Bakker_R, Coppens_M, Giles_C, Schouten_J, Takens_F, van-den-Bleek_C, NIPS 12, 1999
+1714 1999/0886: Bartlett_M, Donato_G, Ekman_P, Hager_J, Movellan_J, Sejnowski_T, NIPS 12, 1999
+1715 1999/0893: Brown_T, NIPS 12, 1999
+1716 1999/0900: Fisher_J, Ihler_A, Viola_P, NIPS 12, 1999
+1717 1999/0907: Golden_R, NIPS 12, 1999
+1718 1999/0914: Holmann_T, NIPS 12, 1999
+1719 1999/0921: Liao_Y, Moody_J, NIPS 12, 1999
+1720 1999/0928: Castafio_R, Mann_T, Mjolsness_E, Wold_B, NIPS 12, 1999
+1721 1999/0935: Grimes_D, Johnson_E, Kaushansky_H, Mozer_M, Wolniewicz_R, NIPS 12, 1999
+1722 1999/0942: Muller_K, Parra_L, Sajda_P, Spence_C, Ziehe_A, NIPS 12, 1999
+1723 1999/0949: Lund_J, Mayhew_J, McLoughlin_N, Obermayer_K, Schiegl_I, Schoner_H, Stetter_M, NIPS 12, 1999
+1724 1999/0956: Kearns_M, Litman_D, Singh_S, Walker_M, NIPS 12, 1999
+1725 1999/0963: Abu-Mostafa_Y, Kasdan_H, Sill_J, Song_X, NIPS 12, 1999
+1726 1999/0970: Dom_B, Vaithyanathan_S, NIPS 12, 1999
+1727 1999/0977: Lippman_A, Vasconcelos_N, NIPS 12, 1999
+1728 1999/0987: Choi_S, Yeung_D, Zhang_N, NIPS 12, 1999
+1729 1999/0994: Dietterich_T, NIPS 12, 1999
+1730 1999/1001: Kearns_M, Mansour_Y, Ng_A, NIPS 12, 1999
+1731 1999/1008: Konda_V, Tsitsiklis_J, NIPS 12, 1999
+1732 1999/1015: Murphy_K, NIPS 12, 1999
+1733 1999/1022: Koller_D, Ng_A, Parr_R, NIPS 12, 1999
+1734 1999/1029: Boe_G, Gerules_M, Johnson_D, Keeler_J, Martin_G, Piche_S, NIPS 12, 1999
+1735 1999/1036: Koller_D, Parr_R, Rodriguez_A, NIPS 12, 1999
+1736 1999/1043: Roy_N, Thrun_S, NIPS 12, 1999
+1737 1999/1050: Sallans_B, NIPS 12, 1999
+1738 1999/1057: Mansour_Y, McAllester_D, Singh_S, Sutton_R, NIPS 12, 1999
+1739 1999/1064: Thrun_S, NIPS 12, 1999
+1740 2000/AgueraFairhallBialek: AgueraYArcas_B, Bialek_W, Fairhall_A_L, NIPS 13, 2000
+1741 2000/Aharonov-BarkiMeilijsonRuppin: Aharonov-Barki_R, Meilijson_I, Ruppin_E, NIPS 13, 2000
+1742 2000/AndreRussell: Andre_D, Russell_S_J, NIPS 13, 2000
+1743 2000/ArcherLeen: Archer_C, Leen_T, NIPS 13, 2000
+1744 2000/ArchieMel: Archie_K, Mel_B, NIPS 13, 2000
+1745 2000/ArleoSmeraldiHugGerstner: Arleo_A, Gerstner_W, Hug_S, Smeraldi_F, NIPS 13, 2000
+1746 2000/AttiasPlattAceroDeng: Acero_A, Attias_H, Deng_L, Platt_J_C, NIPS 13, 2000
+1747 2000/BaeLee: Bae_U, Lee_S, NIPS 13, 2000
+1748 2000/BeckerBurgess: Becker_S, Burgess_N, NIPS 13, 2000
+1749 2000/BelongieMalikPuzicha: Belongie_S, Malik_J, Puzicha_J, NIPS 13, 2000
+1750 2000/Ben-DavidSimon: Bengio_Y, Ducharme_R, Vincent_P, NIPS 13, 2000
+1751 2000/Ben-HurHornSiegelmannVapnik: Ben-Hur_A, Horn_D, Siegelmann_H, Vapnik_V, NIPS 13, 2000
+1752 2000/BengioDucharmeVincent: Ben-David_S, Simon_H_U, NIPS 13, 2000
+1753 2000/BhattacharyyaKeerthi: Bhattacharyya_C, Keerthi_S, NIPS 13, 2000
+1754 2000/Bialek: Bialek_W, NIPS 13, 2000
+1755 2000/BogaczBrownGiraud-Carrier: Bogacz_R, Brown_M_W, Giraud-Carrier_C, NIPS 13, 2000
+1756 2000/BourlardBengioWeber: Bengio_S, Bourlard_H, Weber_K, NIPS 13, 2000
+1757 2000/BousquetElisseeff: Bousquet_O, Elisseeff_A, NIPS 13, 2000
+1758 2000/BoyanLittman: Boyan_J, Littman_M, NIPS 13, 2000
+1759 2000/CampbellBennett: Bennett_K, Campbell_C, NIPS 13, 2000
+1760 2000/Carlstrom: Carlstrom_J, NIPS 13, 2000
+1761 2000/CaruanaLawrenceGiles: Caruana_R, Giles_L, Lawrence_S, NIPS 13, 2000
+1762 2000/CauwenberghsPoggio: Cauwenberghs_G, Poggio_T, NIPS 13, 2000
+1763 2000/ChapelleWestonBottouVapnik: Bottou_L, Chapelle_O, Vapnik_V, Weston_J, NIPS 13, 2000
+1764 2000/ChechikTishby: Chechik_G, Tishby_N, NIPS 13, 2000
+1765 2000/ChenGopinath: Chen_S_S, Gopinath_R_A, NIPS 13, 2000
+1766 2000/CohnHofmann: Cohn_D, Hofmann_T, NIPS 13, 2000
+1767 2000/CoughlanYuille: Coughlan_J, Yuille_A, NIPS 13, 2000
+1768 2000/CrammerSinger: Crammer_K, Singer_Y, NIPS 13, 2000
+1769 2000/CsatoOpper: Csato_L, Opper_M, NIPS 13, 2000
+1770 2000/Dayan: Dayan_P, NIPS 13, 2000
+1771 2000/DayanKakade: Dayan_P, Kakade_S, NIPS 13, 2000
+1772 2000/DellaertSeitzThrunThorpe: Dellaert_F, Seitz_S_M, Thorpe_C, Thrun_S, NIPS 13, 2000
+1773 2000/DeneveDuhamelPouget: Deneve_S, Duhamel_J, Pouget_A, NIPS 13, 2000
+1774 2000/DomeniconiPengGunopulos: Domeniconi_C, Gunopulos_D, Peng_J, NIPS 13, 2000
+1775 2000/Downs: Downs_O_B, NIPS 13, 2000
+1776 2000/DugasBengioBelisleNadeauGarcia: Belisle_F, Bengio_Y, Dugas_C, Garcia_R, Nadeau_C, NIPS 13, 2000
+1777 2000/EdelmanIntrator: Edelman_S, Intrator_N, NIPS 13, 2000
+1778 2000/ElidanLotnerFriedmanKoller: Elidan_G, Friedman_N, Koller_D, Lotner_N, NIPS 13, 2000
+1779 2000/FairhallLewenBialekSteveninck: Bialek_W, DeRuyterVanSteveninck_R, Fairhall_A_L, Lewen_G_D, NIPS 13, 2000
+1780 2000/FisherDarrellFreemanViola: Darrell_T, Fisher_J, Freeman_W, Viola_P, NIPS 13, 2000
+1781 2000/FreyKannan: Frey_B_J, Kannan_A, NIPS 13, 2000
+1782 2000/FreyPatrascuJaakkolaMoran: Frey_B_J, Jaakkola_T, Moran_J, Patrascu_R, NIPS 13, 2000
+1783 2000/Gales: Gales_M, NIPS 13, 2000
+1784 2000/Gentile: Gentile_C, NIPS 13, 2000
+1785 2000/GhahramaniBeal: Beal_M, Ghahramani_Z, NIPS 13, 2000
+1786 2000/Gordon: Gordon_G, NIPS 13, 2000
+1787 2000/GraepelHerbrich: Graepel_T, Herbrich_R, NIPS 13, 2000
+1788 2000/GraepelHerbrichWilliamson: Graepel_T, Herbrich_R, Williamson_R, NIPS 13, 2000
+1789 2000/GrayMoore: Gray_A_G, Moore_A, NIPS 13, 2000
+1790 2000/GraySejnowskiMovellan: Gray_M_S, Movellan_J_R, Sejnowski_T, NIPS 13, 2000
+1791 2000/GrimesMozer: Grimes_D_B, Mozer_M_C, NIPS 13, 2000
+1792 2000/HahnloserSeung: Hahnloser_R, Seung_H_S, NIPS 13, 2000
+1793 2000/HaytonScholkopfTarassenkoAnuzis: Anuzis_P, Hayton_P, Scholkopf_B, Tarassenko_L, NIPS 13, 2000
+1794 2000/HerbrichGraepel1: Graepel_T, Herbrich_R, NIPS 13, 2000
+1795 2000/HerbrichGraepel2: Graepel_T, Herbrich_R, NIPS 13, 2000
+1796 2000/Hernandez-GardiolMahadevan: Hernandez_G, Mahadevan_S, NIPS 13, 2000
+1797 2000/HochreiterMozer: Hochreiter_S, Mozer_M_C, NIPS 13, 2000
+1798 2000/Hojen-SorensenWintherHansen: Hansen_L, Hojen-Sorensen_P, Winther_O, NIPS 13, 2000
+1799 2000/HsuFigueroaDiorio: Diorio_C, Figueroa_M, Hsu_D, NIPS 13, 2000
+1800 2000/JebaraPentland: Jebara_T, Pentland_A, NIPS 13, 2000
+1801 2000/JonssonBarto: Barto_A, Jonsson_A, NIPS 13, 2000
+1802 2000/KakadeDayan: Dayan_P, Kakade_S, NIPS 13, 2000
+1803 2000/KaliDayan: Dayan_P, Kali_S, NIPS 13, 2000
+1804 2000/KappenWiegerinck: Kappen_H_J, Wiegerinck_W, NIPS 13, 2000
+1805 2000/KjemsHansenStrother: Hansen_L, Kjems_U, Strother_S_C, NIPS 13, 2000
+1806 2000/KoltchinskiiPanchenkoLozano: Koltchinskii_V, Lozano_F, Panchenko_D, NIPS 13, 2000
+1807 2000/Kowalczyk: Kowalczyk_A, NIPS 13, 2000
+1808 2000/KristjanssonFrey: Frey_B_J, Kristjansson_T_T, NIPS 13, 2000
+1809 2000/KurinoNakagawaLeeNakamuraYamadaParkKoyanagi: Koyanagi_M, Kurino_H, Lee_K_W, Nakagawa_M, Nakamura_T, Park_K_T, Yamada_Y, NIPS 13, 2000
+1810 2000/LeeSeung: Lee_D_D, Seung_H_S, NIPS 13, 2000
+1811 2000/LeeWachtlerSejnowski: Lee_T, Sejnowski_T, Wachtler_T, NIPS 13, 2000
+1812 2000/LegensteinMaass: Legenstein_R_A, Maass_W, NIPS 13, 2000
+1813 2000/LeisinkKappen: Kappen_H_J, Leisink_M, NIPS 13, 2000
+1814 2000/LiDayan: Dayan_P, Li_Z, NIPS 13, 2000
+1815 2000/LiuMinch: Liu_S, Minch_B_A, NIPS 13, 2000
+1816 2000/LodhiShawe-TaylorCristianiniWatkins: Cristianini_N, Lodhi_H, Shawe-Taylor_J, Watkins_C, NIPS 13, 2000
+1817 2000/LuRajapakse: Lu_W, Rajapakse_J_C, NIPS 13, 2000
+1818 2000/MalzahnOpper: Malzahn_D, Opper_M, NIPS 13, 2000
+1819 2000/MangasarianMusicant: Mangasarian_O, Musicant_D_R, NIPS 13, 2000
+1820 2000/MannorMeir: Mannor_S, Meir_R, NIPS 13, 2000
+1821 2000/MayrazHinton: Hinton_G, Mayraz_G, NIPS 13, 2000
+1822 2000/MeilaShi: Meilua_M, Shi_J, NIPS 13, 2000
+1823 2000/MerweDoucetFreitasWan: DeFreitas_N, Doucet_A, Wan_E, van-der-Merwe_R, NIPS 13, 2000
+1824 2000/MikaRatschMuller: Mika_S, Muller_K, Ratsch_G, NIPS 13, 2000
+1825 2000/Minka: Minka_T, NIPS 13, 2000
+1826 2000/MizutaniDemmel: Demmel_J_W, Mizutani_E, NIPS 13, 2000
+1827 2000/MoghaddamYang: Moghaddam_B, Yang_M, NIPS 13, 2000
+1828 2000/MorimotoDoya: Doya_K, Morimoto_J, NIPS 13, 2000
+1829 2000/MovellanMineiroWilliams: Mineiro_P, Movellan_J_R, Williams_R_J, NIPS 13, 2000
+1830 2000/MyungPittZhangBalasubramanian: Balasubramanian_V, Myung_I_J, Pitt_M_A, Zhang_S, NIPS 13, 2000
+1831 2000/NaphadeKozintsevHuang: Huang_T, Kozintsev_I, Naphade_M_R, NIPS 13, 2000
+1832 2000/NatschlagerMaass: Maass_W, Natschlager_T, NIPS 13, 2000
+1833 2000/NatschlagerMaassSontagZador: Maass_W, Natschlager_T, Sontag_E_D, Zador_A, NIPS 13, 2000
+1834 2000/NelsonMovellan: Movellan_J_R, Nelson_J_D, NIPS 13, 2000
+1835 2000/NemenmanBialek: Bialek_W, Nemenman_I, NIPS 13, 2000
+1836 2000/NeskovicDavisCooper: Cooper_L_N, Davis_P_C, Neskovic_P, NIPS 13, 2000
+1837 2000/OlshausenSalleeLewicki: Lewicki_M, Olshausen_B, Sallee_P, NIPS 13, 2000
+1838 2000/OrmoneitGlynn: Glynn_P, Ormoneit_D, NIPS 13, 2000
+1839 2000/OrmoneitSidenbladhBlackHastie: Black_M_J, Hastie_T, Ormoneit_D, Sidenbladh_H, NIPS 13, 2000
+1840 2000/ParraSpenceSajda: Parra_L, Sajda_P, Spence_C, NIPS 13, 2000
+1841 2000/PavlovicRehgMacCormick: MacCormick_J, Pavlovi\c_V, Rehg_J_M, NIPS 13, 2000
+1842 2000/PedersenApostolopoulosWhittaker: Apostolopoulos_D, Pedersen_L, Whittaker_R, NIPS 13, 2000
+1843 2000/Penev: Penev_P_S, NIPS 13, 2000
+1844 2000/Perez-CruzAlarcon-DianaNavia-VazquezArtes-Rodriguez: Alarcon-Diana_P_L, Artes-Rodriguez_A, Navia-Vazquez_A, Perez-Cruz_F, NIPS 13, 2000
+1845 2000/PunyakanokRoth: Punyakanok_V, Roth_D, NIPS 13, 2000
+1846 2000/RasmussenGhahramani: Ghahramani_Z, Rasmussen_C, NIPS 13, 2000
+1847 2000/Roweis: Roweis_S, NIPS 13, 2000
+1848 2000/SallansHinton: Hinton_G, Sallans_B, NIPS 13, 2000
+1849 2000/SaonPadmanabhan: Padmanabhan_M, Saon_G, NIPS 13, 2000
+1850 2000/SaulAllen: Allen_J_B, Saul_L_K, NIPS 13, 2000
+1851 2000/ScarpettaLiHertz: Hertz_J, Li_Z, Scarpetta_S, NIPS 13, 2000
+1852 2000/SchneidmanBrennerTishbySteveninckBialek: Bialek_W, Brenner_N, DeRuyterVanSteveninck_R, Schneidman_E, Tishby_N, NIPS 13, 2000
+1853 2000/SchodlEssa: Essa_I, Schodl_A, NIPS 13, 2000
+1854 2000/Scholkopf: Scholkopf_B, NIPS 13, 2000
+1855 2000/SchwartzSimoncelli: Schwartz_O, Simoncelli_E, NIPS 13, 2000
+1856 2000/Shelton: Shelton_C_R, NIPS 13, 2000
+1857 2000/ShrikiSompolinskyLee: Lee_D_D, Shriki_O, Sompolinski_H, NIPS 13, 2000
+1858 2000/SimoniCymbalyukSorensenCalabreseDeWeerth: Calabrese_R, Cymbalyuk_G_S, DeWeerth_S, Simoni_M_F, Sorensen_M_Q, NIPS 13, 2000
+1859 2000/SlaneyCovell: Covell_M, Slaney_M, NIPS 13, 2000
+1860 2000/SmithCottrellAnderson: Anderson_K_L, Cottrell_G, Smith_M_A, NIPS 13, 2000
+1861 2000/SmolaBartlett: Bartlett_P, Smola_A_J, NIPS 13, 2000
+1862 2000/SmolaOvariWilliamson: Ovari_Z_L, Smola_A_J, Williamson_R, NIPS 13, 2000
+1863 2000/St-AubinHoeyBoutilier: Boutilier_C, Hoey_J, St-Aubin_R, NIPS 13, 2000
+1864 2000/StillScholkopfHeppDouglas: Douglas_R_J, Hepp_K, Scholkopf_B, Still_S, NIPS 13, 2000
+1865 2000/SzummerJaakkola: Jaakkola_T, Szummer_M, NIPS 13, 2000
+1866 2000/Tanaka: Tanaka_T, NIPS 13, 2000
+1867 2000/TchorzKleinschmidtKollmeier: Kleinschmidt_M, Kollmeier_B, Tchorz_J, NIPS 13, 2000
+1868 2000/TehHinton: Hinton_G, Teh_Y_W, NIPS 13, 2000
+1869 2000/TenenbaumGriffiths: Griffiths_T_L, Tenenbaum_J, NIPS 13, 2000
+1870 2000/Tipping: Tipping_M_E, NIPS 13, 2000
+1871 2000/TishbySlonim: Slonim_N, Tishby_N, NIPS 13, 2000
+1872 2000/Tjan: Tjan_B_S, NIPS 13, 2000
+1873 2000/TongKoller: Koller_D, Tong_S, NIPS 13, 2000
+1874 2000/Tresp: Tresp_V, NIPS 13, 2000
+1875 2000/VasconcelosLippman: Lippman_A, Vasconcelos_N, NIPS 13, 2000
+1876 2000/VicenteSaadKabashima: Kabashima_Y, Saad_D, Vicente_R, NIPS 13, 2000
+1877 2000/Vreeswijk: VanVreeswijk_C, NIPS 13, 2000
+1878 2000/WainwrightSudderthWillsky: Sudderth_E_B, Wainwright_M, Willsky_A, NIPS 13, 2000
+1879 2000/Watanabe: Watanabe_S, NIPS 13, 2000
+1880 2000/WestonMukherjeeChapellePontilPoggioVapnik: Chapelle_O, Mukherjee_S, Poggio_T, Pontil_M, Vapnik_V, Weston_J, NIPS 13, 2000
+1881 2000/Williams: Williams_C, NIPS 13, 2000
+1882 2000/WilliamsSeeger: Seeger_M, Williams_C, NIPS 13, 2000
+1883 2000/Winther: Winther_O, NIPS 13, 2000
+1884 2000/WongNishimori: Nishimori_H, Wong_K_Y_M, NIPS 13, 2000
+1885 2000/XieHahnloserSeung: Hahnloser_R, Seung_H_S, Xie_X, NIPS 13, 2000
+1886 2000/YedidiaFreemanWeiss: Freeman_W, Weiss_Y, Yedidia_J_S, NIPS 13, 2000
+1887 2000/ZemelPitassi: Pitassi_T, Zemel_R, NIPS 13, 2000
+1888 2000/ZengerKoch: Koch_C, Zenger_B, NIPS 13, 2000
+1889 2000/Zhang1: Zhang_T, NIPS 13, 2000
+1890 2000/Zhang2: Zhang_T, NIPS 13, 2000
+1891 2001/AA01: Beal_M, Ghahramani_Z, Rasmussen_C, NIPS 14, 2001
+1892 2001/AA02: Teh_Y_W, Welling_M, NIPS 14, 2001
+1893 2001/AA03: Bhattacharyya_C, Ghaoui_L_E, Jordan_M, Lanckriet_G, NIPS 14, 2001
+1894 2001/AA04: Farias_D_P_d, Roy_B, NIPS 14, 2001
+1895 2001/AA05: Hinton_G, Roweis_S, Saul_L_K, NIPS 14, 2001
+1896 2001/AA06: Ghahramani_Z, Rasmussen_C, NIPS 14, 2001
+1897 2001/AA07: Figueiredo_M_A_T, NIPS 14, 2001
+1898 2001/AA08: Gottlieb_A, Horn_D, NIPS 14, 2001
+1899 2001/AA10: Kohlmorgen_J, Lemm_S, NIPS 14, 2001
+1900 2001/AA11: Goldman_S_A, Zhang_Q, NIPS 14, 2001
+1901 2001/AA12: Golland_P, NIPS 14, 2001
+1902 2001/AA13: Hastie_T, Zhu_J, NIPS 14, 2001
+1903 2001/AA14: Wersing_H, NIPS 14, 2001
+1904 2001/AA15: Agakov_F, Felderhof_S_N, Williams_C, NIPS 14, 2001
+1905 2001/AA16: Cristianini_N, Kandola_J, Shawe-Taylor_J, NIPS 14, 2001
+1906 2001/AA17: Pelillo_M, NIPS 14, 2001
+1907 2001/AA18: Roberts_S, Sykacek_P, NIPS 14, 2001
+1908 2001/AA19: Obermayer_K, Vollgraf_R, NIPS 14, 2001
+1909 2001/AA20: Nakai_M, Noma_K_I, Sagayama_S, Shimodaira_H, NIPS 14, 2001
+1910 2001/AA21: Seeger_M, NIPS 14, 2001
+1911 2001/AA22: Koller_D, Ormoneit_D, Segal_E, NIPS 14, 2001
+1912 2001/AA23: Friedman_N, Slonim_N, Tishby_N, NIPS 14, 2001
+1913 2001/AA24: El-Yaniv_R, Souroujon_O, NIPS 14, 2001
+1914 2001/AA25: Domeniconi_C, Gunopulos_D, NIPS 14, 2001
+1915 2001/AA26: Rangarajan_A, Yuille_A, NIPS 14, 2001
+1916 2001/AA27: Collins_M, Dasgupta_S, Schapire_R, NIPS 14, 2001
+1917 2001/AA28: Jordan_M, Ng_A_Y, NIPS 14, 2001
+1918 2001/AA29: Kearns_M, Littman_M, Singh_S, NIPS 14, 2001
+1919 2001/AA30: Bengio_S, Bengio_Y, Collobert_R, NIPS 14, 2001
+1920 2001/AA31: Haffner_P, NIPS 14, 2001
+1921 2001/AA32: Chapelle_O, Scholkopf_B, NIPS 14, 2001
+1922 2001/AA33: Kivinen_J, Smola_A_J, Williamson_R, NIPS 14, 2001
+1923 2001/AA34: Harmeling_S, Kawanabe_M, Muller_K, Ziehe_A, NIPS 14, 2001
+1924 2001/AA35: Jordan_M, Ng_A_Y, Weiss_Y, NIPS 14, 2001
+1925 2001/AA36: Jaakkola_T, Szummer_M, NIPS 14, 2001
+1926 2001/AA37: Frey_B_J, Jojic_N, NIPS 14, 2001
+1927 2001/AA38: Langford_J, Thrun_S, Verma_V, NIPS 14, 2001
+1928 2001/AA39: Frey_B_J, Koetter_R, Petrovic_N, NIPS 14, 2001
+1929 2001/AA40: Frey_B_J, Jojic_N, Kannan_A, NIPS 14, 2001
+1930 2001/AA41: Ding_C, Gu_M, He_X, Simon_H, Zha_H, NIPS 14, 2001
+1931 2001/AA42: Belkin_M, Niyogi_P, NIPS 14, 2001
+1932 2001/AA43: Zhang_T, NIPS 14, 2001
+1933 2001/AA44: Ambroise_C, Grandvalet_Y, dAlche-Buc_F, NIPS 14, 2001
+1934 2001/AA45: Elisseeff_A, Weston_J, NIPS 14, 2001
+1935 2001/AA46: Bennett_K, Bi_J, NIPS 14, 2001
+1936 2001/AA47: Hinton_G, Paccanaro_A, NIPS 14, 2001
+1937 2001/AA48: Fine_S, Scheinberg_K, NIPS 14, 2001
+1938 2001/AA49: Meinicke_P, Ritter_H, NIPS 14, 2001
+1939 2001/AA50: Bach_F_R, Jordan_M, NIPS 14, 2001
+1940 2001/AA51: Jaakkola_T, Siegelmann_H, NIPS 14, 2001
+1941 2001/AA52: Lee_D_D, Saul_L_K, NIPS 14, 2001
+1942 2001/AA53: Blei_D, Jordan_M, Ng_A_Y, NIPS 14, 2001
+1943 2001/AA54: Caruana_R, Langford_J, NIPS 14, 2001
+1944 2001/AA55: Torkkola_K, NIPS 14, 2001
+1945 2001/AA56: Kawanabe_M, Muller_K, Ratsch_G, Sonnenburg_S, Tsuda_K, NIPS 14, 2001
+1946 2001/AA57: Domingos_P, Hulten_G, NIPS 14, 2001
+1947 2001/AA58: Collins_M, Duffy_N, NIPS 14, 2001
+1948 2001/AA59: Csato_L, Opper_M, Winther_O, NIPS 14, 2001
+1949 2001/AA60: Andrieu_C, Doucet_A, Freitas_N_d, NIPS 14, 2001
+1950 2001/AA61: Bengio_Y, Vincent_P, NIPS 14, 2001
+1951 2001/AA62: Fox_D, NIPS 14, 2001
+1952 2001/AA63: Zadrozny_B, NIPS 14, 2001
+1953 2001/AA64: Murphy_K_P, Paskin_M_A, NIPS 14, 2001
+1954 2001/AA65: Crammer_K, Singer_Y, NIPS 14, 2001
+1955 2001/AA66: Rangarajan_A, Yuille_A, NIPS 14, 2001
+1956 2001/AA67: Jaakkola_T, Wainwright_M, Willsky_A, NIPS 14, 2001
+1957 2001/AP01: Raphael_C, NIPS 14, 2001
+1958 2001/AP02: Franklin_J_A, NIPS 14, 2001
+1959 2001/AP03: Burges_C, Platt_J_C, Swenson_S, Weare_C, Zheng_A, NIPS 14, 2001
+1960 2001/AP04: Grothmann_R, Neuneier_R, Zimmermann_H_G, NIPS 14, 2001
+1961 2001/AP05: Bishop_C, Lawrence_N_D, Rowstron_A_I_T, Taylor_M_J, NIPS 14, 2001
+1962 2001/AP06: Cadez_I_V, Smyth_P, NIPS 14, 2001
+1963 2001/AP07: Ontrup_J, Ritter_H, NIPS 14, 2001
+1964 2001/AP08: Bradley_P_S, Cadez_I_V, NIPS 14, 2001
+1965 2001/AP09: Cemgil_A_T, Kappen_B, NIPS 14, 2001
+1966 2001/AP10: Lemmen_C, Liao_J, Mathieson_M, Ratsch_G, Warmuth_M_K, NIPS 14, 2001
+1967 2001/AP11: Brown_T_X, NIPS 14, 2001
+1968 2001/AP12: Yang_M_H, NIPS 14, 2001
+1969 2001/AP13: Griffiths_T_L, Tenenbaum_J, NIPS 14, 2001
+1970 2001/AP14: Colagrosso_M_D, Dodier_R, Guerra-Salcedo_C, Mozer_M_C, Wolniewicz_R, NIPS 14, 2001
+1971 2001/AP15: Bengio_Y, Chapados_N, Dugas_C, Ghosn_J, Meng_L, Takeuchi_I, Vincent_P, NIPS 14, 2001
+1972 2001/AP16: Isbell_C_L, Kearns_M, Shelton_C_R, Singh_S, Stone_P, NIPS 14, 2001
+1973 2001/AP17: Domingos_P, Richardson_M, NIPS 14, 2001
+1974 2001/CN01: Guestrin_C, Koller_D, Parr_R, NIPS 14, 2001
+1975 2001/CN02: Bartlett_P, Baxter_J, Greensmith_E, NIPS 14, 2001
+1976 2001/CN03: Munos_R, NIPS 14, 2001
+1977 2001/CN04: Even-Dar_E, Mansour_Y, NIPS 14, 2001
+1978 2001/CN05: Bakker_B, NIPS 14, 2001
+1979 2001/CN06: Mannor_S, Shimkin_N, NIPS 14, 2001
+1980 2001/CN07: Dietterich_T, Wang_X, NIPS 14, 2001
+1981 2001/CN08: Grudic_G, Ungar_L_H, NIPS 14, 2001
+1982 2001/CN09: Koenig_S, Likhachev_M, NIPS 14, 2001
+1983 2001/CN10: Dietterich_T, Wang_X, NIPS 14, 2001
+1984 2001/CN11: Kakade_S, NIPS 14, 2001
+1985 2001/CN12: Littman_M, Singh_S, Sutton_R, NIPS 14, 2001
+1986 2001/CN13: Lagoudakis_M_G, Parr_R, NIPS 14, 2001
+1987 2001/CN14: Patrascu_R, Schuurmans_D, NIPS 14, 2001
+1988 2001/CN15: Chang_Y_H, Kaelbling_L_P, NIPS 14, 2001
+1989 2001/CS01: Dayan_P, NIPS 14, 2001
+1990 2001/CS02: Ramscar_M, Yarlett_D, NIPS 14, 2001
+1991 2001/CS03: Edelman_S, Hiles_B_P, Intrator_N, Yang_H, NIPS 14, 2001
+1992 2001/CS04: OReilly_R_C, Soto_R, NIPS 14, 2001
+1993 2001/CS05: Ruml_W, NIPS 14, 2001
+1994 2001/CS06: Paskin_M_A, NIPS 14, 2001
+1995 2001/CS07: Colagrosso_M_D, Huber_D_E, Mozer_M_C, NIPS 14, 2001
+1996 2001/CS08: Courville_A_C, Touretzky_D, NIPS 14, 2001
+1997 2001/CS09: Rehder_B, NIPS 14, 2001
+1998 2001/CS10: Busby_R_S, OReilly_R_C, NIPS 14, 2001
+1999 2001/CS11: Barto_A, Kositsky_M, NIPS 14, 2001
+2000 2001/CS12: Hanson_S, Negishi_M, NIPS 14, 2001
+2001 2001/CS13: Shapiro_J, Wearden_J, NIPS 14, 2001
+2002 2001/CS14: Jurafsky_D, Narayanan_S, NIPS 14, 2001
+2003 2001/CS15: Jacobs_D, Liu_Z, Rokers_B, Rudra_A, NIPS 14, 2001
+2004 2001/CS16: Klein_D, Manning_C_D, NIPS 14, 2001
+2005 2001/IM02: Delbruck_T, Douglas_R, Indiveri_G, Kramer_J, Liu_S, NIPS 14, 2001
+2006 2001/IM03: Cauwenberghs_G, Genov_R, NIPS 14, 2001
+2007 2001/IM04: Iwata_A, Matsuura_T, Morie_T, Nagata_M, NIPS 14, 2001
+2008 2001/IM05: Bofill_A, Murray_A_F, Thompson_D_P, NIPS 14, 2001
+2009 2001/LT01: Sollich_P, NIPS 14, 2001
+2010 2001/LT02: Kardon_R, Roth_D, Servedio_R, NIPS 14, 2001
+2011 2001/LT03: Amari_S, Ozeki_T, Park_H, NIPS 14, 2001
+2012 2001/LT04: Zhang_T, NIPS 14, 2001
+2013 2001/LT05: Kappen_B, Leisink_M, NIPS 14, 2001
+2014 2001/LT06: Amari_S, Ikeda_S, Tanaka_T, NIPS 14, 2001
+2015 2001/LT07: Cesa-Bianchi_N, Conconi_A, Gentile_C, NIPS 14, 2001
+2016 2001/LT08: Li_F, Wong_K_Y_M, NIPS 14, 2001
+2017 2001/LT09: Lafferty_J, Lebanon_G, NIPS 14, 2001
+2018 2001/LT10: Schmitt_M, NIPS 14, 2001
+2019 2001/LT11: Braun_M_L, Buhmann_J, NIPS 14, 2001
+2020 2001/LT12: Cristianini_N, Kandola_J, Shawe-Taylor_J, NIPS 14, 2001
+2021 2001/LT13: Kowalczyk_A, Smola_A_J, Williamson_R, NIPS 14, 2001
+2022 2001/LT14: Dasgupta_S, Littman_M, McAllester_D, NIPS 14, 2001
+2023 2001/LT15: Mika_S, Ratsch_G, Warmuth_M_K, NIPS 14, 2001
+2024 2001/LT16: Achlioptas_D, McSherry_F, Scholkopf_B, NIPS 14, 2001
+2025 2001/LT17: Cristianini_N, Elisseeff_A, Kandola_J, Shawe-Taylor_J, NIPS 14, 2001
+2026 2001/LT18: Herbrich_R, Williamson_R, NIPS 14, 2001
+2027 2001/LT19: Basalyga_G, Rattray_M, NIPS 14, 2001
+2028 2001/LT20: Hutter_M, NIPS 14, 2001
+2029 2001/LT21: Faul_A_C, Tipping_M_E, NIPS 14, 2001
+2030 2001/LT22: Bialek_W, Nemenman_I, Shafee_F, NIPS 14, 2001
+2031 2001/LT23: Kappen_H_J, Khardon_R, Roth_D, Servedio_R_A, Wiegerinck_W, NIPS 14, 2001
+2032 2001/LT24: Opper_M, Urbanczik_R, NIPS 14, 2001
+2033 2001/LT25: Malzahn_D, Opper_M, NIPS 14, 2001
+2034 2001/LT26: Amari_S, Ikeda_S, Tanaka_T, NIPS 14, 2001
+2035 2001/NS01: Shamir_M, Sompolinski_H, NIPS 14, 2001
+2036 2001/NS02: Anderson_M_J, Chechik_G, Globerson_A, Nelken_I, Tishby_N, Young_E_D, NIPS 14, 2001
+2037 2001/NS03: Amari_S, Wu_S, NIPS 14, 2001
+2038 2001/NS04: Hahnloser_R, Seung_H_S, Xie_X, NIPS 14, 2001
+2039 2001/NS05: Beintema_J_A, Berg_A_V_v_d, Lappe_M, NIPS 14, 2001
+2040 2001/NS06: Ascoli_G_A, Samsonovich_A_V, NIPS 14, 2001
+2041 2001/NS07: Kepecs_A, Raghavachari_S, NIPS 14, 2001
+2042 2001/NS08: Obermayer_K, Wenning_G, NIPS 14, 2001
+2043 2001/NS09: Bienenstock_E, Black_M_J, Donoghue_J, Gao_Y, Shoham_S, NIPS 14, 2001
+2044 2001/NS10: Amari_S, Nakahara_H, NIPS 14, 2001
+2045 2001/NS11: Giese_M, Xie_X, NIPS 14, 2001
+2046 2001/NS12: Colonius_H, Diederich_A, NIPS 14, 2001
+2047 2001/NS14: Chichilnisky_E_J, Schwartz_O, Simoncelli_E, NIPS 14, 2001
+2048 2001/NS15: Dayan_P, Yu_A_J, NIPS 14, 2001
+2049 2001/NS16: Rolls_E_T, Stringer_S_M, Trappenberg_T_P, NIPS 14, 2001
+2050 2001/NS17: Blankertz_B, Curio_G, Muller_K, NIPS 14, 2001
+2051 2001/NS18: Bauml_B, Eggert_J, NIPS 14, 2001
+2052 2001/NS19: Casile_A, Rucci_M, NIPS 14, 2001
+2053 2001/NS20: Latham_P, NIPS 14, 2001
+2054 2001/NS21: Tresch_M_C, dAvella_A, NIPS 14, 2001
+2055 2001/NS22: Donchin_O, Shadmehr_R, NIPS 14, 2001
+2056 2001/NS23: Kepecs_A, Tegner_J, NIPS 14, 2001
+2057 2001/NS24: Matsumoto_N, Okada_M, NIPS 14, 2001
+2058 2001/NS25: Bialek_W, Doupe_A_J, Sen_K, Wright_B_D, NIPS 14, 2001
+2059 2001/SP01: Bilmes_J, Ji_G, Meila_M, NIPS 14, 2001
+2060 2001/SP02: Gales_M, Smith_N, NIPS 14, 2001
+2061 2001/SP03: Brown_A_D, Hinton_G, NIPS 14, 2001
+2062 2001/SP04: Campbell_W_M, NIPS 14, 2001
+2063 2001/SP05: Acero_A, Deng_L, Frey_B_J, Kristjansson_T_T, NIPS 14, 2001
+2064 2001/SP06: Brown_G_J, Wrigley_S_N, NIPS 14, 2001
+2065 2001/SP07: Green_P, Parveen_S, NIPS 14, 2001
+2066 2001/SP08: Kawanabe_M, Meinecke_F, Muller_K, Ziehe_A, NIPS 14, 2001
+2067 2001/SP09: Casey_M, Hershey_J, NIPS 14, 2001
+2068 2001/SP10: Nakamura_S, Yao_K, NIPS 14, 2001
+2069 2001/VS01: Andreani_G, Bartolozzi_C, Bisio_G, Sabatini_S, Solari_F, NIPS 14, 2001
+2070 2001/VS02: Backus_B_T, NIPS 14, 2001
+2071 2001/VS03: Miller_E, Stauffer_C, Tieu_K, NIPS 14, 2001
+2072 2001/VS04: Braun_J, Itti_L, Koch_C, NIPS 14, 2001
+2073 2001/VS05: Shi_J, Yu_S_X, NIPS 14, 2001
+2074 2001/VS06: Rosales_R, Sclaroff_S, NIPS 14, 2001
+2075 2001/VS07: Perona_P, Polito_M, NIPS 14, 2001
+2076 2001/VS08: Jones_M, Viola_P, NIPS 14, 2001
+2077 2001/VS09: Torralba_A, NIPS 14, 2001
+2078 2001/VS10: Williams_L_R, Zweck_J_W, NIPS 14, 2001
+2079 2001/VS11: Heisele_B, Poggio_T, Pontil_M, Serre_T, Vetter_T, NIPS 14, 2001
+2080 2001/VS12: Coughlan_J, Yuille_A, NIPS 14, 2001
+2081 2001/VS13: Mukherjee_S, Sadr_J, Sinha_P, Thoresz_K, NIPS 14, 2001
+2082 2001/VS14: Goncalves_L, Perona_P, Song_Y, NIPS 14, 2001
+2083 2002/AA01: Ghahramani_Z, Rasmussen_C, NIPS 15, 2002
+2084 2002/AA02: Bodoff_D, Wong_K_Y_M, Wu_B, NIPS 15, 2002
+2085 2002/AA03: Jordan_M, Ng_A_Y, Russell_S, Xing_E_P, NIPS 15, 2002
+2086 2002/AA04: Mika_S, Ratsch_G, Smola_A_J, NIPS 15, 2002
+2087 2002/AA05: Fung_G_M, Mangasarian_O, Shavlik_J_W, NIPS 15, 2002
+2088 2002/AA06: Candela_J_Q, Girard_A, Murray-Smith_R, Rasmussen_C, NIPS 15, 2002
+2089 2002/AA07: Crammer_K, Keshet_J, Singer_Y, NIPS 15, 2002
+2090 2002/AA08: Hochreiter_S, Mozer_M_C, Obermayer_K, NIPS 15, 2002
+2091 2002/AA09: Canu_S, Grandvalet_Y, NIPS 15, 2002
+2092 2002/AA11: Smola_A_J, Viswanathan_S, NIPS 15, 2002
+2093 2002/AA12: Gordon_G, NIPS 15, 2002
+2094 2002/AA13: Chapelle_O, Scholkopf_B, Weston_J, NIPS 15, 2002
+2095 2002/AA14: Jaeger_H, NIPS 15, 2002
+2096 2002/AA15: Cortes_C, Haffner_P, Mohri_M, NIPS 15, 2002
+2097 2002/AA16: Herbrich_R, Lawrence_N, Seeger_M, NIPS 15, 2002
+2098 2002/AA17: Braun_M_L, Buhmann_J, Lange_T, Roth_V, NIPS 15, 2002
+2099 2002/AA18: Figueiredo_M_A_T, Jain_A_K, Law_M_H, NIPS 15, 2002
+2100 2002/AA19: Saunders_C, Shawe-Taylor_J, Vinokourov_A, NIPS 15, 2002
+2101 2002/AA20: Rosset_S, Segal_E, NIPS 15, 2002
+2102 2002/AA21: Hastie_T, Tibshirani_R, NIPS 15, 2002
+2103 2002/AA22: Cristianini_N, Kandola_J, Shawe-Taylor_J, NIPS 15, 2002
+2104 2002/AA23: Hinton_G, Welling_M, Zemel_R, NIPS 15, 2002
+2105 2002/AA24: Buntine_W, Fischer_B, Gray_A_G, Schumann_J, NIPS 15, 2002
+2106 2002/AA25: Kegl_B, NIPS 15, 2002
+2107 2002/AA26: Chennubhotla_C, Jepson_A_D, NIPS 15, 2002
+2108 2002/AA27: Jaakkola_T, Steck_H, NIPS 15, 2002
+2109 2002/AA28: DeSilva_V, Tenenbaum_J, NIPS 15, 2002
+2110 2002/AA29: Barber_D, NIPS 15, 2002
+2111 2002/AA30: Saito_K, Ueda_N, NIPS 15, 2002
+2112 2002/AA31: Kawanabe_M, Muller_K, Tsuda_K, NIPS 15, 2002
+2113 2002/AA32: Roberts_S, Sykacek_P, NIPS 15, 2002
+2114 2002/AA33: Moghaddam_B, Shakhnarovich_G, NIPS 15, 2002
+2115 2002/AA34: Ghodsi_A, Schuurmans_D, Southey_F, NIPS 15, 2002
+2116 2002/AA35: Duin_R_P_W, Pekalska_E, Tax_D_M_J, NIPS 15, 2002
+2117 2002/AA36: Grudic_G, Strohmann_T, NIPS 15, 2002
+2118 2002/AA37: Bishop_C, Spiegelhalter_D, Winn_J, NIPS 15, 2002
+2119 2002/AA38: Darwiche_A, Park_J_D, NIPS 15, 2002
+2120 2002/AA39: Har-Peled_S, Roth_D, Zimak_D, NIPS 15, 2002
+2121 2002/AA40: Kearns_M, Ortiz_L_E, NIPS 15, 2002
+2122 2002/AA41: Moore_A, Pelleg_D, NIPS 15, 2002
+2123 2002/AA42: Jaakkola_T, Wainwright_M, Willsky_A, NIPS 15, 2002
+2124 2002/AA43: Buhmann_J, Laub_J, Muller_K, Roth_V, NIPS 15, 2002
+2125 2002/AA44: Bengio_Y, Vincent_P, NIPS 15, 2002
+2126 2002/AA45: Hinton_G, Roweis_S, NIPS 15, 2002
+2127 2002/AA46: Roweis_S, Teh_Y_W, NIPS 15, 2002
+2128 2002/AA47: Cohn_D, NIPS 15, 2002
+2129 2002/AA48: Chechik_G, Tishby_N, NIPS 15, 2002
+2130 2002/AA49: Akaho_S, Amari_S, Fukumizu_K, NIPS 15, 2002
+2131 2002/AA50: Chapelle_O, Elisseeff_A, Scholkopf_B, Vapnik_V, Weston_J, NIPS 15, 2002
+2132 2002/AA51: Chan_K, Lee_T, Sejnowski_T, NIPS 15, 2002
+2133 2002/AA52: Hochreiter_S, Obermayer_K, NIPS 15, 2002
+2134 2002/AA53: Ghahramani_Z, Jin_R, NIPS 15, 2002
+2135 2002/AA54: Jordan_M, Lanckriet_G, el-Ghaoui_L, NIPS 15, 2002
+2136 2002/AA55: Hughes_N_P, Lowe_D, NIPS 15, 2002
+2137 2002/AA56: Japkowicz_N, Marchand_M, Shawe-Taylor_J, Sokolova_M, NIPS 15, 2002
+2138 2002/AA57: Belkin_M, Niyogi_P, NIPS 15, 2002
+2139 2002/AA58: Levin_A, Shashua_A, NIPS 15, 2002
+2140 2002/AA59: Dekel_O, Singer_Y, NIPS 15, 2002
+2141 2002/AA60: Schwaighofer_A, Tresp_V, NIPS 15, 2002
+2142 2002/AA61: Brand_M, NIPS 15, 2002
+2143 2002/AA62: Dimitrov_A, Gedeon_T_S, Parker_A_E, NIPS 15, 2002
+2144 2002/AA63: Altun_Y, Hofmann_T, Johnson_M, NIPS 15, 2002
+2145 2002/AA64: Meinicke_P, Ritter_H, Twellmann_T, NIPS 15, 2002
+2146 2002/AA65: Li_S_Z, Shum_H, Zhang_H, Zhang_Z, NIPS 15, 2002
+2147 2002/AA66: Quinonero-Candela_J, Winther_O, NIPS 15, 2002
+2148 2002/AA67: Bach_F_R, Jordan_M, NIPS 15, 2002
+2149 2002/AA68: Ross_D_A, Zemel_R, NIPS 15, 2002
+2150 2002/AA69: Jaakkola_T, Szummer_M, NIPS 15, 2002
+2151 2002/AA70: Leith_D_J, Leithead_W_E, Murray-Smith_R, Rasmussen_C, Solak_E, NIPS 15, 2002
+2152 2002/AA71: Lee_D_D, Saul_L_K, Sha_F, NIPS 15, 2002
+2153 2002/AA72: Darrell_T, Rahimi_A, NIPS 15, 2002
+2154 2002/AA73: Fox_D, Kwok_C, Meila_M, NIPS 15, 2002
+2155 2002/AP01: Marthi_B, Milch_B, Pasula_H, Russell_S, Shpitser_I, NIPS 15, 2002
+2156 2002/AP02: Mayer_P, Muller_G, Scheel_A_K, Schwaighofer_A, Tresp_V, NIPS 15, 2002
+2157 2002/AP03: Eskin_E, Leslie_C, Noble_W_S, Weston_J, NIPS 15, 2002
+2158 2002/AP04: Kanehisa_M, Vert_J, NIPS 15, 2002
+2159 2002/AP05: DeFreitas_N, Morales-Menendez_R, Poole_D, NIPS 15, 2002
+2160 2002/AP06: Pavlov_D_Y, Pennock_D_M, NIPS 15, 2002
+2161 2002/AP07: Baldi_P, Frasconi_P, Pollastri_G, Vullo_A, NIPS 15, 2002
+2162 2002/AP08: Weiss_Y, Yanover_C, NIPS 15, 2002
+2163 2002/AP09: Ari_I, Brandt_S_A, Gramacy_R_B, Warmuth_M_K, NIPS 15, 2002
+2164 2002/AP10: Cristianini_N, Shawe-Taylor_J, Vinokourov_A, NIPS 15, 2002
+2165 2002/AP11: Cohen_W_W, NIPS 15, 2002
+2166 2002/AP12: Jordan_M, Karp_R_M, Russell_S, Xing_E_P, NIPS 15, 2002
+2167 2002/AP13: Cadez_I_V, Kamath_C, Kirshner_S, Smyth_P, NIPS 15, 2002
+2168 2002/AP14: Brochu_E, DeFreitas_N, NIPS 15, 2002
+2169 2002/AP15: Brent_M_R, Snover_M_G, NIPS 15, 2002
+2170 2002/CN01: Ijspeert_A_J, Nakanishi_J, Schaal_S, NIPS 15, 2002
+2171 2002/CN02: Porr_B, Worgotter_F, NIPS 15, 2002
+2172 2002/CN03: Atkeson_C, Morimoto_J, NIPS 15, 2002
+2173 2002/CN04: Schmidhuber_J, NIPS 15, 2002
+2174 2002/CN05: Boutilier_C, Poupart_P, NIPS 15, 2002
+2175 2002/CN06: Schoknecht_R, NIPS 15, 2002
+2176 2002/CN07: Koenig_S, Likhachev_M, NIPS 15, 2002
+2177 2002/CN08: Sandholm_T, Wang_X, NIPS 15, 2002
+2178 2002/CN09: Merke_A, Schoknecht_R, NIPS 15, 2002
+2179 2002/CN10: DeFarias_D_P, Van-Roy_B, NIPS 15, 2002
+2180 2002/CN11: Perkins_T_J, Precup_D, NIPS 15, 2002
+2181 2002/CN12: Brafman_R_I, Tennenholtz_M, NIPS 15, 2002
+2182 2002/CN13: Atkeson_C, Morimoto_J, NIPS 15, 2002
+2183 2002/CN14: Mahadevan_S, Rohanimanesh_K, NIPS 15, 2002
+2184 2002/CN15: Lagoudakis_M_G, Parr_R, NIPS 15, 2002
+2185 2002/CN16: Gordon_G, Roy_N, NIPS 15, 2002
+2186 2002/CS01: Klein_D, Manning_C_D, NIPS 15, 2002
+2187 2002/CS02: Griffiths_T_L, Steyvers_M, NIPS 15, 2002
+2188 2002/CS03: Dayan_P, Kali_S, NIPS 15, 2002
+2189 2002/CS04: Jordan_M, Todorov_E, NIPS 15, 2002
+2190 2002/CS05: Fass_D, Feldman_J, NIPS 15, 2002
+2191 2002/CS06: Griffiths_T_L, Tenenbaum_J, NIPS 15, 2002
+2192 2002/CS07: Zuidema_W, NIPS 15, 2002
+2193 2002/CS08: Sanjana_N_E, Tenenbaum_J, NIPS 15, 2002
+2194 2002/CS09: Lee_M_D, Navarro_D_J, NIPS 15, 2002
+2195 2002/CS10: Malmberg_K_J, Shiffrin_R_M, Zeelenberg_R, NIPS 15, 2002
+2196 2002/CS11: Danks_D, Griffiths_T_L, Tenenbaum_J, NIPS 15, 2002
+2197 2002/CS12: Dominguez_M, Jacobs_R, NIPS 15, 2002
+2198 2002/CS13: Courville_A_C, Daw_N, Touretzky_D, NIPS 15, 2002
+2199 2002/CS14: Edelman_S, Horn_D, Ruppin_E, Solan_Z, NIPS 15, 2002
+2200 2002/IM01: Romariz_A_R_S, Wagner_K, NIPS 15, 2002
+2201 2002/IM02: Boegershausen_M, Liu_S, Suter_P, NIPS 15, 2002
+2202 2002/IM03: Bridges_S, Diorio_C, Figueroa_M, Hsu_D, NIPS 15, 2002
+2203 2002/IM04: Indiveri_G, NIPS 15, 2002
+2204 2002/IM05: Carmona_R, Dominguez-Castro_R, Espejo_S, Jimenez-Garrido_F, Rodriguez-Vazquez_A, NIPS 15, 2002
+2205 2002/IM06: Heumann_M, Hoppe_F, Kaper_M, Meinicke_P, Ritter_H, NIPS 15, 2002
+2206 2002/IM07: Blankertz_B, Curio_G, Dornhege_G, Muller_K, NIPS 15, 2002
+2207 2002/IM08: Heinzle_J, Stocker_A, NIPS 15, 2002
+2208 2002/IM09: Elliott_T, Kramer_J, NIPS 15, 2002
+2209 2002/IM10: Boahen_K, Taba_B, NIPS 15, 2002
+2210 2002/IM11: Adlerstein_M_S, Cauwenberghs_G, Goldberg_D_H, Philipp_R, Tenore_F, Vogelstein_R_J, NIPS 15, 2002
+2211 2002/IM12: Bridges_S, Diorio_C, Figueroa_M, Hsu_D, NIPS 15, 2002
+2212 2002/LT01: Meir_R, Zhang_T, NIPS 15, 2002
+2213 2002/LT02: Malzahn_D, Opper_M, NIPS 15, 2002
+2214 2002/LT03: Slonim_N, Weiss_Y, NIPS 15, 2002
+2215 2002/LT04: Heskes_T, NIPS 15, 2002
+2216 2002/LT05: McAllester_D, Ortiz_L, NIPS 15, 2002
+2217 2002/LT06: Nowak_R, Scott_C, NIPS 15, 2002
+2218 2002/LT07: Shawe-Taylor_J, Williams_C, NIPS 15, 2002
+2219 2002/LT08: Lafferty_J, Lebanon_G, NIPS 15, 2002
+2220 2002/LT09: Shapiro_J, NIPS 15, 2002
+2221 2002/LT10: Amari_S, Watanabe_S, NIPS 15, 2002
+2222 2002/LT11: Bousquet_O, Herrmann_D_J_L, NIPS 15, 2002
+2223 2002/LT12: Murayama_T, Okada_M, NIPS 15, 2002
+2224 2002/LT13: Lafferty_J, Lebanon_G, NIPS 15, 2002
+2225 2002/LT14: Langford_J, Shawe-Taylor_J, NIPS 15, 2002
+2226 2002/LT16: Heskes_T, Wiegerinck_W, NIPS 15, 2002
+2227 2002/LT17: Kleinberg_J, NIPS 15, 2002
+2228 2002/LT18: Zhang_T, NIPS 15, 2002
+2229 2002/LT19: Crammer_K, Gilad-Bachrach_R, Navot_A, Tishby_N, NIPS 15, 2002
+2230 2002/LT20: Cesa-Bianchi_N, Conconi_A, Gentile_C, NIPS 15, 2002
+2231 2002/LT21: Ong_C_S, Smola_A_J, Williamson_R, NIPS 15, 2002
+2232 2002/NS01: DeWeese_M, Zador_A_M, NIPS 15, 2002
+2233 2002/NS02: Linden_J_F, Sahani_M, NIPS 15, 2002
+2234 2002/NS03: Bienenstock_E, Black_M_J, Donoghue_J, Gao_Y, Serruya_M, Shaikhouni_A, Wu_W, NIPS 15, 2002
+2235 2002/NS04: Paz_R, Shpigelman_L, Singer_Y, Vaadia_E, NIPS 15, 2002
+2236 2002/NS05: Machens_C_K, Wehr_M, Zador_A_M, NIPS 15, 2002
+2237 2002/NS06: Hurri_J, Hyvarinen_A, NIPS 15, 2002
+2238 2002/NS07: Barber_D, NIPS 15, 2002
+2239 2002/NS08: Dayan_P, Yu_A, NIPS 15, 2002
+2240 2002/NS09: Gruber_A, Houk_J, Solla_S_A, NIPS 15, 2002
+2241 2002/NS10: Paninski_L, NIPS 15, 2002
+2242 2002/NS11: Chklovskii_D, Stepanyants_A, NIPS 15, 2002
+2243 2002/NS12: Bethge_M, Pawelzik_K, Rotermund_D, NIPS 15, 2002
+2244 2002/NS13: Berry_M, Bialek_W, Schneidman_E, NIPS 15, 2002
+2245 2002/NS14: Albright_T, Movellan_J_R, Sejnowski_T, Wachtler_T, NIPS 15, 2002
+2246 2002/NS15: Maass_W, Markram_H, Natschlager_T, NIPS 15, 2002
+2247 2002/NS16: Dayan_P, Deback_G, Sahani_M, NIPS 15, 2002
+2248 2002/NS17: Holub_A, Laurent_G, Perona_P, NIPS 15, 2002
+2249 2002/NS18: Eisele_M, Miller_K_D, NIPS 15, 2002
+2250 2002/NS19: Blais_B, Cooper_L_N, Shouval_H, Yeung_L, NIPS 15, 2002
+2251 2002/NS20: Bray_A, Martinez_D, NIPS 15, 2002
+2252 2002/NS21: Bialek_W, Rust_N_C, Sharpee_T, NIPS 15, 2002
+2253 2002/NS22: Banerjee_A, Pouget_A, NIPS 15, 2002
+2254 2002/NS23: Hoyer_P, Hyvarinen_A, NIPS 15, 2002
+2255 2002/NS24: Fishbach_A, May_B_J, NIPS 15, 2002
+2256 2002/NS25: Eurich_C, NIPS 15, 2002
+2257 2002/NS26: Linden_J_F, Sahani_M, NIPS 15, 2002
+2258 2002/NS27: Nykamp_D_Q, NIPS 15, 2002
+2259 2002/SP02: Jang_G, Lee_T, NIPS 15, 2002
+2260 2002/SP03: Isbell_C_L, LeCun_Y, Lee_D_D, Saul_L_K, NIPS 15, 2002
+2261 2002/SP04: Hermansky_H, Kajarekar_S_S, NIPS 15, 2002
+2262 2002/SP05: Godsill_S_J, Wolfe_P_J, NIPS 15, 2002
+2263 2002/SP06: Attias_H, NIPS 15, 2002
+2264 2002/SP07: Bengio_S, NIPS 15, 2002
+2265 2002/SP08: Hu_G, Wang_D, NIPS 15, 2002
+2266 2002/SP09: Ben-Reuven_E, Singer_Y, NIPS 15, 2002
+2267 2002/SP10: Minami_Y, Nakamura_A, Ueda_N, Watanabe_S, NIPS 15, 2002
+2268 2002/VS01: Levin_A, Weiss_Y, Zomet_A, NIPS 15, 2002
+2269 2002/VS02: Fowlkes_C_C, Malik_J, Martin_D, NIPS 15, 2002
+2270 2002/VS03: Frey_B, Jojic_N, Kannan_A, NIPS 15, 2002
+2271 2002/VS04: Bartlett_M, Braathen_B, Littlewort_G, Movellan_J_R, Sejnowski_T, NIPS 15, 2002
+2272 2002/VS05: Bishop_C, Tipping_M_E, NIPS 15, 2002
+2273 2002/VS06: Grimes_D_B, Rao_R_P_N, NIPS 15, 2002
+2274 2002/VS07: Storkey_A_J, NIPS 15, 2002
+2275 2002/VS08: Miller_E_G, Tieu_K, NIPS 15, 2002
+2276 2002/VS09: Darrell_T, Fisher_J, Taycher_L, NIPS 15, 2002
+2277 2002/VS10: Chahl_J_S, Franz_M_O, NIPS 15, 2002
+2278 2002/VS11: Olshausen_B, Sallee_P, NIPS 15, 2002
+2279 2002/VS12: Freeman_W, Torralba_A, NIPS 15, 2002
+2280 2002/VS13: Adelson_E_H, Freeman_W, Tappen_M_F, NIPS 15, 2002
+2281 2002/VS14: Vasconcelos_N, NIPS 15, 2002
+2282 2002/VS15: Hinton_G, Osindero_S, Welling_M, NIPS 15, 2002
+2283 2002/VS16: Karklin_Y, Lewicki_M, NIPS 15, 2002
+2284 2002/VS17: Caputo_B, Dorko_G, NIPS 15, 2002
+2285 2002/VS18: Gross_R, Shi_J, Yu_S_X, NIPS 15, 2002
+2286 2002/VS19: Titsias_M_K, Williams_C, NIPS 15, 2002
+2287 2003/AA01: Freeman_W, Ihler_A_T, Sudderth_E_B, Willsky_A, NIPS 16, 2003
+2288 2003/AA02: Girolami_M, Kaban_A, NIPS 16, 2003
+2289 2003/AA03: Blei_D, Griffiths_T_L, Jordan_M, Tenenbaum_J, NIPS 16, 2003
+2290 2003/AA04: Guestrin_C, Koller_D, Taskar_B, NIPS 16, 2003
+2291 2003/AA05: Graepel_T, Herbrich_R, NIPS 16, 2003
+2292 2003/AA06: Joachims_T, Schultz_M, NIPS 16, 2003
+2293 2003/AA07: Hastie_T, Rosset_S, Tibshirani_R, Zhu_J, NIPS 16, 2003
+2294 2003/AA08: Ratsch_G, Tsuda_K, NIPS 16, 2003
+2295 2003/AA09: Andrews_S, Hofmann_T, NIPS 16, 2003
+2296 2003/AA10: Cristianini_N, DeBie_T, NIPS 16, 2003
+2297 2003/AA11: Bach_F_R, Fukumizu_K, Jordan_M, NIPS 16, 2003
+2298 2003/AA12: Buhmann_J, Fischer_B, Roth_V, NIPS 16, 2003
+2299 2003/AA13: Jiang_T, Li_H, Zhang_K, NIPS 16, 2003
+2300 2003/AA14: Belitski_A, DeCoste_D, Grudic_G, Strohmann_T, NIPS 16, 2003
+2301 2003/AA15: Doucet_A, Godsill_S_J, Vermaak_J, NIPS 16, 2003
+2302 2003/AA16: Gentile_C, NIPS 16, 2003
+2303 2003/AA17: Ralaivola_L, dAlche-Buc_F, NIPS 16, 2003
+2304 2003/AA18: Agakov_F, Welling_M, Williams_C, NIPS 16, 2003
+2305 2003/AA19: Jaakkola_T, Srebro_N, NIPS 16, 2003
+2306 2003/AA20: He_X, Niyogi_P, NIPS 16, 2003
+2307 2003/AA21: Bialek_W, Chigirev_D_V, NIPS 16, 2003
+2308 2003/AA22: Bousquet_O, Gretton_A, Scholkopf_B, Weston_J, Zhou_D, NIPS 16, 2003
+2309 2003/AA23: Bengio_Y, Delalleau_O, Ouimet_M, Paiement_J, Vincent_P, le-Roux_N, NIPS 16, 2003
+2310 2003/AA24: Hertz_T, Shental_N, Weiss_Y, Zomet_A, NIPS 16, 2003
+2311 2003/AA25: Minka_T, Qi_Y, NIPS 16, 2003
+2312 2003/AA26: Agakov_F, Barber_D, NIPS 16, 2003
+2313 2003/AA27: Demmel_J_W, Mizutani_E, NIPS 16, 2003
+2314 2003/AA28: Bottou_L, Le-Cun_Y, NIPS 16, 2003
+2315 2003/AA29: Crammer_K, Kandola_J, Singer_Y, NIPS 16, 2003
+2316 2003/AA30: Carreras_X, Marquez_L, NIPS 16, 2003
+2317 2003/AA31: Amari_S, Cao_J, Cichocki_A, Gu_F, Li_Y, Shishkin_S, NIPS 16, 2003
+2318 2003/AA32: Palmer_J, Rao_B, Wipf_D, NIPS 16, 2003
+2319 2003/AA33: Griffiths_T_L, Kemp_C, Stromsten_S, Tenenbaum_J, NIPS 16, 2003
+2320 2003/AA34: Gray_A, Liu_T, Moore_A, NIPS 16, 2003
+2321 2003/AA35: Paciorek_C_J, Schervish_M_J, NIPS 16, 2003
+2322 2003/AA36: Elkan_C, Hamerly_G, NIPS 16, 2003
+2323 2003/AA37: Weiss_Y, Yanover_C, NIPS 16, 2003
+2324 2003/AA38: Roweis_S, Verbeek_J_J, Vlassis_N, NIPS 16, 2003
+2325 2003/AA39: Bach_F_R, Jordan_M, NIPS 16, 2003
+2326 2003/AA40: Cortes_C, Mohri_M, NIPS 16, 2003
+2327 2003/AA41: Bousquet_O, Lal_T_N, Scholkopf_B, Weston_J, Zhou_D, NIPS 16, 2003
+2328 2003/AA42: Lawrence_N_D, NIPS 16, 2003
+2329 2003/AA43: Ghahramani_Z, Rasmussen_C, Snelson_E, NIPS 16, 2003
+2330 2003/AA44: Borodin_A, El-Yaniv_R, Gogan_V, NIPS 16, 2003
+2331 2003/AA45: Heskes_T, Wiegerinck_W, Zoeter_O, NIPS 16, 2003
+2332 2003/AA46: Teh_Y_W, Welling_M, NIPS 16, 2003
+2333 2003/AA47: Jordan_M, Wainwright_M, NIPS 16, 2003
+2334 2003/AA48: Beygelzimer_A, Rish_I, NIPS 16, 2003
+2335 2003/AA49: Frey_B_J, Morris_Q_D, NIPS 16, 2003
+2336 2003/AA50: Jordan_M, Nguyen_X, NIPS 16, 2003
+2337 2003/AA51: Beal_M, Neal_R_M, Roweis_S, NIPS 16, 2003
+2338 2003/AA52: Felzenszwalb_P_F, Huttenlocher_D_P, Kleinberg_J, NIPS 16, 2003
+2339 2003/AA53: Hinton_G, Mnih_A, Welling_M, NIPS 16, 2003
+2340 2003/AA54: Paskin_M_A, NIPS 16, 2003
+2341 2003/AA55: Storkey_A_J, NIPS 16, 2003
+2342 2003/AA56: Eskin_E, Smola_A, Vishwanathan_V, NIPS 16, 2003
+2343 2003/AA57: Bakir_G_H, Scholkopf_B, Weston_J, NIPS 16, 2003
+2344 2003/AA58: Graepel_T, Herbrich_R, Kharechko_A, Shawe-Taylor_J, NIPS 16, 2003
+2345 2003/AA59: Bar-Hillel_A, Hertz_T, Shental_N, Weinshall_D, NIPS 16, 2003
+2346 2003/AA60: Lange_T, Roth_V, NIPS 16, 2003
+2347 2003/AA61: Dasgupta_S, Kauchak_D, NIPS 16, 2003
+2348 2003/AA62: Dagan_I, Marx_Z, Shamir_E, NIPS 16, 2003
+2349 2003/AA63: Dekel_O, Manning_C, Singer_Y, NIPS 16, 2003
+2350 2003/AA64: Brand_M, NIPS 16, 2003
+2351 2003/AA65: Bengio_Y, Grandvalet_Y, NIPS 16, 2003
+2352 2003/AA66: Jaakkola_T, Steck_H, NIPS 16, 2003
+2353 2003/AA67: Lin_C, Weng_R_C, Wu_T, NIPS 16, 2003
+2354 2003/AA68: Bilmes_J, Ji_G, NIPS 16, 2003
+2355 2003/AA69: McCallum_A, Ng_A_Y, Raina_R, Shen_Y, NIPS 16, 2003
+2356 2003/AA70: Jeon_J, Lavrenko_V, Manmatha_R, NIPS 16, 2003
+2357 2003/AA71: Kearns_M, Ortiz_L, NIPS 16, 2003
+2358 2003/AP01: Platt_J_C, NIPS 16, 2003
+2359 2003/AP02: Grigoras_M, Hoffmann_C, Schwaighofer_A, Tresp_V, NIPS 16, 2003
+2360 2003/AP03: Baker_C, Burgard_W, Ferguson_D, Hahnel_D, Morris_A, Omohundro_Z, Reverte_C, Thayer_S, Thrun_S, Whittaker_C, Whittaker_W, NIPS 16, 2003
+2361 2003/AP04: Elisseeff_A, Leslie_C, Noble_W_S, Weston_J, Zhou_D, NIPS 16, 2003
+2362 2003/AP05: Aiken_A, Jordan_M, Liblit_B, Zheng_A_X, NIPS 16, 2003
+2363 2003/AP06: Hughes_N_P, Roberts_S_J, Tarassenko_L, NIPS 16, 2003
+2364 2003/AP07: Archer_C, Baptista_A, Leen_T, NIPS 16, 2003
+2365 2003/AP08: Marlin_B, NIPS 16, 2003
+2366 2003/AP09: Chalup_S_K, Middleton_R_H, Quinlan_M_J, NIPS 16, 2003
+2367 2003/AP10: Maeda_E, Sasaki_Y, Suzuki_J, NIPS 16, 2003
+2368 2003/AP11: Moore_A, Neill_D_B, NIPS 16, 2003
+2369 2003/AP12: Abbeel_P, Koller_D, Taskar_B, Wong_M, NIPS 16, 2003
+2370 2003/AP13: Agarwal_S, Belongie_S, Laris_C, Price_J_H, Rabinovich_A, NIPS 16, 2003
+2371 2003/AP14: Batzoglou_S, Lee_S, NIPS 16, 2003
+2372 2003/AP15: Chudova_D, Hart_C, Mjolsness_E, Smyth_P, NIPS 16, 2003
+2373 2003/BI01: Nagarajan_S_S, Sahani_M, NIPS 16, 2003
+2374 2003/BI02: Doya_K, Okada_G, Okamoto_Y, Tanaka_S_C, Ueda_K, Yamawaki_S, NIPS 16, 2003
+2375 2003/BI03: Hutchinson_R, Mitchell_T, Wang_X, NIPS 16, 2003
+2376 2003/BI04: Meinertzhagen_I_A, Obermayer_K, Scholz_M, Vollgraf_R, NIPS 16, 2003
+2377 2003/BI05: Birch_G_E, Mason_S_G, Zhou_Y, NIPS 16, 2003
+2378 2003/BI06: Blankertz_B, Curio_G, Dornhege_G, Muller_K, NIPS 16, 2003
+2379 2003/BI07: Jun_S_C, Pearlmutter_B, NIPS 16, 2003
+2380 2003/CN01: Kuss_M, Rasmussen_C, NIPS 16, 2003
+2381 2003/CN02: Gordon_G, Pineau_J, Thrun_S, NIPS 16, 2003
+2382 2003/CN03: Gordon_G, Likhachev_M, Thrun_S, NIPS 16, 2003
+2383 2003/CN04: Kaelbling_L_P, Theocharous_G, NIPS 16, 2003
+2384 2003/CN05: Gardiol_N_H, Kaelbling_L_P, NIPS 16, 2003
+2385 2003/CN06: Parkes_D_C, Singh_S, NIPS 16, 2003
+2386 2003/CN07: Jordan_M, Kim_H_J, Ng_A_Y, Sastry_S, NIPS 16, 2003
+2387 2003/CN08: Chang_Y, Ho_T, Kaelbling_L_P, NIPS 16, 2003
+2388 2003/CN09: DeFarias_D_P, Megiddo_N, NIPS 16, 2003
+2389 2003/CN10: Boutilier_C, Poupart_P, NIPS 16, 2003
+2390 2003/CN11: Bagnell_J_A, Kakade_S, Ng_A_Y, Schneider_J, NIPS 16, 2003
+2391 2003/CN12: Nilim_A, el-Ghaoui_L, NIPS 16, 2003
+2392 2003/CN13: Fern_A, Givan_R, Yoon_S, NIPS 16, 2003
+2393 2003/CN14: Rudary_M_R, Singh_S, NIPS 16, 2003
+2394 2003/CN15: Sandholm_T, Wang_X, NIPS 16, 2003
+2395 2003/CN16: Tesauro_G, NIPS 16, 2003
+2396 2003/CN17: Bererton_C, Gordon_G, Thrun_S, NIPS 16, 2003
+2397 2003/CN18: Moallemi_C_C, Van-Roy_B, NIPS 16, 2003
+2398 2003/CN19: Hauskrecht_M, Kveton_B, NIPS 16, 2003
+2399 2003/CS01: Graf_A_B_A, Wichmann_F_A, NIPS 16, 2003
+2400 2003/CS02: DeSa_V_R, NIPS 16, 2003
+2401 2003/CS03: Lamb_L_C, dAvila-Garcez_A_S, NIPS 16, 2003
+2402 2003/CS04: Toussaint_M, NIPS 16, 2003
+2403 2003/CS05: Kim_W, Myung_I_J, Navarro_D_J, Pitt_M_A, NIPS 16, 2003
+2404 2003/CS06: Coenen_O, Nadal_J, ORegan_J, Philipona_D, NIPS 16, 2003
+2405 2003/CS07: Griffiths_T_L, Tenenbaum_J, NIPS 16, 2003
+2406 2003/CS08: Edelman_S, Horn_D, Ruppin_E, Solan_Z, NIPS 16, 2003
+2407 2003/CS09: Sugita_Y, Tani_J, NIPS 16, 2003
+2408 2003/CS10: Courville_A_C, Daw_N, Gordon_G, Touretzky_D, NIPS 16, 2003
+2409 2003/ET01: Harrison_R, NIPS 16, 2003
+2410 2003/ET02: Boahen_K, Merolla_P, NIPS 16, 2003
+2411 2003/ET03: Horiuchi_T, Shi_R_Z, NIPS 16, 2003
+2412 2003/ET04: Chen_H, Fleury_P, Murray_A_F, NIPS 16, 2003
+2413 2003/ET05: Ricks_B, Ventura_D, NIPS 16, 2003
+2414 2003/ET06: Bofill-i-Petit_A, Murray_A_F, NIPS 16, 2003
+2415 2003/ET07: Shibata_T, Yagi_M, Yamasaki_H, NIPS 16, 2003
+2416 2003/ET08: Etienne-Cummings_R, Lewis_M, Tenore_F, NIPS 16, 2003
+2417 2003/ET09: Shi_B_E, Tsang_E_K_C, NIPS 16, 2003
+2418 2003/LT01: Steinwart_I, NIPS 16, 2003
+2419 2003/LT02: Zhang_T, NIPS 16, 2003
+2420 2003/LT03: Derbeko_P, El-Yaniv_R, Meir_R, NIPS 16, 2003
+2421 2003/LT04: Jaakkola_T, Monteleoni_C, NIPS 16, 2003
+2422 2003/LT05: Daubechies_I, Rudin_C, Schapire_R, NIPS 16, 2003
+2423 2003/LT06: Hatano_K, Warmuth_M_K, NIPS 16, 2003
+2424 2003/LT07: Nowak_R, Scott_C, NIPS 16, 2003
+2425 2003/LT08: Audibert_J, Bousquet_O, NIPS 16, 2003
+2426 2003/LT09: Nouretdinov_I, Shafer_G, Vovk_V, NIPS 16, 2003
+2427 2003/LT10: Donoho_D, Stodden_V, NIPS 16, 2003
+2428 2003/LT11: Zhang_T, NIPS 16, 2003
+2429 2003/LT12: Opper_M, Winther_O, NIPS 16, 2003
+2430 2003/LT13: Bialek_W, Bottou_L, Still_S, NIPS 16, 2003
+2431 2003/LT14: Bartlett_P, Jordan_M, McAuliffe_J_D, NIPS 16, 2003
+2432 2003/LT15: Hoyle_D, Rattray_M, NIPS 16, 2003
+2433 2003/LT16: Malzahn_D, Opper_M, NIPS 16, 2003
+2434 2003/LT17: Seung_H_S, Werfel_J, Xie_X, NIPS 16, 2003
+2435 2003/LT18: Atwal_G_S, Bialek_W, NIPS 16, 2003
+2436 2003/LT19: Chechik_G, Globerson_A, Tishby_N, Weiss_Y, NIPS 16, 2003
+2437 2003/LT20: Bousquet_O, Chapelle_O, Hein_M, NIPS 16, 2003
+2438 2003/LT21: Crammer_K, Dekel_O, Shalev-Shwartz_S, Singer_Y, NIPS 16, 2003
+2439 2003/LT22: Hastie_T, Rosset_S, Zhu_J, NIPS 16, 2003
+2440 2003/NS01: Abeles_M, Aviel_Y, Horn_D, NIPS 16, 2003
+2441 2003/NS02: Maass_W, Natschlager_T, NIPS 16, 2003
+2442 2003/NS03: Hampton_S_K, Park_P, Spencer_D_J, Thomas_P_J, Zurkus_J_P, NIPS 16, 2003
+2443 2003/NS04: Dayan_P, Gruber_A, Gutkin_B_S, Solla_S_A, NIPS 16, 2003
+2444 2003/NS05: Conery_J_S, Dunn_N_A, Lockery_S, NIPS 16, 2003
+2445 2003/NS06: Sahani_M, NIPS 16, 2003
+2446 2003/NS07: Miyawaki_Y, Okada_M, NIPS 16, 2003
+2447 2003/NS09: Paninski_L, Pillow_J, Simoncelli_E, NIPS 16, 2003
+2448 2003/NS10: Paninski_L, NIPS 16, 2003
+2449 2003/NS11: Kording_K_P, Wolpert_D, NIPS 16, 2003
+2450 2003/NS12: Doya_K, Kimura_M, Samejima_K, Ueda_Y, NIPS 16, 2003
+2451 2003/NS13: Porr_B, Saudargiene_A, Worgotter_F, NIPS 16, 2003
+2452 2003/NS14: Anderson_C_H, Fischer_B, NIPS 16, 2003
+2453 2003/NS15: Kelly_R, Lee_T_S, NIPS 16, 2003
+2454 2003/NS16: Eichhorn_J, Kuss_M, Logothetis_N, Rasmussen_C, Scholkopf_B, Tolias_A, Weston_J, Zien_A, NIPS 16, 2003
+2455 2003/SP01: Campbell_J_P, Campbell_W_M, Jones_D_A, Leek_T_R, Reynolds_D_A, NIPS 16, 2003
+2456 2003/SP02: Ho_P_P, Moreno_P_J, Vasconcelos_N, NIPS 16, 2003
+2457 2003/SP03: Achan_K, Frey_B_J, Roweis_S, NIPS 16, 2003
+2458 2003/SP04: Ho_S, Kwok_C, Mak_B, NIPS 16, 2003
+2459 2003/SP05: Becker_S, Bondy_J, Bruce_I, Haykin_S, NIPS 16, 2003
+2460 2003/SP06: Kinoshita_K, Miyoshi_M, Nakatani_T, NIPS 16, 2003
+2461 2003/SP07: Brown_G_J, Roman_N, Wang_D, NIPS 16, 2003
+2462 2003/VB01: Simoncelli_E, Wang_Z, NIPS 16, 2003
+2463 2003/VB02: Bonin_V, Carandini_M, Mante_V, NIPS 16, 2003
+2464 2003/VB03: Beardsley_S_A, Vaina_L, NIPS 16, 2003
+2465 2003/VB04: Fang_F, Kersten_D, Schrater_P, Yuille_A, NIPS 16, 2003
+2466 2003/VB05: Ballard_D, Sprague_N, NIPS 16, 2003
+2467 2003/VB06: Hennig_M_H, Worgotter_F, NIPS 16, 2003
+2468 2003/VB07: Verschure_P, Wyss_R, NIPS 16, 2003
+2469 2003/VM01: Berson_G, Meila_M, Ruiz-Correa_S, Shapiro_L_G, NIPS 16, 2003
+2470 2003/VM02: Freeman_W, Murphy_K, Torralba_A, NIPS 16, 2003
+2471 2003/VM03: Gruber_A, Weiss_Y, NIPS 16, 2003
+2472 2003/VM04: Fink_M, Perona_P, NIPS 16, 2003
+2473 2003/VM05: Mullin_M_D, Rehg_J_M, Wu_J, NIPS 16, 2003
+2474 2003/VM06: Hebert_M, Kumar_S, NIPS 16, 2003
+2475 2003/VM07: Black_M_J, Isard_M, Sigal_L, Sigelman_B_H, NIPS 16, 2003
+2476 2003/VM08: Forsyth_D, Ramanan_D, NIPS 16, 2003
+2477 2003/VM09: Bregler_C, Hertzmann_A, Torresani_L, NIPS 16, 2003
+2478 2003/VM10: Bartlett_M, Chenu_J, Fasel_I, Ishiguro_H, Kanda_T, Littlewort_G, Movellan_J_R, NIPS 16, 2003
+2479 2003/VM11: Kubota_T, Siskind_J_M, Wang_S, NIPS 16, 2003
+2480 2003/VM12: Klassen_E, Liu_X, Mio_W, Srivastava_A, NIPS 16, 2003
+2481 2003/VM13: Pickup_L_C, Roberts_S_J, Zisserman_A, NIPS 16, 2003
+2482 2003/VM14: Ladsariya_A, Minka_T, Rosenberg_C, NIPS 16, 2003
+2483 2003/VM15: Fanti_C, Perona_P, Polito_M, NIPS 16, 2003
